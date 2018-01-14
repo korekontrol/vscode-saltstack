@@ -1,4 +1,4 @@
-# Saltstack for Visual Studio Code
+# SaltStack extension for Visual Studio Code
 
 This extension adds language colorization support for the SaltStack template language to VS Code.
 The language is a yaml with Jinja2 templating.
