@@ -23,8 +23,6 @@ To get started on the extension...
 If you have a previous release of the extension installed and you perform these steps, Code will temporarily override the locally installed version instead for the one you're working on for the second window. The first (main) window will remain to have the locally installed, prior version installed and enabled until an update is available.
 
 ## Credits
-
-## Credits
 Created by [Marek Obuchowicz](https://github.com/marek-obuchowicz) from [KoreKontrol](https://www.korekontrol.eu/).  
 
 Many thanks to William Holroyd.

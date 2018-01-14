@@ -35,7 +35,19 @@
 				"extensions": [
 					".sls"
 				],
-				"configuration": "./sls.configuration.json"
+				"configuration": "./jinja.configuration.json"
+			},
+			{
+				"id": "jinja",
+				"aliases": [
+					"j2",
+					"jinja2"
+				],
+				"extensions": [
+					".jinja",
+					".j2"
+				],
+				"configuration": "./jinja.configuration.json"
 			}
 		],
 		"grammars": [
