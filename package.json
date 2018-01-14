@@ -7,7 +7,7 @@
 	},
 	"license": "MIT",
 	"icon": "icon.png",
-	"description": "SaltStack template language support for Visual Studio Code",
+	"description": "SaltStack jinja template language support",
 	"displayName": "SaltStack",
 	"repository": {
 		"type": "git",
@@ -17,8 +17,7 @@
 		"url": "https://github.com/korekontrol/vscode-saltstack/issues"
 	},
 	"categories": [
-		"Languages",
-		"Snippets"
+		"Languages"
 	],
 	"engines": {
 		"vscode": "^1.19.0"
