@@ -21,7 +21,6 @@ node {
 
 	stage 'Build'
 	sh "npm install"
-	sh "npm run vscode:prepublish"
 
 	stage "Package"
 	def packageJson = readJSON file: 'package.json'
