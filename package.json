@@ -28,7 +28,9 @@
 			{
 				"id": "sls",
 				"aliases": [
-					"SaltStack"
+					"SaltStack",
+					"salt",
+					"pillar"
 				],
 				"extensions": [
 					".sls"
