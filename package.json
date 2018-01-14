@@ -30,7 +30,9 @@
 				"aliases": [
 					"SaltStack"
 				],
-        "extensions": [".sls"],
+				"extensions": [
+					".sls"
+				],
 				"configuration": "./sls.configuration.json"
 			}
 		],
