@@ -38,6 +38,9 @@ node {
 
 	stage "Publish to Marketplace"
 	unstash 'vsix';
+
+  // Token can be obtained from: https://korekontrol-de.visualstudio.com/_details/security/tokens
+  // Max token validity is 1 year
 	withCredentials([[$class: 'StringBinding', credentialsId: 'vscode_marketplace', variable: 'TOKEN']]) {
 		def vsix = findFiles(glob: '**.vsix')
 		sh 'vsce publish -p ${TOKEN} --packagePath' + " ${vsix[0].path}"
