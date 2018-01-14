@@ -1,6 +1,6 @@
 {
 	"name": "saltstack",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"publisher": "korekontrol",
 	"author": {
 		"name": "Marek Obuchowicz"
