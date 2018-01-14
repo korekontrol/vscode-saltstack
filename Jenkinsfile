@@ -1,8 +1,9 @@
 #!/usr/bin/env groovy
 
 def installBuildRequirements(){
-	sh "npm install -g typescript"
-	sh "npm install -g vsce"
+  // Disabled in pipeline. Those commands need to be installed as user root.
+	echo "[DISABLED] sudo npm install -g typescript"
+	echo "[DISABLED] sudo npm install -g vsce"
 }
 
 def buildVscodeExtension(){
