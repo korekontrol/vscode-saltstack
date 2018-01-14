@@ -32,15 +32,15 @@ node {
 }
 
 node {
-	timeout(time:7, unit:'DAYS') {
-		input message:'Approve deployment?', submitter: 'elephant'
-	}
 
 	stage "Publish to Marketplace"
+	timeout(time:1, unit:'DAYS') {
+		input message:'Approve publish to marketplace?', submitter: 'elephant'
+	}
 	unstash 'vsix';
 
-  // Token can be obtained from: https://korekontrol-de.visualstudio.com/_details/security/tokens
-  // Max token validity is 1 year
+	// Token can be obtained from: https://korekontrol-de.visualstudio.com/_details/security/tokens
+	// Max token validity is 1 year
 	withCredentials([[$class: 'StringBinding', credentialsId: 'vscode_marketplace', variable: 'TOKEN']]) {
 		def vsix = findFiles(glob: '**.vsix')
 		sh 'vsce publish -p ${TOKEN} --packagePath' + " ${vsix[0].path}"
