@@ -31,7 +31,7 @@ If you have a previous release of the extension installed and you perform these 
 ## Credits
 Created by [Marek Obuchowicz](https://github.com/marek-obuchowicz) from [KoreKontrol](https://www.korekontrol.eu/).
 
-Many thanks to William Holroyd.
+Many thanks to William Holroyd and Ross Neufeld.
 
 ## License
 [MIT](LICENSE)
