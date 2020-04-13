@@ -1,6 +1,6 @@
 {
 	"name": "saltstack",
-	"version": "0.0.6",
+	"version": "0.0.7",
 	"publisher": "korekontrol",
 	"author": {
 		"name": "Marek Obuchowicz"
@@ -17,7 +17,8 @@
 		"url": "https://github.com/korekontrol/vscode-saltstack/issues"
 	},
 	"categories": [
-		"Languages"
+		"Programming Languages",
+		"Snippets"
 	],
 	"engines": {
 		"vscode": "^1.19.0"
@@ -59,6 +60,12 @@
 				"language": "sls",
 				"scopeName": "text.yaml.jinja",
 				"path": "./syntaxes/sls.json"
+			}
+		],
+		"snippets": [
+			{
+				"language": "sls",
+				"path": "./snippets/test.json"
 			}
 		]
 	}
