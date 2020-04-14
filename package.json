@@ -37,6 +37,18 @@
 				"configuration": "./jinja.configuration.json"
 			},
 			{
+				"id": "tst",
+				"aliases": [
+					"SaltStack",
+					"salt",
+					"saltcheck"
+				],
+				"extensions": [
+					".tst"
+				],
+				"configuration": "./jinja.configuration.json"
+			},
+			{
 				"id": "jinja",
 				"aliases": [
 					"j2",
@@ -59,6 +71,12 @@
 				"language": "sls",
 				"scopeName": "text.yaml.jinja",
 				"path": "./syntaxes/sls.json"
+			}
+		],
+		"snippets": [
+			{
+				"language": "tst",
+				"path": "./snippets/saltcheck.json"
 			}
 		]
 	}

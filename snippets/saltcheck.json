@@ -1,0 +1,16 @@
+{
+    "test state": {
+        "prefix": [
+            "sctest"
+        ],
+        "body": [
+            "${1:testid}:",
+            "  module_and_function: ${2:test.echo}",
+            "  args:",
+            "    - should return",
+            "  assertion: ${3|assertEqual,assertNotEqual,assertTrue,assertFalse,assertIn,assertNotIn,assertGreater,assertGreaterEqual,assertLess,assertLessEqual,assertEmpty,assertNotEmpty|}",
+            "  expected_return: ${4:should return}"
+        ],
+        "description": "saltcheck test"
+    }
+}
