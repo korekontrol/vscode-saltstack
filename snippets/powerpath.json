@@ -1,0 +1,27 @@
+{
+	"powerpath state": {
+		"prefix": [
+			"powerpath."
+		],
+		"body": [
+			"powerpath.${1|license_absent,license_present|}:"
+		],
+		"description": "powerpath state"
+	},
+	"powerpath.license_absent": {
+		"prefix": "powerpath.license_absent:",
+		"body": [
+			"powerpath.license_absent:",
+			"$0"
+		],
+		"description": "powerpath.license_absent:"
+	},
+	"powerpath.license_present": {
+		"prefix": "powerpath.license_present:",
+		"body": [
+			"powerpath.license_present:",
+			"$0"
+		],
+		"description": "powerpath.license_present:"
+	}
+}

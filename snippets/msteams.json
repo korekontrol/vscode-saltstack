@@ -1,0 +1,19 @@
+{
+	"msteams state": {
+		"prefix": [
+			"msteams."
+		],
+		"body": [
+			"msteams.${1|post_card|}:"
+		],
+		"description": "msteams state"
+	},
+	"msteams.post_card": {
+		"prefix": "msteams.post_card:",
+		"body": [
+			"msteams.post_card:",
+			"$0"
+		],
+		"description": "msteams.post_card:"
+	}
+}

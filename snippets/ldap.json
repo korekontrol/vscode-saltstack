@@ -1,0 +1,19 @@
+{
+	"ldap state": {
+		"prefix": [
+			"ldap."
+		],
+		"body": [
+			"ldap.${1|managed|}:"
+		],
+		"description": "ldap state"
+	},
+	"ldap.managed": {
+		"prefix": "ldap.managed:",
+		"body": [
+			"ldap.managed:",
+			"$0"
+		],
+		"description": "ldap.managed:"
+	}
+}

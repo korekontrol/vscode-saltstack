@@ -1,0 +1,19 @@
+{
+	"environ state": {
+		"prefix": [
+			"environ."
+		],
+		"body": [
+			"environ.${1|setenv|}:"
+		],
+		"description": "environ state"
+	},
+	"environ.setenv": {
+		"prefix": "environ.setenv:",
+		"body": [
+			"environ.setenv:",
+			"$0"
+		],
+		"description": "environ.setenv:"
+	}
+}

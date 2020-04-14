@@ -1,0 +1,19 @@
+{
+	"process state": {
+		"prefix": [
+			"process."
+		],
+		"body": [
+			"process.${1|absent|}:"
+		],
+		"description": "process state"
+	},
+	"process.absent": {
+		"prefix": "process.absent:",
+		"body": [
+			"process.absent:",
+			"$0"
+		],
+		"description": "process.absent:"
+	}
+}

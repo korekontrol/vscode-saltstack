@@ -1,0 +1,19 @@
+{
+	"pushover state": {
+		"prefix": [
+			"pushover."
+		],
+		"body": [
+			"pushover.${1|post_message|}:"
+		],
+		"description": "pushover state"
+	},
+	"pushover.post_message": {
+		"prefix": "pushover.post_message:",
+		"body": [
+			"pushover.post_message:",
+			"$0"
+		],
+		"description": "pushover.post_message:"
+	}
+}

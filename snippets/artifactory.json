@@ -1,0 +1,19 @@
+{
+	"artifactory state": {
+		"prefix": [
+			"artifactory."
+		],
+		"body": [
+			"artifactory.${1|downloaded|}:"
+		],
+		"description": "artifactory state"
+	},
+	"artifactory.downloaded": {
+		"prefix": "artifactory.downloaded:",
+		"body": [
+			"artifactory.downloaded:",
+			"$0"
+		],
+		"description": "artifactory.downloaded:"
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"jenkins state": {
+		"prefix": [
+			"jenkins."
+		],
+		"body": [
+			"jenkins.${1|absent,present|}:"
+		],
+		"description": "jenkins state"
+	},
+	"jenkins.absent": {
+		"prefix": "jenkins.absent:",
+		"body": [
+			"jenkins.absent:",
+			"$0"
+		],
+		"description": "jenkins.absent:"
+	},
+	"jenkins.present": {
+		"prefix": "jenkins.present:",
+		"body": [
+			"jenkins.present:",
+			"$0"
+		],
+		"description": "jenkins.present:"
+	}
+}

@@ -1,0 +1,43 @@
+{
+	"alternatives state": {
+		"prefix": [
+			"alternatives."
+		],
+		"body": [
+			"alternatives.${1|auto,install,remove,set|}:"
+		],
+		"description": "alternatives state"
+	},
+	"alternatives.auto": {
+		"prefix": "alternatives.auto:",
+		"body": [
+			"alternatives.auto:",
+			"$0"
+		],
+		"description": "alternatives.auto:"
+	},
+	"alternatives.install": {
+		"prefix": "alternatives.install:",
+		"body": [
+			"alternatives.install:",
+			"$0"
+		],
+		"description": "alternatives.install:"
+	},
+	"alternatives.remove": {
+		"prefix": "alternatives.remove:",
+		"body": [
+			"alternatives.remove:",
+			"$0"
+		],
+		"description": "alternatives.remove:"
+	},
+	"alternatives.set": {
+		"prefix": "alternatives.set:",
+		"body": [
+			"alternatives.set:",
+			"$0"
+		],
+		"description": "alternatives.set:"
+	}
+}

@@ -65,7 +65,487 @@
 		"snippets": [
 			{
 				"language": "sls",
+				"path": "./snippets/alias.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/alternatives.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/ansible.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/archive.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/artifactory.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/beacon.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/bigip.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/blockdev.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/buildout.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/ceph.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/chronos_job.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/cloud.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/cmd.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/composer.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/cryptdev.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/csf.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/disk.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/elasticsearch.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/elasticsearch_index.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/elasticsearch_index_template.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/environ.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/esxdatacenter.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/etcd.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/ethtool.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/event.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/file.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/firewall.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/gem.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/git.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/glassfish.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/gnomedesktop.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/gpg.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/grafana4_dashboard.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/grafana4_datasource.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/grafana4_org.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/grafana4_user.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/grains.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/group.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/highstate_doc.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/host.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/http.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/incron.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/infoblox_a.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/infoblox_cname.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/infoblox_host_record.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/infoblox_range.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/ini.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/iptables.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/jboss7.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/jenkins.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/junos.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/keyboard.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/ldap.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/libcloud_dns.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/libcloud_loadbalancer.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/libcloud_storage.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/locale.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/logrotate.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/loop.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/lxc.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/marathon_app.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/modjk.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/modjk_worker.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/module.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/mount.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/msteams.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/nexus.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/npm.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/openstack_config.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/opsgenie.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/pagerduty.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/pagerduty_escalation_policy.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/pagerduty_schedule.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/pagerduty_service.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/pagerduty_user.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/pip.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/pkgbuild.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/pkgng.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/powerpath.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/process.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/pushover.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/pyenv.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/rbenv.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/rvm.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/salt.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/salt_proxy.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/saltutil.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/schedule.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/serverdensity_device.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/slack.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/smtp.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/solrcloud.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/sqlite3.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/ssh_auth.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/ssh_known_hosts.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/stateconf.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/status.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/statuspage.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/supervisord.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/syslog_ng.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/telemetry_alert.json"
+			},
+			{
+				"language": "sls",
 				"path": "./snippets/test.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/timezone.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/tuned.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/uptime.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/user.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/vault.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/vbox_guest.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/virtualenv.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/winrepo.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/xml.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/zabbix_action.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/zabbix_host.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/zabbix_hostgroup.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/zabbix_mediatype.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/zabbix_template.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/zabbix_user.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/zabbix_usergroup.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/zabbix_usermacro.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/zabbix_valuemap.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/zenoss.json"
 			}
 		]
 	}

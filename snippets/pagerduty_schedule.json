@@ -1,0 +1,27 @@
+{
+	"pagerduty_schedule state": {
+		"prefix": [
+			"pagerduty_schedule."
+		],
+		"body": [
+			"pagerduty_schedule.${1|absent,present|}:"
+		],
+		"description": "pagerduty_schedule state"
+	},
+	"pagerduty_schedule.absent": {
+		"prefix": "pagerduty_schedule.absent:",
+		"body": [
+			"pagerduty_schedule.absent:",
+			"$0"
+		],
+		"description": "pagerduty_schedule.absent:"
+	},
+	"pagerduty_schedule.present": {
+		"prefix": "pagerduty_schedule.present:",
+		"body": [
+			"pagerduty_schedule.present:",
+			"$0"
+		],
+		"description": "pagerduty_schedule.present:"
+	}
+}

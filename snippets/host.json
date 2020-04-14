@@ -1,0 +1,35 @@
+{
+	"host state": {
+		"prefix": [
+			"host."
+		],
+		"body": [
+			"host.${1|absent,only,present|}:"
+		],
+		"description": "host state"
+	},
+	"host.absent": {
+		"prefix": "host.absent:",
+		"body": [
+			"host.absent:",
+			"$0"
+		],
+		"description": "host.absent:"
+	},
+	"host.only": {
+		"prefix": "host.only:",
+		"body": [
+			"host.only:",
+			"$0"
+		],
+		"description": "host.only:"
+	},
+	"host.present": {
+		"prefix": "host.present:",
+		"body": [
+			"host.present:",
+			"$0"
+		],
+		"description": "host.present:"
+	}
+}

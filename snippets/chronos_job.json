@@ -1,0 +1,27 @@
+{
+	"chronos_job state": {
+		"prefix": [
+			"chronos_job."
+		],
+		"body": [
+			"chronos_job.${1|absent,config|}:"
+		],
+		"description": "chronos_job state"
+	},
+	"chronos_job.absent": {
+		"prefix": "chronos_job.absent:",
+		"body": [
+			"chronos_job.absent:",
+			"$0"
+		],
+		"description": "chronos_job.absent:"
+	},
+	"chronos_job.config": {
+		"prefix": "chronos_job.config:",
+		"body": [
+			"chronos_job.config:",
+			"$0"
+		],
+		"description": "chronos_job.config:"
+	}
+}

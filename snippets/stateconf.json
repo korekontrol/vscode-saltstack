@@ -1,0 +1,27 @@
+{
+	"stateconf state": {
+		"prefix": [
+			"stateconf."
+		],
+		"body": [
+			"stateconf.${1|context,set|}:"
+		],
+		"description": "stateconf state"
+	},
+	"stateconf.context": {
+		"prefix": "stateconf.context:",
+		"body": [
+			"stateconf.context:",
+			"$0"
+		],
+		"description": "stateconf.context:"
+	},
+	"stateconf.set": {
+		"prefix": "stateconf.set:",
+		"body": [
+			"stateconf.set:",
+			"$0"
+		],
+		"description": "stateconf.set:"
+	}
+}

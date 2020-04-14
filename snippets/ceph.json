@@ -1,0 +1,19 @@
+{
+	"ceph state": {
+		"prefix": [
+			"ceph."
+		],
+		"body": [
+			"ceph.${1|quorum|}:"
+		],
+		"description": "ceph state"
+	},
+	"ceph.quorum": {
+		"prefix": "ceph.quorum:",
+		"body": [
+			"ceph.quorum:",
+			"$0"
+		],
+		"description": "ceph.quorum:"
+	}
+}

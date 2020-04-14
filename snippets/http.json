@@ -1,0 +1,27 @@
+{
+	"http state": {
+		"prefix": [
+			"http."
+		],
+		"body": [
+			"http.${1|query,wait_for_successful_query|}:"
+		],
+		"description": "http state"
+	},
+	"http.query": {
+		"prefix": "http.query:",
+		"body": [
+			"http.query:",
+			"$0"
+		],
+		"description": "http.query:"
+	},
+	"http.wait_for_successful_query": {
+		"prefix": "http.wait_for_successful_query:",
+		"body": [
+			"http.wait_for_successful_query:",
+			"$0"
+		],
+		"description": "http.wait_for_successful_query:"
+	}
+}

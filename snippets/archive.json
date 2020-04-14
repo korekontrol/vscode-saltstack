@@ -1,0 +1,19 @@
+{
+	"archive state": {
+		"prefix": [
+			"archive."
+		],
+		"body": [
+			"archive.${1|extracted|}:"
+		],
+		"description": "archive state"
+	},
+	"archive.extracted": {
+		"prefix": "archive.extracted:",
+		"body": [
+			"archive.extracted:",
+			"$0"
+		],
+		"description": "archive.extracted:"
+	}
+}

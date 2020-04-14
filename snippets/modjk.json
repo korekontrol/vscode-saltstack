@@ -1,0 +1,43 @@
+{
+	"modjk state": {
+		"prefix": [
+			"modjk."
+		],
+		"body": [
+			"modjk.${1|worker_activated,worker_disabled,worker_recover,worker_stopped|}:"
+		],
+		"description": "modjk state"
+	},
+	"modjk.worker_activated": {
+		"prefix": "modjk.worker_activated:",
+		"body": [
+			"modjk.worker_activated:",
+			"$0"
+		],
+		"description": "modjk.worker_activated:"
+	},
+	"modjk.worker_disabled": {
+		"prefix": "modjk.worker_disabled:",
+		"body": [
+			"modjk.worker_disabled:",
+			"$0"
+		],
+		"description": "modjk.worker_disabled:"
+	},
+	"modjk.worker_recover": {
+		"prefix": "modjk.worker_recover:",
+		"body": [
+			"modjk.worker_recover:",
+			"$0"
+		],
+		"description": "modjk.worker_recover:"
+	},
+	"modjk.worker_stopped": {
+		"prefix": "modjk.worker_stopped:",
+		"body": [
+			"modjk.worker_stopped:",
+			"$0"
+		],
+		"description": "modjk.worker_stopped:"
+	}
+}

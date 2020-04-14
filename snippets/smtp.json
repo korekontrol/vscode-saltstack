@@ -1,0 +1,19 @@
+{
+	"smtp state": {
+		"prefix": [
+			"smtp."
+		],
+		"body": [
+			"smtp.${1|send_msg|}:"
+		],
+		"description": "smtp state"
+	},
+	"smtp.send_msg": {
+		"prefix": "smtp.send_msg:",
+		"body": [
+			"smtp.send_msg:",
+			"$0"
+		],
+		"description": "smtp.send_msg:"
+	}
+}

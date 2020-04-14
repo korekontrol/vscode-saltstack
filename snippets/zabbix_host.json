@@ -1,0 +1,43 @@
+{
+	"zabbix_host state": {
+		"prefix": [
+			"zabbix_host."
+		],
+		"body": [
+			"zabbix_host.${1|absent,assign_templates,deepcopy,present|}:"
+		],
+		"description": "zabbix_host state"
+	},
+	"zabbix_host.absent": {
+		"prefix": "zabbix_host.absent:",
+		"body": [
+			"zabbix_host.absent:",
+			"$0"
+		],
+		"description": "zabbix_host.absent:"
+	},
+	"zabbix_host.assign_templates": {
+		"prefix": "zabbix_host.assign_templates:",
+		"body": [
+			"zabbix_host.assign_templates:",
+			"$0"
+		],
+		"description": "zabbix_host.assign_templates:"
+	},
+	"zabbix_host.deepcopy": {
+		"prefix": "zabbix_host.deepcopy:",
+		"body": [
+			"zabbix_host.deepcopy:",
+			"$0"
+		],
+		"description": "zabbix_host.deepcopy:"
+	},
+	"zabbix_host.present": {
+		"prefix": "zabbix_host.present:",
+		"body": [
+			"zabbix_host.present:",
+			"$0"
+		],
+		"description": "zabbix_host.present:"
+	}
+}

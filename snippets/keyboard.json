@@ -1,0 +1,27 @@
+{
+	"keyboard state": {
+		"prefix": [
+			"keyboard."
+		],
+		"body": [
+			"keyboard.${1|system,xorg|}:"
+		],
+		"description": "keyboard state"
+	},
+	"keyboard.system": {
+		"prefix": "keyboard.system:",
+		"body": [
+			"keyboard.system:",
+			"$0"
+		],
+		"description": "keyboard.system:"
+	},
+	"keyboard.xorg": {
+		"prefix": "keyboard.xorg:",
+		"body": [
+			"keyboard.xorg:",
+			"$0"
+		],
+		"description": "keyboard.xorg:"
+	}
+}

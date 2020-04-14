@@ -1,0 +1,19 @@
+{
+	"vault state": {
+		"prefix": [
+			"vault."
+		],
+		"body": [
+			"vault.${1|policy_present|}:"
+		],
+		"description": "vault state"
+	},
+	"vault.policy_present": {
+		"prefix": "vault.policy_present:",
+		"body": [
+			"vault.policy_present:",
+			"$0"
+		],
+		"description": "vault.policy_present:"
+	}
+}

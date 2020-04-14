@@ -1,0 +1,19 @@
+{
+	"firewall state": {
+		"prefix": [
+			"firewall."
+		],
+		"body": [
+			"firewall.${1|check|}:"
+		],
+		"description": "firewall state"
+	},
+	"firewall.check": {
+		"prefix": "firewall.check:",
+		"body": [
+			"firewall.check:",
+			"$0"
+		],
+		"description": "firewall.check:"
+	}
+}

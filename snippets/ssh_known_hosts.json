@@ -1,0 +1,27 @@
+{
+	"ssh_known_hosts state": {
+		"prefix": [
+			"ssh_known_hosts."
+		],
+		"body": [
+			"ssh_known_hosts.${1|absent,present|}:"
+		],
+		"description": "ssh_known_hosts state"
+	},
+	"ssh_known_hosts.absent": {
+		"prefix": "ssh_known_hosts.absent:",
+		"body": [
+			"ssh_known_hosts.absent:",
+			"$0"
+		],
+		"description": "ssh_known_hosts.absent:"
+	},
+	"ssh_known_hosts.present": {
+		"prefix": "ssh_known_hosts.present:",
+		"body": [
+			"ssh_known_hosts.present:",
+			"$0"
+		],
+		"description": "ssh_known_hosts.present:"
+	}
+}

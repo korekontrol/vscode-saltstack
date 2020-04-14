@@ -1,0 +1,27 @@
+{
+	"loop state": {
+		"prefix": [
+			"loop."
+		],
+		"body": [
+			"loop.${1|until,until_no_eval|}:"
+		],
+		"description": "loop state"
+	},
+	"loop.until": {
+		"prefix": "loop.until:",
+		"body": [
+			"loop.until:",
+			"$0"
+		],
+		"description": "loop.until:"
+	},
+	"loop.until_no_eval": {
+		"prefix": "loop.until_no_eval:",
+		"body": [
+			"loop.until_no_eval:",
+			"$0"
+		],
+		"description": "loop.until_no_eval:"
+	}
+}

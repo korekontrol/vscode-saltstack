@@ -1,0 +1,19 @@
+{
+	"pagerduty state": {
+		"prefix": [
+			"pagerduty."
+		],
+		"body": [
+			"pagerduty.${1|create_event|}:"
+		],
+		"description": "pagerduty state"
+	},
+	"pagerduty.create_event": {
+		"prefix": "pagerduty.create_event:",
+		"body": [
+			"pagerduty.create_event:",
+			"$0"
+		],
+		"description": "pagerduty.create_event:"
+	}
+}

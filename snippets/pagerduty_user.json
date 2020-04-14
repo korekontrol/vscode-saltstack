@@ -1,0 +1,27 @@
+{
+	"pagerduty_user state": {
+		"prefix": [
+			"pagerduty_user."
+		],
+		"body": [
+			"pagerduty_user.${1|absent,present|}:"
+		],
+		"description": "pagerduty_user state"
+	},
+	"pagerduty_user.absent": {
+		"prefix": "pagerduty_user.absent:",
+		"body": [
+			"pagerduty_user.absent:",
+			"$0"
+		],
+		"description": "pagerduty_user.absent:"
+	},
+	"pagerduty_user.present": {
+		"prefix": "pagerduty_user.present:",
+		"body": [
+			"pagerduty_user.present:",
+			"$0"
+		],
+		"description": "pagerduty_user.present:"
+	}
+}
