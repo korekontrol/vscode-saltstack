@@ -12,6 +12,7 @@
 		"prefix": "file.absent:",
 		"body": [
 			"file.absent:",
+			"\t- name: ${1:unique_string}",
 			"$0"
 		],
 		"description": "file.absent:"
@@ -20,6 +21,10 @@
 		"prefix": "file.accumulated:",
 		"body": [
 			"file.accumulated:",
+			"\t- filename: ${1:unique_string}",
+			"\t- text: '${2:unique_string}'",
+			"\t- ${3|require_in,watch_in|}:",
+			"\t\t- file: ${4:unique_string}",
 			"$0"
 		],
 		"description": "file.accumulated:"
@@ -52,6 +57,7 @@
 		"prefix": "file.comment:",
 		"body": [
 			"file.comment:",
+			"\t- regex: ${1:regex_string}",
 			"$0"
 		],
 		"description": "file.comment:"
@@ -68,6 +74,9 @@
 		"prefix": "file.decode:",
 		"body": [
 			"file.decode:",
+			"\t- ${1|encoded_data:,contents_pillar:|} ${2:data_or_pillar}",
+			"\t- filename: ${3:unique_string}",
+			"\t- encoding_type: base64",
 			"$0"
 		],
 		"description": "file.decode:"
@@ -76,6 +85,10 @@
 		"prefix": "file.directory:",
 		"body": [
 			"file.directory:",
+			"\t- user: ${1:root}",
+			"\t- group: ${2:root}",
+			"\t- dir_mode: ${3:755}",
+			"\t- file_mode: ${4:644}",
 			"$0"
 		],
 		"description": "file.directory:"
@@ -84,6 +97,7 @@
 		"prefix": "file.exists:",
 		"body": [
 			"file.exists:",
+			"\t- name: ${1:unique_name}",
 			"$0"
 		],
 		"description": "file.exists:"
@@ -92,6 +106,10 @@
 		"prefix": "file.hardlink:",
 		"body": [
 			"file.hardlink:",
+			"\t- name: ${1:location_to_create}",
+			"\t- target: ${2:location_the_link_points_to}",
+			"\t- force: False",
+			"\t- makedirs: False",
 			"$0"
 		],
 		"description": "file.hardlink:"
@@ -100,6 +118,7 @@
 		"prefix": "file.line:",
 		"body": [
 			"file.line:",
+			"\t- mode: ${1|ensure,replace,delete,insert|}",
 			"$0"
 		],
 		"description": "file.line:"
@@ -116,6 +135,7 @@
 		"prefix": "file.missing:",
 		"body": [
 			"file.missing:",
+			"\t- name: ${1:absolute path which must NOT exist}",
 			"$0"
 		],
 		"description": "file.missing:"
@@ -124,6 +144,10 @@
 		"prefix": "file.mknod:",
 		"body": [
 			"file.mknod:",
+			"\t- ntype: ${1|p,c,b|}",
+			"\t- user: root",
+			"\t- group: root",
+			"\t- mode: 660",
 			"$0"
 		],
 		"description": "file.mknod:"
@@ -164,6 +188,7 @@
 		"prefix": "file.recurse:",
 		"body": [
 			"file.recurse:",
+			"\t- source: ${1:source_directory}",
 			"$0"
 		],
 		"description": "file.recurse:"
@@ -172,6 +197,9 @@
 		"prefix": "file.rename:",
 		"body": [
 			"file.rename:",
+			"\t- source: ${1:file to move to the location specified}",
+			"\t- force: False",
+			"\t- makedirs: False",
 			"$0"
 		],
 		"description": "file.rename:"
@@ -180,6 +208,10 @@
 		"prefix": "file.replace:",
 		"body": [
 			"file.replace:",
+			"\t- name: ${1:file to be edited}",
+			"\t- pattern: ${2:regex}",
+			"\t- repl: ${3:replacement text}",
+			"\t- count: 0",
 			"$0"
 		],
 		"description": "file.replace:"
@@ -204,6 +236,9 @@
 		"prefix": "file.shortcut:",
 		"body": [
 			"file.shortcut:",
+			"\t- name: ${1:location of the shortcut to create. Must end with either .lnk or .url}",
+			"\t- target: ${2:location the shortcut points to}",
+			"\t- makedirs: False",
 			"$0"
 		],
 		"description": "file.shortcut:"
@@ -212,6 +247,9 @@
 		"prefix": "file.symlink:",
 		"body": [
 			"file.symlink:",
+			"\t- name: ${1:location of the symlink to create}",
+			"\t- target: ${2:location the symlink points to}",
+			"\t- makedirs: False",
 			"$0"
 		],
 		"description": "file.symlink:"
@@ -236,6 +274,8 @@
 		"prefix": "file.uncomment:",
 		"body": [
 			"file.uncomment:",
+			"\t- regex: ${1:regex}",
+			"\t- char: ${2:The character to remove in order to uncomment a line}",
 			"$0"
 		],
 		"description": "file.uncomment:"
