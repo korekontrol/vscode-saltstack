@@ -1,13 +1,4 @@
 {
-	"xml state": {
-		"prefix": [
-			"xml."
-		],
-		"body": [
-			"xml.${1|value_present|}:"
-		],
-		"description": "xml state"
-	},
 	"xml.value_present": {
 		"prefix": "xml.value_present:",
 		"body": [

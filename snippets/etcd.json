@@ -1,13 +1,4 @@
 {
-	"etcd state": {
-		"prefix": [
-			"etcd."
-		],
-		"body": [
-			"etcd.${1|directory,rm,set,wait_rm,wait_set|}:"
-		],
-		"description": "etcd state"
-	},
 	"etcd.directory": {
 		"prefix": "etcd.directory:",
 		"body": [

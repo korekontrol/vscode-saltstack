@@ -17,11 +17,6 @@ def _gen_snippet(state_name, state_functions):
     Builds up and returns basic snippet definition for a given state
     '''
     snippets = {}
-    snippets['{} state'.format(state_name)] = {}
-    snippets['{} state'.format(state_name)]['prefix'] = ['{}.'.format(state_name)]
-    snippets['{} state'.format(state_name)]['body'] = ['{0}.${{1|{1}|}}:'.format(state_name, ','.join(state_functions))]
-    snippets['{} state'.format(state_name)]['description'] = "{} state".format(state_name)
-
     for function in state_functions:
         snippets['{}.{}'.format(state_name, function)] = {}
         snippets['{}.{}'.format(state_name, function)]['prefix'] = '{}.{}:'.format(state_name, function)

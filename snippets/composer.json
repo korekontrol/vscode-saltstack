@@ -1,13 +1,4 @@
 {
-	"composer state": {
-		"prefix": [
-			"composer."
-		],
-		"body": [
-			"composer.${1|installed,update|}:"
-		],
-		"description": "composer state"
-	},
 	"composer.installed": {
 		"prefix": "composer.installed:",
 		"body": [

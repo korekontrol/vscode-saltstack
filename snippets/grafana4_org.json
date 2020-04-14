@@ -1,13 +1,4 @@
 {
-	"grafana4_org state": {
-		"prefix": [
-			"grafana4_org."
-		],
-		"body": [
-			"grafana4_org.${1|absent,deep_diff,present|}:"
-		],
-		"description": "grafana4_org state"
-	},
 	"grafana4_org.absent": {
 		"prefix": "grafana4_org.absent:",
 		"body": [

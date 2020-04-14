@@ -1,13 +1,4 @@
 {
-	"locale state": {
-		"prefix": [
-			"locale."
-		],
-		"body": [
-			"locale.${1|present,system|}:"
-		],
-		"description": "locale state"
-	},
 	"locale.present": {
 		"prefix": "locale.present:",
 		"body": [

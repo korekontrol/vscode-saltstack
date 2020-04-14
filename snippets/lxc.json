@@ -1,13 +1,4 @@
 {
-	"lxc state": {
-		"prefix": [
-			"lxc."
-		],
-		"body": [
-			"lxc.${1|absent,edited_conf,frozen,present,running,set_pass,stopped|}:"
-		],
-		"description": "lxc state"
-	},
 	"lxc.absent": {
 		"prefix": "lxc.absent:",
 		"body": [

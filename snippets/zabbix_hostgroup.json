@@ -1,13 +1,4 @@
 {
-	"zabbix_hostgroup state": {
-		"prefix": [
-			"zabbix_hostgroup."
-		],
-		"body": [
-			"zabbix_hostgroup.${1|absent,present|}:"
-		],
-		"description": "zabbix_hostgroup state"
-	},
 	"zabbix_hostgroup.absent": {
 		"prefix": "zabbix_hostgroup.absent:",
 		"body": [

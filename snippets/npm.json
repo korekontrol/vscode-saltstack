@@ -1,13 +1,4 @@
 {
-	"npm state": {
-		"prefix": [
-			"npm."
-		],
-		"body": [
-			"npm.${1|bootstrap,cache_cleaned,installed,removed|}:"
-		],
-		"description": "npm state"
-	},
 	"npm.bootstrap": {
 		"prefix": "npm.bootstrap:",
 		"body": [

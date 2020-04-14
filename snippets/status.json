@@ -1,13 +1,4 @@
 {
-	"status state": {
-		"prefix": [
-			"status."
-		],
-		"body": [
-			"status.${1|loadavg,process|}:"
-		],
-		"description": "status state"
-	},
 	"status.loadavg": {
 		"prefix": "status.loadavg:",
 		"body": [

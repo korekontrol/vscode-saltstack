@@ -1,13 +1,4 @@
 {
-	"schedule state": {
-		"prefix": [
-			"schedule."
-		],
-		"body": [
-			"schedule.${1|absent,disabled,enabled,present|}:"
-		],
-		"description": "schedule state"
-	},
 	"schedule.absent": {
 		"prefix": "schedule.absent:",
 		"body": [

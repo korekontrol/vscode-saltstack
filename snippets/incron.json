@@ -1,13 +1,4 @@
 {
-	"incron state": {
-		"prefix": [
-			"incron."
-		],
-		"body": [
-			"incron.${1|absent,present|}:"
-		],
-		"description": "incron state"
-	},
 	"incron.absent": {
 		"prefix": "incron.absent:",
 		"body": [

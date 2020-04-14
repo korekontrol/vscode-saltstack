@@ -1,13 +1,4 @@
 {
-	"jenkins state": {
-		"prefix": [
-			"jenkins."
-		],
-		"body": [
-			"jenkins.${1|absent,present|}:"
-		],
-		"description": "jenkins state"
-	},
 	"jenkins.absent": {
 		"prefix": "jenkins.absent:",
 		"body": [

@@ -1,13 +1,4 @@
 {
-	"grafana4_datasource state": {
-		"prefix": [
-			"grafana4_datasource."
-		],
-		"body": [
-			"grafana4_datasource.${1|absent,deep_diff,present|}:"
-		],
-		"description": "grafana4_datasource state"
-	},
 	"grafana4_datasource.absent": {
 		"prefix": "grafana4_datasource.absent:",
 		"body": [

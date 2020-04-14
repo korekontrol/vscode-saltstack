@@ -1,13 +1,4 @@
 {
-	"glassfish state": {
-		"prefix": [
-			"glassfish."
-		],
-		"body": [
-			"glassfish.${1|connection_factory_absent,connection_factory_present,destination_absent,destination_present,jdbc_datasource_absent,jdbc_datasource_present,system_properties_absent,system_properties_present|}:"
-		],
-		"description": "glassfish state"
-	},
 	"glassfish.connection_factory_absent": {
 		"prefix": "glassfish.connection_factory_absent:",
 		"body": [

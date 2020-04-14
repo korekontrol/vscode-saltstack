@@ -1,13 +1,4 @@
 {
-	"gpg state": {
-		"prefix": [
-			"gpg."
-		],
-		"body": [
-			"gpg.${1|absent,present|}:"
-		],
-		"description": "gpg state"
-	},
 	"gpg.absent": {
 		"prefix": "gpg.absent:",
 		"body": [

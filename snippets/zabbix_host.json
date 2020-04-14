@@ -1,13 +1,4 @@
 {
-	"zabbix_host state": {
-		"prefix": [
-			"zabbix_host."
-		],
-		"body": [
-			"zabbix_host.${1|absent,assign_templates,deepcopy,present|}:"
-		],
-		"description": "zabbix_host state"
-	},
 	"zabbix_host.absent": {
 		"prefix": "zabbix_host.absent:",
 		"body": [

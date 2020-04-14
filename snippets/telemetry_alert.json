@@ -1,13 +1,4 @@
 {
-	"telemetry_alert state": {
-		"prefix": [
-			"telemetry_alert."
-		],
-		"body": [
-			"telemetry_alert.${1|absent,present|}:"
-		],
-		"description": "telemetry_alert state"
-	},
 	"telemetry_alert.absent": {
 		"prefix": "telemetry_alert.absent:",
 		"body": [

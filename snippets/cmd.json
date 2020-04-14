@@ -1,13 +1,4 @@
 {
-	"cmd state": {
-		"prefix": [
-			"cmd."
-		],
-		"body": [
-			"cmd.${1|call,mod_run_check,run,script,wait,wait_call,wait_script,watch|}:"
-		],
-		"description": "cmd state"
-	},
 	"cmd.call": {
 		"prefix": "cmd.call:",
 		"body": [

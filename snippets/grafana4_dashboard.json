@@ -1,13 +1,4 @@
 {
-	"grafana4_dashboard state": {
-		"prefix": [
-			"grafana4_dashboard."
-		],
-		"body": [
-			"grafana4_dashboard.${1|absent,present|}:"
-		],
-		"description": "grafana4_dashboard state"
-	},
 	"grafana4_dashboard.absent": {
 		"prefix": "grafana4_dashboard.absent:",
 		"body": [

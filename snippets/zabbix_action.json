@@ -1,13 +1,4 @@
 {
-	"zabbix_action state": {
-		"prefix": [
-			"zabbix_action."
-		],
-		"body": [
-			"zabbix_action.${1|absent,present|}:"
-		],
-		"description": "zabbix_action state"
-	},
 	"zabbix_action.absent": {
 		"prefix": "zabbix_action.absent:",
 		"body": [

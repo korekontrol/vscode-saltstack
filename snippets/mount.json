@@ -1,13 +1,4 @@
 {
-	"mount state": {
-		"prefix": [
-			"mount."
-		],
-		"body": [
-			"mount.${1|fstab_absent,fstab_present,mounted,swap,unmounted|}:"
-		],
-		"description": "mount state"
-	},
 	"mount.fstab_absent": {
 		"prefix": "mount.fstab_absent:",
 		"body": [

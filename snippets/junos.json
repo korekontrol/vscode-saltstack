@@ -1,13 +1,4 @@
 {
-	"junos state": {
-		"prefix": [
-			"junos."
-		],
-		"body": [
-			"junos.${1|cli,commit,commit_check,diff,file_copy,install_config,install_os,load,lock,resultdecorator,rollback,rpc,set_hostname,shutdown,unlock,wraps,zeroize|}:"
-		],
-		"description": "junos state"
-	},
 	"junos.cli": {
 		"prefix": "junos.cli:",
 		"body": [

@@ -1,13 +1,4 @@
 {
-	"infoblox_cname state": {
-		"prefix": [
-			"infoblox_cname."
-		],
-		"body": [
-			"infoblox_cname.${1|absent,present|}:"
-		],
-		"description": "infoblox_cname state"
-	},
 	"infoblox_cname.absent": {
 		"prefix": "infoblox_cname.absent:",
 		"body": [

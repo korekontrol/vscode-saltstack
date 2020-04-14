@@ -1,13 +1,4 @@
 {
-	"pagerduty_schedule state": {
-		"prefix": [
-			"pagerduty_schedule."
-		],
-		"body": [
-			"pagerduty_schedule.${1|absent,present|}:"
-		],
-		"description": "pagerduty_schedule state"
-	},
 	"pagerduty_schedule.absent": {
 		"prefix": "pagerduty_schedule.absent:",
 		"body": [

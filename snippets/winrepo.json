@@ -1,13 +1,4 @@
 {
-	"winrepo state": {
-		"prefix": [
-			"winrepo."
-		],
-		"body": [
-			"winrepo.${1|genrepo|}:"
-		],
-		"description": "winrepo state"
-	},
 	"winrepo.genrepo": {
 		"prefix": "winrepo.genrepo:",
 		"body": [

@@ -1,13 +1,4 @@
 {
-	"libcloud_loadbalancer state": {
-		"prefix": [
-			"libcloud_loadbalancer."
-		],
-		"body": [
-			"libcloud_loadbalancer.${1|balancer_absent,balancer_present,member_absent,member_present,state_result|}:"
-		],
-		"description": "libcloud_loadbalancer state"
-	},
 	"libcloud_loadbalancer.balancer_absent": {
 		"prefix": "libcloud_loadbalancer.balancer_absent:",
 		"body": [

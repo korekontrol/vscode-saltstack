@@ -1,13 +1,4 @@
 {
-	"grains state": {
-		"prefix": [
-			"grains."
-		],
-		"body": [
-			"grains.${1|absent,append,exists,list_absent,list_present,make_hashable,present|}:"
-		],
-		"description": "grains state"
-	},
 	"grains.absent": {
 		"prefix": "grains.absent:",
 		"body": [

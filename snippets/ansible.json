@@ -1,13 +1,4 @@
 {
-	"ansible state": {
-		"prefix": [
-			"ansible."
-		],
-		"body": [
-			"ansible.${1|call,playbooks|}:"
-		],
-		"description": "ansible state"
-	},
 	"ansible.call": {
 		"prefix": "ansible.call:",
 		"body": [

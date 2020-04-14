@@ -1,13 +1,4 @@
 {
-	"supervisord state": {
-		"prefix": [
-			"supervisord."
-		],
-		"body": [
-			"supervisord.${1|dead,running|}:"
-		],
-		"description": "supervisord state"
-	},
 	"supervisord.dead": {
 		"prefix": "supervisord.dead:",
 		"body": [

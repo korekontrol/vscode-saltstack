@@ -1,13 +1,4 @@
 {
-	"disk state": {
-		"prefix": [
-			"disk."
-		],
-		"body": [
-			"disk.${1|status|}:"
-		],
-		"description": "disk state"
-	},
 	"disk.status": {
 		"prefix": "disk.status:",
 		"body": [

@@ -1,13 +1,4 @@
 {
-	"zenoss state": {
-		"prefix": [
-			"zenoss."
-		],
-		"body": [
-			"zenoss.${1|monitored|}:"
-		],
-		"description": "zenoss state"
-	},
 	"zenoss.monitored": {
 		"prefix": "zenoss.monitored:",
 		"body": [

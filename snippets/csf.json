@@ -1,13 +1,4 @@
 {
-	"csf state": {
-		"prefix": [
-			"csf."
-		],
-		"body": [
-			"csf.${1|nics_skip,nics_skipped,option_present,ports_open,rule_absent,rule_present,testing_off,testing_on|}:"
-		],
-		"description": "csf state"
-	},
 	"csf.nics_skip": {
 		"prefix": "csf.nics_skip:",
 		"body": [

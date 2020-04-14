@@ -1,13 +1,4 @@
 {
-	"bigip state": {
-		"prefix": [
-			"bigip."
-		],
-		"body": [
-			"bigip.${1|add_pool_member,create_monitor,create_node,create_pool,create_profile,create_virtual,delete_monitor,delete_node,delete_pool,delete_pool_member,delete_profile,delete_virtual,list_monitor,list_node,list_pool,list_profile,list_virtual,manage_monitor,manage_node,manage_pool,manage_pool_members,manage_profile,manage_virtual,modify_monitor,modify_node,modify_pool,modify_pool_member,modify_profile,modify_virtual|}:"
-		],
-		"description": "bigip state"
-	},
 	"bigip.add_pool_member": {
 		"prefix": "bigip.add_pool_member:",
 		"body": [

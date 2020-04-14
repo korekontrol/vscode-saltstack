@@ -1,13 +1,4 @@
 {
-	"grafana4_user state": {
-		"prefix": [
-			"grafana4_user."
-		],
-		"body": [
-			"grafana4_user.${1|absent,deep_diff,present|}:"
-		],
-		"description": "grafana4_user state"
-	},
 	"grafana4_user.absent": {
 		"prefix": "grafana4_user.absent:",
 		"body": [

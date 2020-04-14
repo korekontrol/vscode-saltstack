@@ -1,13 +1,4 @@
 {
-	"serverdensity_device state": {
-		"prefix": [
-			"serverdensity_device."
-		],
-		"body": [
-			"serverdensity_device.${1|monitored|}:"
-		],
-		"description": "serverdensity_device state"
-	},
 	"serverdensity_device.monitored": {
 		"prefix": "serverdensity_device.monitored:",
 		"body": [

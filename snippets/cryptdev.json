@@ -1,13 +1,4 @@
 {
-	"cryptdev state": {
-		"prefix": [
-			"cryptdev."
-		],
-		"body": [
-			"cryptdev.${1|mapped,unmapped|}:"
-		],
-		"description": "cryptdev state"
-	},
 	"cryptdev.mapped": {
 		"prefix": "cryptdev.mapped:",
 		"body": [

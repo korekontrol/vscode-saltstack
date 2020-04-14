@@ -1,13 +1,4 @@
 {
-	"pkgng state": {
-		"prefix": [
-			"pkgng."
-		],
-		"body": [
-			"pkgng.${1|update_packaging_site|}:"
-		],
-		"description": "pkgng state"
-	},
 	"pkgng.update_packaging_site": {
 		"prefix": "pkgng.update_packaging_site:",
 		"body": [

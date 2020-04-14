@@ -1,13 +1,4 @@
 {
-	"group state": {
-		"prefix": [
-			"group."
-		],
-		"body": [
-			"group.${1|absent,present|}:"
-		],
-		"description": "group state"
-	},
 	"group.absent": {
 		"prefix": "group.absent:",
 		"body": [

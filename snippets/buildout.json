@@ -1,13 +1,4 @@
 {
-	"buildout state": {
-		"prefix": [
-			"buildout."
-		],
-		"body": [
-			"buildout.${1|installed|}:"
-		],
-		"description": "buildout state"
-	},
 	"buildout.installed": {
 		"prefix": "buildout.installed:",
 		"body": [

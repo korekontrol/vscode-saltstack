@@ -1,13 +1,4 @@
 {
-	"salt_proxy state": {
-		"prefix": [
-			"salt_proxy."
-		],
-		"body": [
-			"salt_proxy.${1|configure_proxy|}:"
-		],
-		"description": "salt_proxy state"
-	},
 	"salt_proxy.configure_proxy": {
 		"prefix": "salt_proxy.configure_proxy:",
 		"body": [

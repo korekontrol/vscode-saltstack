@@ -1,13 +1,4 @@
 {
-	"pyenv state": {
-		"prefix": [
-			"pyenv."
-		],
-		"body": [
-			"pyenv.${1|absent,install_pyenv,installed|}:"
-		],
-		"description": "pyenv state"
-	},
 	"pyenv.absent": {
 		"prefix": "pyenv.absent:",
 		"body": [

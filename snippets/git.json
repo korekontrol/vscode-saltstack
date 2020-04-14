@@ -1,13 +1,4 @@
 {
-	"git state": {
-		"prefix": [
-			"git."
-		],
-		"body": [
-			"git.${1|cloned,config_set,config_unset,detached,latest,mod_run_check,present|}:"
-		],
-		"description": "git state"
-	},
 	"git.cloned": {
 		"prefix": "git.cloned:",
 		"body": [

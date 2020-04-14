@@ -1,13 +1,4 @@
 {
-	"gem state": {
-		"prefix": [
-			"gem."
-		],
-		"body": [
-			"gem.${1|installed,removed,sources_add,sources_remove|}:"
-		],
-		"description": "gem state"
-	},
 	"gem.installed": {
 		"prefix": "gem.installed:",
 		"body": [

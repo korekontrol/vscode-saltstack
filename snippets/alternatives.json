@@ -1,13 +1,4 @@
 {
-	"alternatives state": {
-		"prefix": [
-			"alternatives."
-		],
-		"body": [
-			"alternatives.${1|auto,install,remove,set|}:"
-		],
-		"description": "alternatives state"
-	},
 	"alternatives.auto": {
 		"prefix": "alternatives.auto:",
 		"body": [

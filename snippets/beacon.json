@@ -1,13 +1,4 @@
 {
-	"beacon state": {
-		"prefix": [
-			"beacon."
-		],
-		"body": [
-			"beacon.${1|absent,disabled,enabled,present|}:"
-		],
-		"description": "beacon state"
-	},
 	"beacon.absent": {
 		"prefix": "beacon.absent:",
 		"body": [

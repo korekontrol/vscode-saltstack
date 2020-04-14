@@ -1,13 +1,4 @@
 {
-	"user state": {
-		"prefix": [
-			"user."
-		],
-		"body": [
-			"user.${1|absent,iteritems,present|}:"
-		],
-		"description": "user state"
-	},
 	"user.absent": {
 		"prefix": "user.absent:",
 		"body": [

@@ -1,13 +1,4 @@
 {
-	"file state": {
-		"prefix": [
-			"file."
-		],
-		"body": [
-			"file.${1|absent,accumulated,append,blockreplace,cached,comment,copy,decode,directory,exists,hardlink,line,managed,missing,mknod,mod_run_check_cmd,not_cached,patch,prepend,recurse,rename,replace,retention_schedule,serialize,shortcut,symlink,tidied,touch,uncomment|}:"
-		],
-		"description": "file state"
-	},
 	"file.absent": {
 		"prefix": "file.absent:",
 		"body": [

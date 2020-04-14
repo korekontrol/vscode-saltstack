@@ -1,13 +1,4 @@
 {
-	"virtualenv state": {
-		"prefix": [
-			"virtualenv."
-		],
-		"body": [
-			"virtualenv.${1|manage,managed|}:"
-		],
-		"description": "virtualenv state"
-	},
 	"virtualenv.manage": {
 		"prefix": "virtualenv.manage:",
 		"body": [

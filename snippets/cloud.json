@@ -1,13 +1,4 @@
 {
-	"cloud state": {
-		"prefix": [
-			"cloud."
-		],
-		"body": [
-			"cloud.${1|absent,present,profile,volume_absent,volume_attached,volume_detached,volume_present|}:"
-		],
-		"description": "cloud state"
-	},
 	"cloud.absent": {
 		"prefix": "cloud.absent:",
 		"body": [

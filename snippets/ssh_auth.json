@@ -1,13 +1,4 @@
 {
-	"ssh_auth state": {
-		"prefix": [
-			"ssh_auth."
-		],
-		"body": [
-			"ssh_auth.${1|absent,manage,present|}:"
-		],
-		"description": "ssh_auth state"
-	},
 	"ssh_auth.absent": {
 		"prefix": "ssh_auth.absent:",
 		"body": [

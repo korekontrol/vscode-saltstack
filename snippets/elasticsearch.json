@@ -1,13 +1,4 @@
 {
-	"elasticsearch state": {
-		"prefix": [
-			"elasticsearch."
-		],
-		"body": [
-			"elasticsearch.${1|alias_absent,alias_present,index_absent,index_present,index_template_absent,index_template_present,pipeline_absent,pipeline_present,search_template_absent,search_template_present|}:"
-		],
-		"description": "elasticsearch state"
-	},
 	"elasticsearch.alias_absent": {
 		"prefix": "elasticsearch.alias_absent:",
 		"body": [

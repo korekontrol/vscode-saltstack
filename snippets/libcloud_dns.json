@@ -1,13 +1,4 @@
 {
-	"libcloud_dns state": {
-		"prefix": [
-			"libcloud_dns."
-		],
-		"body": [
-			"libcloud_dns.${1|record_absent,record_present,state_result,zone_absent,zone_present|}:"
-		],
-		"description": "libcloud_dns state"
-	},
 	"libcloud_dns.record_absent": {
 		"prefix": "libcloud_dns.record_absent:",
 		"body": [

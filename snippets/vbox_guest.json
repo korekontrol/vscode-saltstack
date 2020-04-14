@@ -1,13 +1,4 @@
 {
-	"vbox_guest state": {
-		"prefix": [
-			"vbox_guest."
-		],
-		"body": [
-			"vbox_guest.${1|additions_installed,additions_removed,grant_access_to_shared_folders_to|}:"
-		],
-		"description": "vbox_guest state"
-	},
 	"vbox_guest.additions_installed": {
 		"prefix": "vbox_guest.additions_installed:",
 		"body": [

@@ -1,13 +1,4 @@
 {
-	"salt state": {
-		"prefix": [
-			"salt."
-		],
-		"body": [
-			"salt.${1|function,parallel_runners,runner,state,wait_for_event,wheel|}:"
-		],
-		"description": "salt state"
-	},
 	"salt.function": {
 		"prefix": "salt.function:",
 		"body": [

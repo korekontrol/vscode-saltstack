@@ -1,13 +1,4 @@
 {
-	"pip state": {
-		"prefix": [
-			"pip."
-		],
-		"body": [
-			"pip.${1|installed,pip_has_exceptions_mod,pip_has_internal_exceptions_mod,purge_pip,removed,uptodate|}:"
-		],
-		"description": "pip state"
-	},
 	"pip.installed": {
 		"prefix": "pip.installed:",
 		"body": [

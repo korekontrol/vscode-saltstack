@@ -1,13 +1,4 @@
 {
-	"zabbix_usergroup state": {
-		"prefix": [
-			"zabbix_usergroup."
-		],
-		"body": [
-			"zabbix_usergroup.${1|absent,present|}:"
-		],
-		"description": "zabbix_usergroup state"
-	},
 	"zabbix_usergroup.absent": {
 		"prefix": "zabbix_usergroup.absent:",
 		"body": [

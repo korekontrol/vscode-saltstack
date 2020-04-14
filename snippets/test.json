@@ -1,13 +1,4 @@
 {
-	"test state": {
-		"prefix": [
-			"test."
-		],
-		"body": [
-			"test.${1|check_pillar,configurable_test_state,fail_with_changes,fail_without_changes,nop,show_notification,succeed_with_changes,succeed_without_changes|}:"
-		],
-		"description": "test state"
-	},
 	"test.check_pillar": {
 		"prefix": [
 			"test.check_pillar:"

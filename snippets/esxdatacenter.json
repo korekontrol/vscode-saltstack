@@ -1,13 +1,4 @@
 {
-	"esxdatacenter state": {
-		"prefix": [
-			"esxdatacenter."
-		],
-		"body": [
-			"esxdatacenter.${1|datacenter_configured,mod_init|}:"
-		],
-		"description": "esxdatacenter state"
-	},
 	"esxdatacenter.datacenter_configured": {
 		"prefix": "esxdatacenter.datacenter_configured:",
 		"body": [

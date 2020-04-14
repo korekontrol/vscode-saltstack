@@ -1,13 +1,4 @@
 {
-	"modjk_worker state": {
-		"prefix": [
-			"modjk_worker."
-		],
-		"body": [
-			"modjk_worker.${1|activate,disable,stop|}:"
-		],
-		"description": "modjk_worker state"
-	},
 	"modjk_worker.activate": {
 		"prefix": "modjk_worker.activate:",
 		"body": [

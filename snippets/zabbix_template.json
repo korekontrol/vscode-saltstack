@@ -1,13 +1,4 @@
 {
-	"zabbix_template state": {
-		"prefix": [
-			"zabbix_template."
-		],
-		"body": [
-			"zabbix_template.${1|absent,is_present,present|}:"
-		],
-		"description": "zabbix_template state"
-	},
 	"zabbix_template.absent": {
 		"prefix": "zabbix_template.absent:",
 		"body": [

@@ -1,13 +1,4 @@
 {
-	"pkgbuild state": {
-		"prefix": [
-			"pkgbuild."
-		],
-		"body": [
-			"pkgbuild.${1|built,repo|}:"
-		],
-		"description": "pkgbuild state"
-	},
 	"pkgbuild.built": {
 		"prefix": "pkgbuild.built:",
 		"body": [

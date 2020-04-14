@@ -1,13 +1,4 @@
 {
-	"tuned state": {
-		"prefix": [
-			"tuned."
-		],
-		"body": [
-			"tuned.${1|off,profile|}:"
-		],
-		"description": "tuned state"
-	},
 	"tuned.off": {
 		"prefix": "tuned.off:",
 		"body": [

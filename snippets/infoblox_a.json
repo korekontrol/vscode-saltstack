@@ -1,13 +1,4 @@
 {
-	"infoblox_a state": {
-		"prefix": [
-			"infoblox_a."
-		],
-		"body": [
-			"infoblox_a.${1|absent,present|}:"
-		],
-		"description": "infoblox_a state"
-	},
 	"infoblox_a.absent": {
 		"prefix": "infoblox_a.absent:",
 		"body": [

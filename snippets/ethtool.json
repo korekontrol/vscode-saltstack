@@ -1,13 +1,4 @@
 {
-	"ethtool state": {
-		"prefix": [
-			"ethtool."
-		],
-		"body": [
-			"ethtool.${1|coalesce,offload,ring|}:"
-		],
-		"description": "ethtool state"
-	},
 	"ethtool.coalesce": {
 		"prefix": "ethtool.coalesce:",
 		"body": [

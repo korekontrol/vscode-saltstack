@@ -1,13 +1,4 @@
 {
-	"gnomedesktop state": {
-		"prefix": [
-			"gnomedesktop."
-		],
-		"body": [
-			"gnomedesktop.${1|desktop_interface,desktop_lockdown,wm_preferences|}:"
-		],
-		"description": "gnomedesktop state"
-	},
 	"gnomedesktop.desktop_interface": {
 		"prefix": "gnomedesktop.desktop_interface:",
 		"body": [

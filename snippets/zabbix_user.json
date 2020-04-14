@@ -1,13 +1,4 @@
 {
-	"zabbix_user state": {
-		"prefix": [
-			"zabbix_user."
-		],
-		"body": [
-			"zabbix_user.${1|absent,admin_password_present,deepcopy,present|}:"
-		],
-		"description": "zabbix_user state"
-	},
 	"zabbix_user.absent": {
 		"prefix": "zabbix_user.absent:",
 		"body": [

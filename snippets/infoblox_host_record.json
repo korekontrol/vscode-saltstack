@@ -1,13 +1,4 @@
 {
-	"infoblox_host_record state": {
-		"prefix": [
-			"infoblox_host_record."
-		],
-		"body": [
-			"infoblox_host_record.${1|absent,present|}:"
-		],
-		"description": "infoblox_host_record state"
-	},
 	"infoblox_host_record.absent": {
 		"prefix": "infoblox_host_record.absent:",
 		"body": [

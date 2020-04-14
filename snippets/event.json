@@ -1,13 +1,4 @@
 {
-	"event state": {
-		"prefix": [
-			"event."
-		],
-		"body": [
-			"event.${1|fire_master,send,wait|}:"
-		],
-		"description": "event state"
-	},
 	"event.fire_master": {
 		"prefix": "event.fire_master:",
 		"body": [

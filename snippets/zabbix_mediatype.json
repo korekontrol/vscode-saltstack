@@ -1,13 +1,4 @@
 {
-	"zabbix_mediatype state": {
-		"prefix": [
-			"zabbix_mediatype."
-		],
-		"body": [
-			"zabbix_mediatype.${1|absent,present|}:"
-		],
-		"description": "zabbix_mediatype state"
-	},
 	"zabbix_mediatype.absent": {
 		"prefix": "zabbix_mediatype.absent:",
 		"body": [

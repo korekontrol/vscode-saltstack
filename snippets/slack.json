@@ -1,13 +1,4 @@
 {
-	"slack state": {
-		"prefix": [
-			"slack."
-		],
-		"body": [
-			"slack.${1|post_message|}:"
-		],
-		"description": "slack state"
-	},
 	"slack.post_message": {
 		"prefix": "slack.post_message:",
 		"body": [

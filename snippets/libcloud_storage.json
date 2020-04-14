@@ -1,13 +1,4 @@
 {
-	"libcloud_storage state": {
-		"prefix": [
-			"libcloud_storage."
-		],
-		"body": [
-			"libcloud_storage.${1|container_absent,container_present,file_present,object_absent,object_present,state_result|}:"
-		],
-		"description": "libcloud_storage state"
-	},
 	"libcloud_storage.container_absent": {
 		"prefix": "libcloud_storage.container_absent:",
 		"body": [

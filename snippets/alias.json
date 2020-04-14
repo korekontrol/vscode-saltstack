@@ -1,13 +1,4 @@
 {
-	"alias state": {
-		"prefix": [
-			"alias."
-		],
-		"body": [
-			"alias.${1|absent,present|}:"
-		],
-		"description": "alias state"
-	},
 	"alias.absent": {
 		"prefix": "alias.absent:",
 		"body": [

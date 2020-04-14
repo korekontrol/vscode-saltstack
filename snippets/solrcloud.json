@@ -1,13 +1,4 @@
 {
-	"solrcloud state": {
-		"prefix": [
-			"solrcloud."
-		],
-		"body": [
-			"solrcloud.${1|alias,collection|}:"
-		],
-		"description": "solrcloud state"
-	},
 	"solrcloud.alias": {
 		"prefix": "solrcloud.alias:",
 		"body": [

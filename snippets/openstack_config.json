@@ -1,13 +1,4 @@
 {
-	"openstack_config state": {
-		"prefix": [
-			"openstack_config."
-		],
-		"body": [
-			"openstack_config.${1|absent,present|}:"
-		],
-		"description": "openstack_config state"
-	},
 	"openstack_config.absent": {
 		"prefix": "openstack_config.absent:",
 		"body": [

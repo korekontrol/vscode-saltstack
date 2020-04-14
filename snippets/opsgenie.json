@@ -1,13 +1,4 @@
 {
-	"opsgenie state": {
-		"prefix": [
-			"opsgenie."
-		],
-		"body": [
-			"opsgenie.${1|close_alert,create_alert|}:"
-		],
-		"description": "opsgenie state"
-	},
 	"opsgenie.close_alert": {
 		"prefix": "opsgenie.close_alert:",
 		"body": [

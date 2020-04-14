@@ -1,13 +1,4 @@
 {
-	"syslog_ng state": {
-		"prefix": [
-			"syslog_ng."
-		],
-		"body": [
-			"syslog_ng.${1|config,reloaded,started,stopped|}:"
-		],
-		"description": "syslog_ng state"
-	},
 	"syslog_ng.config": {
 		"prefix": "syslog_ng.config:",
 		"body": [

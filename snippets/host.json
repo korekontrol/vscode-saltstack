@@ -1,13 +1,4 @@
 {
-	"host state": {
-		"prefix": [
-			"host."
-		],
-		"body": [
-			"host.${1|absent,only,present|}:"
-		],
-		"description": "host state"
-	},
 	"host.absent": {
 		"prefix": "host.absent:",
 		"body": [

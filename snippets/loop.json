@@ -1,13 +1,4 @@
 {
-	"loop state": {
-		"prefix": [
-			"loop."
-		],
-		"body": [
-			"loop.${1|until,until_no_eval|}:"
-		],
-		"description": "loop state"
-	},
 	"loop.until": {
 		"prefix": "loop.until:",
 		"body": [

@@ -1,13 +1,4 @@
 {
-	"sqlite3 state": {
-		"prefix": [
-			"sqlite3."
-		],
-		"body": [
-			"sqlite3.${1|row_absent,row_present,table_absent,table_present|}:"
-		],
-		"description": "sqlite3 state"
-	},
 	"sqlite3.row_absent": {
 		"prefix": "sqlite3.row_absent:",
 		"body": [

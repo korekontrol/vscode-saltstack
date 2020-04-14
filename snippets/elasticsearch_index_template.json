@@ -1,13 +1,4 @@
 {
-	"elasticsearch_index_template state": {
-		"prefix": [
-			"elasticsearch_index_template."
-		],
-		"body": [
-			"elasticsearch_index_template.${1|absent,present|}:"
-		],
-		"description": "elasticsearch_index_template state"
-	},
 	"elasticsearch_index_template.absent": {
 		"prefix": "elasticsearch_index_template.absent:",
 		"body": [

@@ -1,13 +1,4 @@
 {
-	"timezone state": {
-		"prefix": [
-			"timezone."
-		],
-		"body": [
-			"timezone.${1|system|}:"
-		],
-		"description": "timezone state"
-	},
 	"timezone.system": {
 		"prefix": "timezone.system:",
 		"body": [

@@ -1,13 +1,4 @@
 {
-	"uptime state": {
-		"prefix": [
-			"uptime."
-		],
-		"body": [
-			"uptime.${1|monitored|}:"
-		],
-		"description": "uptime state"
-	},
 	"uptime.monitored": {
 		"prefix": "uptime.monitored:",
 		"body": [

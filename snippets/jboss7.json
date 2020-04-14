@@ -1,13 +1,4 @@
 {
-	"jboss7 state": {
-		"prefix": [
-			"jboss7."
-		],
-		"body": [
-			"jboss7.${1|bindings_exist,datasource_exists,deployed,reloaded|}:"
-		],
-		"description": "jboss7 state"
-	},
 	"jboss7.bindings_exist": {
 		"prefix": "jboss7.bindings_exist:",
 		"body": [

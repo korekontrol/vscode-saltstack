@@ -1,13 +1,4 @@
 {
-	"logrotate state": {
-		"prefix": [
-			"logrotate."
-		],
-		"body": [
-			"logrotate.${1|set|}:"
-		],
-		"description": "logrotate state"
-	},
 	"logrotate.set": {
 		"prefix": "logrotate.set:",
 		"body": [

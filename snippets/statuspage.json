@@ -1,13 +1,4 @@
 {
-	"statuspage state": {
-		"prefix": [
-			"statuspage."
-		],
-		"body": [
-			"statuspage.${1|create,delete,managed,update|}:"
-		],
-		"description": "statuspage state"
-	},
 	"statuspage.create": {
 		"prefix": "statuspage.create:",
 		"body": [

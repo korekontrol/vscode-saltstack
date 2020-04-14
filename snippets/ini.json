@@ -1,13 +1,4 @@
 {
-	"ini state": {
-		"prefix": [
-			"ini."
-		],
-		"body": [
-			"ini.${1|options_absent,options_present,sections_absent,sections_present|}:"
-		],
-		"description": "ini state"
-	},
 	"ini.options_absent": {
 		"prefix": "ini.options_absent:",
 		"body": [

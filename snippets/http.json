@@ -1,13 +1,4 @@
 {
-	"http state": {
-		"prefix": [
-			"http."
-		],
-		"body": [
-			"http.${1|query,wait_for_successful_query|}:"
-		],
-		"description": "http state"
-	},
 	"http.query": {
 		"prefix": "http.query:",
 		"body": [

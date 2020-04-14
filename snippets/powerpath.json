@@ -1,13 +1,4 @@
 {
-	"powerpath state": {
-		"prefix": [
-			"powerpath."
-		],
-		"body": [
-			"powerpath.${1|license_absent,license_present|}:"
-		],
-		"description": "powerpath state"
-	},
 	"powerpath.license_absent": {
 		"prefix": "powerpath.license_absent:",
 		"body": [

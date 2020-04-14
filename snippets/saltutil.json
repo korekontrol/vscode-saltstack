@@ -1,13 +1,4 @@
 {
-	"saltutil state": {
-		"prefix": [
-			"saltutil."
-		],
-		"body": [
-			"saltutil.${1|sync_all,sync_beacons,sync_clouds,sync_engines,sync_executors,sync_grains,sync_log_handlers,sync_matchers,sync_modules,sync_output,sync_outputters,sync_pillar,sync_proxymodules,sync_renderers,sync_returners,sync_sdb,sync_serializers,sync_states,sync_thorium,sync_utils|}:"
-		],
-		"description": "saltutil state"
-	},
 	"saltutil.sync_all": {
 		"prefix": "saltutil.sync_all:",
 		"body": [

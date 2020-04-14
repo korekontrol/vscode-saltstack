@@ -1,13 +1,4 @@
 {
-	"marathon_app state": {
-		"prefix": [
-			"marathon_app."
-		],
-		"body": [
-			"marathon_app.${1|absent,config,running|}:"
-		],
-		"description": "marathon_app state"
-	},
 	"marathon_app.absent": {
 		"prefix": "marathon_app.absent:",
 		"body": [

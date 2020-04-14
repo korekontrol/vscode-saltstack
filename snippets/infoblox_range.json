@@ -1,13 +1,4 @@
 {
-	"infoblox_range state": {
-		"prefix": [
-			"infoblox_range."
-		],
-		"body": [
-			"infoblox_range.${1|absent,present|}:"
-		],
-		"description": "infoblox_range state"
-	},
 	"infoblox_range.absent": {
 		"prefix": "infoblox_range.absent:",
 		"body": [

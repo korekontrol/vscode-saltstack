@@ -1,13 +1,4 @@
 {
-	"module state": {
-		"prefix": [
-			"module."
-		],
-		"body": [
-			"module.${1|run,wait,watch|}:"
-		],
-		"description": "module state"
-	},
 	"module.run": {
 		"prefix": "module.run:",
 		"body": [

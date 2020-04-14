@@ -1,13 +1,4 @@
 {
-	"zabbix_usermacro state": {
-		"prefix": [
-			"zabbix_usermacro."
-		],
-		"body": [
-			"zabbix_usermacro.${1|absent,present|}:"
-		],
-		"description": "zabbix_usermacro state"
-	},
 	"zabbix_usermacro.absent": {
 		"prefix": "zabbix_usermacro.absent:",
 		"body": [

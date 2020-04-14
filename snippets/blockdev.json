@@ -1,13 +1,4 @@
 {
-	"blockdev state": {
-		"prefix": [
-			"blockdev."
-		],
-		"body": [
-			"blockdev.${1|formatted,tuned|}:"
-		],
-		"description": "blockdev state"
-	},
 	"blockdev.formatted": {
 		"prefix": "blockdev.formatted:",
 		"body": [

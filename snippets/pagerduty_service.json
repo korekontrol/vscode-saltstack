@@ -1,13 +1,4 @@
 {
-	"pagerduty_service state": {
-		"prefix": [
-			"pagerduty_service."
-		],
-		"body": [
-			"pagerduty_service.${1|absent,present|}:"
-		],
-		"description": "pagerduty_service state"
-	},
 	"pagerduty_service.absent": {
 		"prefix": "pagerduty_service.absent:",
 		"body": [

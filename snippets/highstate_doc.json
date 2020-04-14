@@ -1,13 +1,4 @@
 {
-	"highstate_doc state": {
-		"prefix": [
-			"highstate_doc."
-		],
-		"body": [
-			"highstate_doc.${1|note|}:"
-		],
-		"description": "highstate_doc state"
-	},
 	"highstate_doc.note": {
 		"prefix": "highstate_doc.note:",
 		"body": [

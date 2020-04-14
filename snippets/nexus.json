@@ -1,13 +1,4 @@
 {
-	"nexus state": {
-		"prefix": [
-			"nexus."
-		],
-		"body": [
-			"nexus.${1|downloaded|}:"
-		],
-		"description": "nexus state"
-	},
 	"nexus.downloaded": {
 		"prefix": "nexus.downloaded:",
 		"body": [

@@ -1,13 +1,4 @@
 {
-	"rbenv state": {
-		"prefix": [
-			"rbenv."
-		],
-		"body": [
-			"rbenv.${1|absent,install_rbenv,installed|}:"
-		],
-		"description": "rbenv state"
-	},
 	"rbenv.absent": {
 		"prefix": "rbenv.absent:",
 		"body": [
