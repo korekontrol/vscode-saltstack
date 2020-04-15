@@ -2,7 +2,10 @@
 	"cron.absent": {
 		"prefix": "cron.absent:",
 		"body": [
-			"cron.absent:",
+            "cron.absent:",
+            "\t- name: ${1:command}",
+            "\t- user: ${2:root}",
+            "\t- identifier: ${3:unique identifier}",
 			"$0"
 		],
 		"description": "cron.absent:"
@@ -10,7 +13,9 @@
 	"cron.env_absent": {
 		"prefix": "cron.env_absent:",
 		"body": [
-			"cron.env_absent:",
+            "cron.env_absent:",
+            "\t- name: ${1:env var}",
+            "\t- user: ${2:root}",
 			"$0"
 		],
 		"description": "cron.env_absent:"
@@ -18,7 +23,10 @@
 	"cron.env_present": {
 		"prefix": "cron.env_present:",
 		"body": [
-			"cron.env_present:",
+            "cron.env_present:",
+            "\t- name: ${1:env var}",
+            "\t- value: ${2:env var value}",
+            "\t- user: ${3:root}",
 			"$0"
 		],
 		"description": "cron.env_present:"
@@ -26,7 +34,9 @@
 	"cron.file": {
 		"prefix": "cron.file:",
 		"body": [
-			"cron.file:",
+            "cron.file:",
+            "\t- name: ${1:source file}",
+            "\t- user: ${2:root}",
 			"$0"
 		],
 		"description": "cron.file:"
@@ -34,7 +44,15 @@
 	"cron.present": {
 		"prefix": "cron.present:",
 		"body": [
-			"cron.present:",
+            "cron.present:",
+            "\t- name: ${1:command that should be executed}",
+            "\t- user: ${2:user}",
+            "\t- minute: ${3:*}",
+            "\t- hour: ${4:*}",
+            "\t- daymonth: ${5:*}",
+            "\t- month: ${6:*}",
+            "\t- dayweek: ${7:*}",
+            "\t- identifier: ${8:unique identifier}",
 			"$0"
 		],
 		"description": "cron.present:"

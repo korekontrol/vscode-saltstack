@@ -3,6 +3,7 @@
 		"prefix": "http.query:",
 		"body": [
 			"http.query:",
+			"\t- name: ${1:site to query}",
 			"$0"
 		],
 		"description": "http.query:"
@@ -11,6 +12,7 @@
 		"prefix": "http.wait_for_successful_query:",
 		"body": [
 			"http.wait_for_successful_query:",
+			"\t- name: ${1:site to query}",
 			"$0"
 		],
 		"description": "http.wait_for_successful_query:"

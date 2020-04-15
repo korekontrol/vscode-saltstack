@@ -11,6 +11,7 @@
 		"prefix": "docker_image.present:",
 		"body": [
 			"docker_image.present:",
+			"\t- tag: ${1:tag}",
 			"$0"
 		],
 		"description": "docker_image.present:"

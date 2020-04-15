@@ -118,9 +118,21 @@
 		"prefix": "file.managed:",
 		"body": [
 			"file.managed:",
-			"$0"
+			"\t- $0"
 		],
 		"description": "file.managed:"
+	},
+	"file.managed (salt source)": {
+		"prefix": "file.managed:",
+		"body": [
+			"file.managed:",
+			"\t- source: salt://${1:source}",
+			"\t- user: ${2:root}",
+			"\t- group: ${3:root}",
+			"\t- mode: ${4:644}",
+			"$0"
+		],
+		"description": "file.managed with a salt:// based source"
 	},
 	"file.missing": {
 		"prefix": "file.missing:",

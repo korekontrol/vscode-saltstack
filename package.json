@@ -445,6 +445,10 @@
 			},
 			{
 				"language": "sls",
+				"path": "./snippets/keystore.json"
+			},
+			{
+				"language": "sls",
 				"path": "./snippets/ldap.json"
 			},
 			{
