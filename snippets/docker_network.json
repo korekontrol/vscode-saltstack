@@ -1,0 +1,18 @@
+{
+	"docker_network.absent": {
+		"prefix": "docker_network.absent:",
+		"body": [
+			"docker_network.absent:",
+			"$0"
+		],
+		"description": "docker_network.absent:"
+	},
+	"docker_network.present": {
+		"prefix": "docker_network.present:",
+		"body": [
+			"docker_network.present:",
+			"$0"
+		],
+		"description": "docker_network.present:"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"boto_s3.object_present": {
+		"prefix": "boto_s3.object_present:",
+		"body": [
+			"boto_s3.object_present:",
+			"$0"
+		],
+		"description": "boto_s3.object_present:"
+	}
+}

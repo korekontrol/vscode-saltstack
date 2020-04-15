@@ -1,0 +1,18 @@
+{
+	"boto_asg.absent": {
+		"prefix": "boto_asg.absent:",
+		"body": [
+			"boto_asg.absent:",
+			"$0"
+		],
+		"description": "boto_asg.absent:"
+	},
+	"boto_asg.present": {
+		"prefix": "boto_asg.present:",
+		"body": [
+			"boto_asg.present:",
+			"$0"
+		],
+		"description": "boto_asg.present:"
+	}
+}

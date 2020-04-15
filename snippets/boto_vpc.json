@@ -1,0 +1,138 @@
+{
+	"boto_vpc.absent": {
+		"prefix": "boto_vpc.absent:",
+		"body": [
+			"boto_vpc.absent:",
+			"$0"
+		],
+		"description": "boto_vpc.absent:"
+	},
+	"boto_vpc.accept_vpc_peering_connection": {
+		"prefix": "boto_vpc.accept_vpc_peering_connection:",
+		"body": [
+			"boto_vpc.accept_vpc_peering_connection:",
+			"$0"
+		],
+		"description": "boto_vpc.accept_vpc_peering_connection:"
+	},
+	"boto_vpc.delete_vpc_peering_connection": {
+		"prefix": "boto_vpc.delete_vpc_peering_connection:",
+		"body": [
+			"boto_vpc.delete_vpc_peering_connection:",
+			"$0"
+		],
+		"description": "boto_vpc.delete_vpc_peering_connection:"
+	},
+	"boto_vpc.dhcp_options_absent": {
+		"prefix": "boto_vpc.dhcp_options_absent:",
+		"body": [
+			"boto_vpc.dhcp_options_absent:",
+			"$0"
+		],
+		"description": "boto_vpc.dhcp_options_absent:"
+	},
+	"boto_vpc.dhcp_options_present": {
+		"prefix": "boto_vpc.dhcp_options_present:",
+		"body": [
+			"boto_vpc.dhcp_options_present:",
+			"$0"
+		],
+		"description": "boto_vpc.dhcp_options_present:"
+	},
+	"boto_vpc.internet_gateway_absent": {
+		"prefix": "boto_vpc.internet_gateway_absent:",
+		"body": [
+			"boto_vpc.internet_gateway_absent:",
+			"$0"
+		],
+		"description": "boto_vpc.internet_gateway_absent:"
+	},
+	"boto_vpc.internet_gateway_present": {
+		"prefix": "boto_vpc.internet_gateway_present:",
+		"body": [
+			"boto_vpc.internet_gateway_present:",
+			"$0"
+		],
+		"description": "boto_vpc.internet_gateway_present:"
+	},
+	"boto_vpc.nat_gateway_absent": {
+		"prefix": "boto_vpc.nat_gateway_absent:",
+		"body": [
+			"boto_vpc.nat_gateway_absent:",
+			"$0"
+		],
+		"description": "boto_vpc.nat_gateway_absent:"
+	},
+	"boto_vpc.nat_gateway_present": {
+		"prefix": "boto_vpc.nat_gateway_present:",
+		"body": [
+			"boto_vpc.nat_gateway_present:",
+			"$0"
+		],
+		"description": "boto_vpc.nat_gateway_present:"
+	},
+	"boto_vpc.present": {
+		"prefix": "boto_vpc.present:",
+		"body": [
+			"boto_vpc.present:",
+			"$0"
+		],
+		"description": "boto_vpc.present:"
+	},
+	"boto_vpc.request_vpc_peering_connection": {
+		"prefix": "boto_vpc.request_vpc_peering_connection:",
+		"body": [
+			"boto_vpc.request_vpc_peering_connection:",
+			"$0"
+		],
+		"description": "boto_vpc.request_vpc_peering_connection:"
+	},
+	"boto_vpc.route_table_absent": {
+		"prefix": "boto_vpc.route_table_absent:",
+		"body": [
+			"boto_vpc.route_table_absent:",
+			"$0"
+		],
+		"description": "boto_vpc.route_table_absent:"
+	},
+	"boto_vpc.route_table_present": {
+		"prefix": "boto_vpc.route_table_present:",
+		"body": [
+			"boto_vpc.route_table_present:",
+			"$0"
+		],
+		"description": "boto_vpc.route_table_present:"
+	},
+	"boto_vpc.subnet_absent": {
+		"prefix": "boto_vpc.subnet_absent:",
+		"body": [
+			"boto_vpc.subnet_absent:",
+			"$0"
+		],
+		"description": "boto_vpc.subnet_absent:"
+	},
+	"boto_vpc.subnet_present": {
+		"prefix": "boto_vpc.subnet_present:",
+		"body": [
+			"boto_vpc.subnet_present:",
+			"$0"
+		],
+		"description": "boto_vpc.subnet_present:"
+	},
+	"boto_vpc.vpc_peering_connection_absent": {
+		"prefix": "boto_vpc.vpc_peering_connection_absent:",
+		"body": [
+			"boto_vpc.vpc_peering_connection_absent:",
+			"$0"
+		],
+		"description": "boto_vpc.vpc_peering_connection_absent:"
+	},
+	"boto_vpc.vpc_peering_connection_present": {
+		"prefix": "boto_vpc.vpc_peering_connection_present:",
+		"body": [
+			"boto_vpc.vpc_peering_connection_present:",
+			"$0"
+		],
+		"description": "boto_vpc.vpc_peering_connection_present:"
+	}
+}

@@ -1,0 +1,50 @@
+{
+	"boto3_elasticache.cache_cluster_absent": {
+		"prefix": "boto3_elasticache.cache_cluster_absent:",
+		"body": [
+			"boto3_elasticache.cache_cluster_absent:",
+			"$0"
+		],
+		"description": "boto3_elasticache.cache_cluster_absent:"
+	},
+	"boto3_elasticache.cache_cluster_present": {
+		"prefix": "boto3_elasticache.cache_cluster_present:",
+		"body": [
+			"boto3_elasticache.cache_cluster_present:",
+			"$0"
+		],
+		"description": "boto3_elasticache.cache_cluster_present:"
+	},
+	"boto3_elasticache.cache_subnet_group_absent": {
+		"prefix": "boto3_elasticache.cache_subnet_group_absent:",
+		"body": [
+			"boto3_elasticache.cache_subnet_group_absent:",
+			"$0"
+		],
+		"description": "boto3_elasticache.cache_subnet_group_absent:"
+	},
+	"boto3_elasticache.cache_subnet_group_present": {
+		"prefix": "boto3_elasticache.cache_subnet_group_present:",
+		"body": [
+			"boto3_elasticache.cache_subnet_group_present:",
+			"$0"
+		],
+		"description": "boto3_elasticache.cache_subnet_group_present:"
+	},
+	"boto3_elasticache.replication_group_absent": {
+		"prefix": "boto3_elasticache.replication_group_absent:",
+		"body": [
+			"boto3_elasticache.replication_group_absent:",
+			"$0"
+		],
+		"description": "boto3_elasticache.replication_group_absent:"
+	},
+	"boto3_elasticache.replication_group_present": {
+		"prefix": "boto3_elasticache.replication_group_present:",
+		"body": [
+			"boto3_elasticache.replication_group_present:",
+			"$0"
+		],
+		"description": "boto3_elasticache.replication_group_present:"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"moby_network.absent": {
+		"prefix": "moby_network.absent:",
+		"body": [
+			"moby_network.absent:",
+			"$0"
+		],
+		"description": "moby_network.absent:"
+	},
+	"moby_network.present": {
+		"prefix": "moby_network.present:",
+		"body": [
+			"moby_network.present:",
+			"$0"
+		],
+		"description": "moby_network.present:"
+	}
+}

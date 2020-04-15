@@ -1,0 +1,34 @@
+{
+	"dvs.dvs_configured": {
+		"prefix": "dvs.dvs_configured:",
+		"body": [
+			"dvs.dvs_configured:",
+			"$0"
+		],
+		"description": "dvs.dvs_configured:"
+	},
+	"dvs.mod_init": {
+		"prefix": "dvs.mod_init:",
+		"body": [
+			"dvs.mod_init:",
+			"$0"
+		],
+		"description": "dvs.mod_init:"
+	},
+	"dvs.portgroups_configured": {
+		"prefix": "dvs.portgroups_configured:",
+		"body": [
+			"dvs.portgroups_configured:",
+			"$0"
+		],
+		"description": "dvs.portgroups_configured:"
+	},
+	"dvs.uplink_portgroup_configured": {
+		"prefix": "dvs.uplink_portgroup_configured:",
+		"body": [
+			"dvs.uplink_portgroup_configured:",
+			"$0"
+		],
+		"description": "dvs.uplink_portgroup_configured:"
+	}
+}

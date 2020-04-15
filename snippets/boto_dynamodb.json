@@ -1,0 +1,18 @@
+{
+	"boto_dynamodb.absent": {
+		"prefix": "boto_dynamodb.absent:",
+		"body": [
+			"boto_dynamodb.absent:",
+			"$0"
+		],
+		"description": "boto_dynamodb.absent:"
+	},
+	"boto_dynamodb.present": {
+		"prefix": "boto_dynamodb.present:",
+		"body": [
+			"boto_dynamodb.present:",
+			"$0"
+		],
+		"description": "boto_dynamodb.present:"
+	}
+}

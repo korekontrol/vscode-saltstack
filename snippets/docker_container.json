@@ -1,0 +1,42 @@
+{
+	"docker_container.absent": {
+		"prefix": "docker_container.absent:",
+		"body": [
+			"docker_container.absent:",
+			"$0"
+		],
+		"description": "docker_container.absent:"
+	},
+	"docker_container.mod_run_check": {
+		"prefix": "docker_container.mod_run_check:",
+		"body": [
+			"docker_container.mod_run_check:",
+			"$0"
+		],
+		"description": "docker_container.mod_run_check:"
+	},
+	"docker_container.run": {
+		"prefix": "docker_container.run:",
+		"body": [
+			"docker_container.run:",
+			"$0"
+		],
+		"description": "docker_container.run:"
+	},
+	"docker_container.running": {
+		"prefix": "docker_container.running:",
+		"body": [
+			"docker_container.running:",
+			"$0"
+		],
+		"description": "docker_container.running:"
+	},
+	"docker_container.stopped": {
+		"prefix": "docker_container.stopped:",
+		"body": [
+			"docker_container.stopped:",
+			"$0"
+		],
+		"description": "docker_container.stopped:"
+	}
+}

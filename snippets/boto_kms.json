@@ -1,0 +1,10 @@
+{
+	"boto_kms.key_present": {
+		"prefix": "boto_kms.key_present:",
+		"body": [
+			"boto_kms.key_present:",
+			"$0"
+		],
+		"description": "boto_kms.key_present:"
+	}
+}

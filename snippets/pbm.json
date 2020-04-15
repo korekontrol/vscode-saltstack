@@ -1,0 +1,50 @@
+{
+	"pbm.default_storage_policy_assigned": {
+		"prefix": "pbm.default_storage_policy_assigned:",
+		"body": [
+			"pbm.default_storage_policy_assigned:",
+			"$0"
+		],
+		"description": "pbm.default_storage_policy_assigned:"
+	},
+	"pbm.default_vsan_policy_configured": {
+		"prefix": "pbm.default_vsan_policy_configured:",
+		"body": [
+			"pbm.default_vsan_policy_configured:",
+			"$0"
+		],
+		"description": "pbm.default_vsan_policy_configured:"
+	},
+	"pbm.list_diff": {
+		"prefix": "pbm.list_diff:",
+		"body": [
+			"pbm.list_diff:",
+			"$0"
+		],
+		"description": "pbm.list_diff:"
+	},
+	"pbm.mod_init": {
+		"prefix": "pbm.mod_init:",
+		"body": [
+			"pbm.mod_init:",
+			"$0"
+		],
+		"description": "pbm.mod_init:"
+	},
+	"pbm.recursive_diff": {
+		"prefix": "pbm.recursive_diff:",
+		"body": [
+			"pbm.recursive_diff:",
+			"$0"
+		],
+		"description": "pbm.recursive_diff:"
+	},
+	"pbm.storage_policies_configured": {
+		"prefix": "pbm.storage_policies_configured:",
+		"body": [
+			"pbm.storage_policies_configured:",
+			"$0"
+		],
+		"description": "pbm.storage_policies_configured:"
+	}
+}

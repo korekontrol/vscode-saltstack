@@ -1,0 +1,10 @@
+{
+	"boto_cloudfront.present": {
+		"prefix": "boto_cloudfront.present:",
+		"body": [
+			"boto_cloudfront.present:",
+			"$0"
+		],
+		"description": "boto_cloudfront.present:"
+	}
+}

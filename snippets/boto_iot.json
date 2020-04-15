@@ -1,0 +1,66 @@
+{
+	"boto_iot.policy_absent": {
+		"prefix": "boto_iot.policy_absent:",
+		"body": [
+			"boto_iot.policy_absent:",
+			"$0"
+		],
+		"description": "boto_iot.policy_absent:"
+	},
+	"boto_iot.policy_attached": {
+		"prefix": "boto_iot.policy_attached:",
+		"body": [
+			"boto_iot.policy_attached:",
+			"$0"
+		],
+		"description": "boto_iot.policy_attached:"
+	},
+	"boto_iot.policy_detached": {
+		"prefix": "boto_iot.policy_detached:",
+		"body": [
+			"boto_iot.policy_detached:",
+			"$0"
+		],
+		"description": "boto_iot.policy_detached:"
+	},
+	"boto_iot.policy_present": {
+		"prefix": "boto_iot.policy_present:",
+		"body": [
+			"boto_iot.policy_present:",
+			"$0"
+		],
+		"description": "boto_iot.policy_present:"
+	},
+	"boto_iot.thing_type_absent": {
+		"prefix": "boto_iot.thing_type_absent:",
+		"body": [
+			"boto_iot.thing_type_absent:",
+			"$0"
+		],
+		"description": "boto_iot.thing_type_absent:"
+	},
+	"boto_iot.thing_type_present": {
+		"prefix": "boto_iot.thing_type_present:",
+		"body": [
+			"boto_iot.thing_type_present:",
+			"$0"
+		],
+		"description": "boto_iot.thing_type_present:"
+	},
+	"boto_iot.topic_rule_absent": {
+		"prefix": "boto_iot.topic_rule_absent:",
+		"body": [
+			"boto_iot.topic_rule_absent:",
+			"$0"
+		],
+		"description": "boto_iot.topic_rule_absent:"
+	},
+	"boto_iot.topic_rule_present": {
+		"prefix": "boto_iot.topic_rule_present:",
+		"body": [
+			"boto_iot.topic_rule_present:",
+			"$0"
+		],
+		"description": "boto_iot.topic_rule_present:"
+	}
+}

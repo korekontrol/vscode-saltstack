@@ -1,0 +1,10 @@
+{
+	"mongodb_database.absent": {
+		"prefix": "mongodb_database.absent:",
+		"body": [
+			"mongodb_database.absent:",
+			"$0"
+		],
+		"description": "mongodb_database.absent:"
+	}
+}

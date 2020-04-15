@@ -85,6 +85,14 @@
 			},
 			{
 				"language": "sls",
+				"path": "./snippets/azurearm_compute.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/azurearm_network.json"
+			},
+			{
+				"language": "sls",
 				"path": "./snippets/beacon.json"
 			},
 			{
@@ -94,6 +102,142 @@
 			{
 				"language": "sls",
 				"path": "./snippets/blockdev.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto3_elasticache.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto3_elasticsearch.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto3_route53.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto3_sns.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_apigateway.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_asg.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_cfn.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_cloudfront.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_cloudtrail.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_cloudwatch_alarm.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_cloudwatch_event.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_cognitoidentity.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_datapipeline.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_dynamodb.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_ec2.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_elasticache.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_elasticsearch_domain.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_elb.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_elbv2.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_iam.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_iam_role.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_iot.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_kinesis.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_kms.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_lambda.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_lc.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_rds.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_route53.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_s3.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_s3_bucket.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_secgroup.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_sns.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_sqs.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_vpc.json"
 			},
 			{
 				"language": "sls",
@@ -121,6 +265,10 @@
 			},
 			{
 				"language": "sls",
+				"path": "./snippets/cron.json"
+			},
+			{
+				"language": "sls",
 				"path": "./snippets/cryptdev.json"
 			},
 			{
@@ -129,7 +277,31 @@
 			},
 			{
 				"language": "sls",
+				"path": "./snippets/ddns.json"
+			},
+			{
+				"language": "sls",
 				"path": "./snippets/disk.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/docker_container.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/docker_image.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/docker_network.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/docker_volume.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/dvs.json"
 			},
 			{
 				"language": "sls",
@@ -309,6 +481,22 @@
 			},
 			{
 				"language": "sls",
+				"path": "./snippets/moby_container.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/moby_image.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/moby_network.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/moby_volume.json"
+			},
+			{
+				"language": "sls",
 				"path": "./snippets/modjk.json"
 			},
 			{
@@ -318,6 +506,14 @@
 			{
 				"language": "sls",
 				"path": "./snippets/module.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/mongodb_database.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/mongodb_user.json"
 			},
 			{
 				"language": "sls",
@@ -365,6 +561,10 @@
 			},
 			{
 				"language": "sls",
+				"path": "./snippets/pbm.json"
+			},
+			{
+				"language": "sls",
 				"path": "./snippets/pip.json"
 			},
 			{
@@ -394,6 +594,10 @@
 			{
 				"language": "sls",
 				"path": "./snippets/rbenv.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/rsync.json"
 			},
 			{
 				"language": "sls",
@@ -474,6 +678,10 @@
 			{
 				"language": "sls",
 				"path": "./snippets/timezone.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/tomcat.json"
 			},
 			{
 				"language": "sls",

@@ -1,0 +1,42 @@
+{
+	"boto3_elasticsearch.absent": {
+		"prefix": "boto3_elasticsearch.absent:",
+		"body": [
+			"boto3_elasticsearch.absent:",
+			"$0"
+		],
+		"description": "boto3_elasticsearch.absent:"
+	},
+	"boto3_elasticsearch.latest": {
+		"prefix": "boto3_elasticsearch.latest:",
+		"body": [
+			"boto3_elasticsearch.latest:",
+			"$0"
+		],
+		"description": "boto3_elasticsearch.latest:"
+	},
+	"boto3_elasticsearch.present": {
+		"prefix": "boto3_elasticsearch.present:",
+		"body": [
+			"boto3_elasticsearch.present:",
+			"$0"
+		],
+		"description": "boto3_elasticsearch.present:"
+	},
+	"boto3_elasticsearch.tagged": {
+		"prefix": "boto3_elasticsearch.tagged:",
+		"body": [
+			"boto3_elasticsearch.tagged:",
+			"$0"
+		],
+		"description": "boto3_elasticsearch.tagged:"
+	},
+	"boto3_elasticsearch.upgraded": {
+		"prefix": "boto3_elasticsearch.upgraded:",
+		"body": [
+			"boto3_elasticsearch.upgraded:",
+			"$0"
+		],
+		"description": "boto3_elasticsearch.upgraded:"
+	}
+}
