@@ -1,0 +1,26 @@
+{
+	"ethtool.coalesce": {
+		"prefix": "ethtool.coalesce:",
+		"body": [
+			"ethtool.coalesce:",
+			"$0"
+		],
+		"description": "ethtool.coalesce:"
+	},
+	"ethtool.offload": {
+		"prefix": "ethtool.offload:",
+		"body": [
+			"ethtool.offload:",
+			"$0"
+		],
+		"description": "ethtool.offload:"
+	},
+	"ethtool.ring": {
+		"prefix": "ethtool.ring:",
+		"body": [
+			"ethtool.ring:",
+			"$0"
+		],
+		"description": "ethtool.ring:"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"artifactory.downloaded": {
+		"prefix": "artifactory.downloaded:",
+		"body": [
+			"artifactory.downloaded:",
+			"$0"
+		],
+		"description": "artifactory.downloaded:"
+	}
+}

@@ -1,0 +1,34 @@
+{
+	"beacon.absent": {
+		"prefix": "beacon.absent:",
+		"body": [
+			"beacon.absent:",
+			"$0"
+		],
+		"description": "beacon.absent:"
+	},
+	"beacon.disabled": {
+		"prefix": "beacon.disabled:",
+		"body": [
+			"beacon.disabled:",
+			"$0"
+		],
+		"description": "beacon.disabled:"
+	},
+	"beacon.enabled": {
+		"prefix": "beacon.enabled:",
+		"body": [
+			"beacon.enabled:",
+			"$0"
+		],
+		"description": "beacon.enabled:"
+	},
+	"beacon.present": {
+		"prefix": "beacon.present:",
+		"body": [
+			"beacon.present:",
+			"$0"
+		],
+		"description": "beacon.present:"
+	}
+}

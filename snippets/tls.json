@@ -1,0 +1,10 @@
+{
+	"tls.valid_certificate": {
+		"body": [
+			"tls.valid_certificate:",
+			"$0"
+		],
+		"prefix": "tls.valid_certificate:",
+		"description": "tls.valid_certificate:"
+	}
+}

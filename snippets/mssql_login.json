@@ -1,0 +1,18 @@
+{
+	"mssql_login.absent": {
+		"body": [
+			"mssql_login.absent:",
+			"$0"
+		],
+		"prefix": "mssql_login.absent:",
+		"description": "mssql_login.absent:"
+	},
+	"mssql_login.present": {
+		"body": [
+			"mssql_login.present:",
+			"$0"
+		],
+		"prefix": "mssql_login.present:",
+		"description": "mssql_login.present:"
+	}
+}

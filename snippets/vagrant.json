@@ -1,0 +1,58 @@
+{
+	"vagrant.running": {
+		"body": [
+			"vagrant.running:",
+			"$0"
+		],
+		"prefix": "vagrant.running:",
+		"description": "vagrant.running:"
+	},
+	"vagrant.rebooted": {
+		"body": [
+			"vagrant.rebooted:",
+			"$0"
+		],
+		"prefix": "vagrant.rebooted:",
+		"description": "vagrant.rebooted:"
+	},
+	"vagrant.stopped": {
+		"body": [
+			"vagrant.stopped:",
+			"$0"
+		],
+		"prefix": "vagrant.stopped:",
+		"description": "vagrant.stopped:"
+	},
+	"vagrant.paused": {
+		"body": [
+			"vagrant.paused:",
+			"$0"
+		],
+		"prefix": "vagrant.paused:",
+		"description": "vagrant.paused:"
+	},
+	"vagrant.powered_off": {
+		"body": [
+			"vagrant.powered_off:",
+			"$0"
+		],
+		"prefix": "vagrant.powered_off:",
+		"description": "vagrant.powered_off:"
+	},
+	"vagrant.destroyed": {
+		"body": [
+			"vagrant.destroyed:",
+			"$0"
+		],
+		"prefix": "vagrant.destroyed:",
+		"description": "vagrant.destroyed:"
+	},
+	"vagrant.initialized": {
+		"body": [
+			"vagrant.initialized:",
+			"$0"
+		],
+		"prefix": "vagrant.initialized:",
+		"description": "vagrant.initialized:"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"grafana4_org.absent": {
+		"prefix": "grafana4_org.absent:",
+		"body": [
+			"grafana4_org.absent:",
+			"$0"
+		],
+		"description": "grafana4_org.absent:"
+	},
+	"grafana4_org.deep_diff": {
+		"prefix": "grafana4_org.deep_diff:",
+		"body": [
+			"grafana4_org.deep_diff:",
+			"$0"
+		],
+		"description": "grafana4_org.deep_diff:"
+	},
+	"grafana4_org.present": {
+		"prefix": "grafana4_org.present:",
+		"body": [
+			"grafana4_org.present:",
+			"$0"
+		],
+		"description": "grafana4_org.present:"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"group.absent": {
+		"prefix": "group.absent:",
+		"body": [
+			"group.absent:",
+			"$0"
+		],
+		"description": "group.absent:"
+	},
+	"group.present": {
+		"prefix": "group.present:",
+		"body": [
+			"group.present:",
+			"$0"
+		],
+		"description": "group.present:"
+	}
+}

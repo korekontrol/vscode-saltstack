@@ -1,0 +1,34 @@
+{
+	"schedule.absent": {
+		"prefix": "schedule.absent:",
+		"body": [
+			"schedule.absent:",
+			"$0"
+		],
+		"description": "schedule.absent:"
+	},
+	"schedule.disabled": {
+		"prefix": "schedule.disabled:",
+		"body": [
+			"schedule.disabled:",
+			"$0"
+		],
+		"description": "schedule.disabled:"
+	},
+	"schedule.enabled": {
+		"prefix": "schedule.enabled:",
+		"body": [
+			"schedule.enabled:",
+			"$0"
+		],
+		"description": "schedule.enabled:"
+	},
+	"schedule.present": {
+		"prefix": "schedule.present:",
+		"body": [
+			"schedule.present:",
+			"$0"
+		],
+		"description": "schedule.present:"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"infoblox_a.absent": {
+		"prefix": "infoblox_a.absent:",
+		"body": [
+			"infoblox_a.absent:",
+			"$0"
+		],
+		"description": "infoblox_a.absent:"
+	},
+	"infoblox_a.present": {
+		"prefix": "infoblox_a.present:",
+		"body": [
+			"infoblox_a.present:",
+			"$0"
+		],
+		"description": "infoblox_a.present:"
+	}
+}

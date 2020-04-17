@@ -1,0 +1,10 @@
+{
+	"timezone.system": {
+		"prefix": "timezone.system:",
+		"body": [
+			"timezone.system:",
+			"$0"
+		],
+		"description": "timezone.system:"
+	}
+}

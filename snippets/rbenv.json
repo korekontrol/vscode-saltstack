@@ -1,0 +1,26 @@
+{
+	"rbenv.absent": {
+		"prefix": "rbenv.absent:",
+		"body": [
+			"rbenv.absent:",
+			"$0"
+		],
+		"description": "rbenv.absent:"
+	},
+	"rbenv.install_rbenv": {
+		"prefix": "rbenv.install_rbenv:",
+		"body": [
+			"rbenv.install_rbenv:",
+			"$0"
+		],
+		"description": "rbenv.install_rbenv:"
+	},
+	"rbenv.installed": {
+		"prefix": "rbenv.installed:",
+		"body": [
+			"rbenv.installed:",
+			"$0"
+		],
+		"description": "rbenv.installed:"
+	}
+}

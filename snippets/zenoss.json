@@ -1,0 +1,10 @@
+{
+	"zenoss.monitored": {
+		"prefix": "zenoss.monitored:",
+		"body": [
+			"zenoss.monitored:",
+			"$0"
+		],
+		"description": "zenoss.monitored:"
+	}
+}

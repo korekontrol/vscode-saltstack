@@ -1,0 +1,18 @@
+{
+	"zabbix_valuemap.absent": {
+		"prefix": "zabbix_valuemap.absent:",
+		"body": [
+			"zabbix_valuemap.absent:",
+			"$0"
+		],
+		"description": "zabbix_valuemap.absent:"
+	},
+	"zabbix_valuemap.present": {
+		"prefix": "zabbix_valuemap.present:",
+		"body": [
+			"zabbix_valuemap.present:",
+			"$0"
+		],
+		"description": "zabbix_valuemap.present:"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"pkgng.update_packaging_site": {
+		"prefix": "pkgng.update_packaging_site:",
+		"body": [
+			"pkgng.update_packaging_site:",
+			"$0"
+		],
+		"description": "pkgng.update_packaging_site:"
+	}
+}

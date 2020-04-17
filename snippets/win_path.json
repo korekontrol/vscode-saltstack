@@ -1,0 +1,18 @@
+{
+	"win_path.exists": {
+		"body": [
+			"win_path.exists:",
+			"$0"
+		],
+		"prefix": "win_path.exists:",
+		"description": "win_path.exists:"
+	},
+	"win_path.absent": {
+		"body": [
+			"win_path.absent:",
+			"$0"
+		],
+		"prefix": "win_path.absent:",
+		"description": "win_path.absent:"
+	}
+}

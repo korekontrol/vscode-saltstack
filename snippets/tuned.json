@@ -1,0 +1,18 @@
+{
+	"tuned.off": {
+		"prefix": "tuned.off:",
+		"body": [
+			"tuned.off:",
+			"$0"
+		],
+		"description": "tuned.off:"
+	},
+	"tuned.profile": {
+		"prefix": "tuned.profile:",
+		"body": [
+			"tuned.profile:",
+			"$0"
+		],
+		"description": "tuned.profile:"
+	}
+}

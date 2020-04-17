@@ -1,0 +1,18 @@
+{
+	"composer.installed": {
+		"prefix": "composer.installed:",
+		"body": [
+			"composer.installed:",
+			"$0"
+		],
+		"description": "composer.installed:"
+	},
+	"composer.update": {
+		"prefix": "composer.update:",
+		"body": [
+			"composer.update:",
+			"$0"
+		],
+		"description": "composer.update:"
+	}
+}

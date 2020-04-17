@@ -1,0 +1,34 @@
+{
+	"syslog_ng.config": {
+		"prefix": "syslog_ng.config:",
+		"body": [
+			"syslog_ng.config:",
+			"$0"
+		],
+		"description": "syslog_ng.config:"
+	},
+	"syslog_ng.reloaded": {
+		"prefix": "syslog_ng.reloaded:",
+		"body": [
+			"syslog_ng.reloaded:",
+			"$0"
+		],
+		"description": "syslog_ng.reloaded:"
+	},
+	"syslog_ng.started": {
+		"prefix": "syslog_ng.started:",
+		"body": [
+			"syslog_ng.started:",
+			"$0"
+		],
+		"description": "syslog_ng.started:"
+	},
+	"syslog_ng.stopped": {
+		"prefix": "syslog_ng.stopped:",
+		"body": [
+			"syslog_ng.stopped:",
+			"$0"
+		],
+		"description": "syslog_ng.stopped:"
+	}
+}

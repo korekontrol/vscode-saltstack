@@ -1,0 +1,18 @@
+{
+	"mssql_role.absent": {
+		"body": [
+			"mssql_role.absent:",
+			"$0"
+		],
+		"prefix": "mssql_role.absent:",
+		"description": "mssql_role.absent:"
+	},
+	"mssql_role.present": {
+		"body": [
+			"mssql_role.present:",
+			"$0"
+		],
+		"prefix": "mssql_role.present:",
+		"description": "mssql_role.present:"
+	}
+}

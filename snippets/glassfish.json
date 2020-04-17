@@ -1,0 +1,66 @@
+{
+	"glassfish.connection_factory_absent": {
+		"prefix": "glassfish.connection_factory_absent:",
+		"body": [
+			"glassfish.connection_factory_absent:",
+			"$0"
+		],
+		"description": "glassfish.connection_factory_absent:"
+	},
+	"glassfish.connection_factory_present": {
+		"prefix": "glassfish.connection_factory_present:",
+		"body": [
+			"glassfish.connection_factory_present:",
+			"$0"
+		],
+		"description": "glassfish.connection_factory_present:"
+	},
+	"glassfish.destination_absent": {
+		"prefix": "glassfish.destination_absent:",
+		"body": [
+			"glassfish.destination_absent:",
+			"$0"
+		],
+		"description": "glassfish.destination_absent:"
+	},
+	"glassfish.destination_present": {
+		"prefix": "glassfish.destination_present:",
+		"body": [
+			"glassfish.destination_present:",
+			"$0"
+		],
+		"description": "glassfish.destination_present:"
+	},
+	"glassfish.jdbc_datasource_absent": {
+		"prefix": "glassfish.jdbc_datasource_absent:",
+		"body": [
+			"glassfish.jdbc_datasource_absent:",
+			"$0"
+		],
+		"description": "glassfish.jdbc_datasource_absent:"
+	},
+	"glassfish.jdbc_datasource_present": {
+		"prefix": "glassfish.jdbc_datasource_present:",
+		"body": [
+			"glassfish.jdbc_datasource_present:",
+			"$0"
+		],
+		"description": "glassfish.jdbc_datasource_present:"
+	},
+	"glassfish.system_properties_absent": {
+		"prefix": "glassfish.system_properties_absent:",
+		"body": [
+			"glassfish.system_properties_absent:",
+			"$0"
+		],
+		"description": "glassfish.system_properties_absent:"
+	},
+	"glassfish.system_properties_present": {
+		"prefix": "glassfish.system_properties_present:",
+		"body": [
+			"glassfish.system_properties_present:",
+			"$0"
+		],
+		"description": "glassfish.system_properties_present:"
+	}
+}

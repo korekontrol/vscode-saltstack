@@ -1,0 +1,10 @@
+{
+	"uptime.monitored": {
+		"prefix": "uptime.monitored:",
+		"body": [
+			"uptime.monitored:",
+			"$0"
+		],
+		"description": "uptime.monitored:"
+	}
+}

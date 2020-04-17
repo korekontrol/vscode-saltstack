@@ -1,0 +1,58 @@
+{
+	"system.computer_name": {
+		"body": [
+			"system.computer_name:",
+			"$0"
+		],
+		"prefix": "system.computer_name:",
+		"description": "system.computer_name:"
+	},
+	"system.shutdown": {
+		"body": [
+			"system.shutdown:",
+			"$0"
+		],
+		"prefix": "system.shutdown:",
+		"description": "system.shutdown:"
+	},
+	"system.computer_desc": {
+		"body": [
+			"system.computer_desc:",
+			"$0"
+		],
+		"prefix": "system.computer_desc:",
+		"description": "system.computer_desc:"
+	},
+	"system.computer_description": {
+		"body": [
+			"system.computer_description:",
+			"$0"
+		],
+		"prefix": "system.computer_description:",
+		"description": "system.computer_description:"
+	},
+	"system.join_domain": {
+		"body": [
+			"system.join_domain:",
+			"$0"
+		],
+		"prefix": "system.join_domain:",
+		"description": "system.join_domain:"
+	},
+	"system.hostname": {
+		"body": [
+			"system.hostname:",
+			"$0"
+		],
+		"prefix": "system.hostname:",
+		"description": "system.hostname:"
+	},
+	"system.reboot": {
+		"body": [
+			"system.reboot:",
+			"$0"
+		],
+		"prefix": "system.reboot:",
+		"description": "system.reboot:"
+	}
+}

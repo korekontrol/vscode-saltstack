@@ -1,0 +1,34 @@
+{
+	"jboss7.bindings_exist": {
+		"prefix": "jboss7.bindings_exist:",
+		"body": [
+			"jboss7.bindings_exist:",
+			"$0"
+		],
+		"description": "jboss7.bindings_exist:"
+	},
+	"jboss7.datasource_exists": {
+		"prefix": "jboss7.datasource_exists:",
+		"body": [
+			"jboss7.datasource_exists:",
+			"$0"
+		],
+		"description": "jboss7.datasource_exists:"
+	},
+	"jboss7.deployed": {
+		"prefix": "jboss7.deployed:",
+		"body": [
+			"jboss7.deployed:",
+			"$0"
+		],
+		"description": "jboss7.deployed:"
+	},
+	"jboss7.reloaded": {
+		"prefix": "jboss7.reloaded:",
+		"body": [
+			"jboss7.reloaded:",
+			"$0"
+		],
+		"description": "jboss7.reloaded:"
+	}
+}

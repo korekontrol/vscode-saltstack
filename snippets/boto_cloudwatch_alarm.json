@@ -1,0 +1,18 @@
+{
+	"boto_cloudwatch_alarm.absent": {
+		"prefix": "boto_cloudwatch_alarm.absent:",
+		"body": [
+			"boto_cloudwatch_alarm.absent:",
+			"$0"
+		],
+		"description": "boto_cloudwatch_alarm.absent:"
+	},
+	"boto_cloudwatch_alarm.present": {
+		"prefix": "boto_cloudwatch_alarm.present:",
+		"body": [
+			"boto_cloudwatch_alarm.present:",
+			"$0"
+		],
+		"description": "boto_cloudwatch_alarm.present:"
+	}
+}

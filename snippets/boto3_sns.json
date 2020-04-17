@@ -1,0 +1,18 @@
+{
+	"boto3_sns.topic_absent": {
+		"prefix": "boto3_sns.topic_absent:",
+		"body": [
+			"boto3_sns.topic_absent:",
+			"$0"
+		],
+		"description": "boto3_sns.topic_absent:"
+	},
+	"boto3_sns.topic_present": {
+		"prefix": "boto3_sns.topic_present:",
+		"body": [
+			"boto3_sns.topic_present:",
+			"$0"
+		],
+		"description": "boto3_sns.topic_present:"
+	}
+}

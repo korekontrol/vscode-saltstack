@@ -1,0 +1,18 @@
+{
+	"zabbix_usergroup.absent": {
+		"prefix": "zabbix_usergroup.absent:",
+		"body": [
+			"zabbix_usergroup.absent:",
+			"$0"
+		],
+		"description": "zabbix_usergroup.absent:"
+	},
+	"zabbix_usergroup.present": {
+		"prefix": "zabbix_usergroup.present:",
+		"body": [
+			"zabbix_usergroup.present:",
+			"$0"
+		],
+		"description": "zabbix_usergroup.present:"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"loop.until": {
+		"prefix": "loop.until:",
+		"body": [
+			"loop.until:",
+			"$0"
+		],
+		"description": "loop.until:"
+	},
+	"loop.until_no_eval": {
+		"prefix": "loop.until_no_eval:",
+		"body": [
+			"loop.until_no_eval:",
+			"$0"
+		],
+		"description": "loop.until_no_eval:"
+	}
+}

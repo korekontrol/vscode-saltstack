@@ -1,0 +1,66 @@
+{
+	"cmd.call": {
+		"prefix": "cmd.call:",
+		"body": [
+			"cmd.call:",
+			"$0"
+		],
+		"description": "cmd.call:"
+	},
+	"cmd.mod_run_check": {
+		"prefix": "cmd.mod_run_check:",
+		"body": [
+			"cmd.mod_run_check:",
+			"$0"
+		],
+		"description": "cmd.mod_run_check:"
+	},
+	"cmd.run": {
+		"prefix": "cmd.run:",
+		"body": [
+			"cmd.run:",
+			"$0"
+		],
+		"description": "cmd.run:"
+	},
+	"cmd.script": {
+		"prefix": "cmd.script:",
+		"body": [
+			"cmd.script:",
+			"$0"
+		],
+		"description": "cmd.script:"
+	},
+	"cmd.wait": {
+		"prefix": "cmd.wait:",
+		"body": [
+			"cmd.wait:",
+			"$0"
+		],
+		"description": "cmd.wait:"
+	},
+	"cmd.wait_call": {
+		"prefix": "cmd.wait_call:",
+		"body": [
+			"cmd.wait_call:",
+			"$0"
+		],
+		"description": "cmd.wait_call:"
+	},
+	"cmd.wait_script": {
+		"prefix": "cmd.wait_script:",
+		"body": [
+			"cmd.wait_script:",
+			"$0"
+		],
+		"description": "cmd.wait_script:"
+	},
+	"cmd.watch": {
+		"prefix": "cmd.watch:",
+		"body": [
+			"cmd.watch:",
+			"$0"
+		],
+		"description": "cmd.watch:"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"pyenv.absent": {
+		"prefix": "pyenv.absent:",
+		"body": [
+			"pyenv.absent:",
+			"$0"
+		],
+		"description": "pyenv.absent:"
+	},
+	"pyenv.install_pyenv": {
+		"prefix": "pyenv.install_pyenv:",
+		"body": [
+			"pyenv.install_pyenv:",
+			"$0"
+		],
+		"description": "pyenv.install_pyenv:"
+	},
+	"pyenv.installed": {
+		"prefix": "pyenv.installed:",
+		"body": [
+			"pyenv.installed:",
+			"$0"
+		],
+		"description": "pyenv.installed:"
+	}
+}

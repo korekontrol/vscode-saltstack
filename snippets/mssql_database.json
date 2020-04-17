@@ -1,0 +1,18 @@
+{
+	"mssql_database.present": {
+		"body": [
+			"mssql_database.present:",
+			"$0"
+		],
+		"prefix": "mssql_database.present:",
+		"description": "mssql_database.present:"
+	},
+	"mssql_database.absent": {
+		"body": [
+			"mssql_database.absent:",
+			"$0"
+		],
+		"prefix": "mssql_database.absent:",
+		"description": "mssql_database.absent:"
+	}
+}

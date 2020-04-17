@@ -1,0 +1,42 @@
+{
+	"mount.fstab_absent": {
+		"prefix": "mount.fstab_absent:",
+		"body": [
+			"mount.fstab_absent:",
+			"$0"
+		],
+		"description": "mount.fstab_absent:"
+	},
+	"mount.fstab_present": {
+		"prefix": "mount.fstab_present:",
+		"body": [
+			"mount.fstab_present:",
+			"$0"
+		],
+		"description": "mount.fstab_present:"
+	},
+	"mount.mounted": {
+		"prefix": "mount.mounted:",
+		"body": [
+			"mount.mounted:",
+			"$0"
+		],
+		"description": "mount.mounted:"
+	},
+	"mount.swap": {
+		"prefix": "mount.swap:",
+		"body": [
+			"mount.swap:",
+			"$0"
+		],
+		"description": "mount.swap:"
+	},
+	"mount.unmounted": {
+		"prefix": "mount.unmounted:",
+		"body": [
+			"mount.unmounted:",
+			"$0"
+		],
+		"description": "mount.unmounted:"
+	}
+}

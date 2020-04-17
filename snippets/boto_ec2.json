@@ -1,0 +1,98 @@
+{
+	"boto_ec2.eni_absent": {
+		"prefix": "boto_ec2.eni_absent:",
+		"body": [
+			"boto_ec2.eni_absent:",
+			"$0"
+		],
+		"description": "boto_ec2.eni_absent:"
+	},
+	"boto_ec2.eni_present": {
+		"prefix": "boto_ec2.eni_present:",
+		"body": [
+			"boto_ec2.eni_present:",
+			"$0"
+		],
+		"description": "boto_ec2.eni_present:"
+	},
+	"boto_ec2.instance_absent": {
+		"prefix": "boto_ec2.instance_absent:",
+		"body": [
+			"boto_ec2.instance_absent:",
+			"$0"
+		],
+		"description": "boto_ec2.instance_absent:"
+	},
+	"boto_ec2.instance_present": {
+		"prefix": "boto_ec2.instance_present:",
+		"body": [
+			"boto_ec2.instance_present:",
+			"$0"
+		],
+		"description": "boto_ec2.instance_present:"
+	},
+	"boto_ec2.key_absent": {
+		"prefix": "boto_ec2.key_absent:",
+		"body": [
+			"boto_ec2.key_absent:",
+			"$0"
+		],
+		"description": "boto_ec2.key_absent:"
+	},
+	"boto_ec2.key_present": {
+		"prefix": "boto_ec2.key_present:",
+		"body": [
+			"boto_ec2.key_present:",
+			"$0"
+		],
+		"description": "boto_ec2.key_present:"
+	},
+	"boto_ec2.private_ips_absent": {
+		"prefix": "boto_ec2.private_ips_absent:",
+		"body": [
+			"boto_ec2.private_ips_absent:",
+			"$0"
+		],
+		"description": "boto_ec2.private_ips_absent:"
+	},
+	"boto_ec2.private_ips_present": {
+		"prefix": "boto_ec2.private_ips_present:",
+		"body": [
+			"boto_ec2.private_ips_present:",
+			"$0"
+		],
+		"description": "boto_ec2.private_ips_present:"
+	},
+	"boto_ec2.snapshot_created": {
+		"prefix": "boto_ec2.snapshot_created:",
+		"body": [
+			"boto_ec2.snapshot_created:",
+			"$0"
+		],
+		"description": "boto_ec2.snapshot_created:"
+	},
+	"boto_ec2.volume_absent": {
+		"prefix": "boto_ec2.volume_absent:",
+		"body": [
+			"boto_ec2.volume_absent:",
+			"$0"
+		],
+		"description": "boto_ec2.volume_absent:"
+	},
+	"boto_ec2.volume_present": {
+		"prefix": "boto_ec2.volume_present:",
+		"body": [
+			"boto_ec2.volume_present:",
+			"$0"
+		],
+		"description": "boto_ec2.volume_present:"
+	},
+	"boto_ec2.volumes_tagged": {
+		"prefix": "boto_ec2.volumes_tagged:",
+		"body": [
+			"boto_ec2.volumes_tagged:",
+			"$0"
+		],
+		"description": "boto_ec2.volumes_tagged:"
+	}
+}

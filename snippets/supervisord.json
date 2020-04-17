@@ -1,0 +1,18 @@
+{
+	"supervisord.dead": {
+		"prefix": "supervisord.dead:",
+		"body": [
+			"supervisord.dead:",
+			"$0"
+		],
+		"description": "supervisord.dead:"
+	},
+	"supervisord.running": {
+		"prefix": "supervisord.running:",
+		"body": [
+			"supervisord.running:",
+			"$0"
+		],
+		"description": "supervisord.running:"
+	}
+}

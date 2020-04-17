@@ -1,0 +1,18 @@
+{
+	"mysql_database.absent": {
+		"body": [
+			"mysql_database.absent:",
+			"$0"
+		],
+		"prefix": "mysql_database.absent:",
+		"description": "mysql_database.absent:"
+	},
+	"mysql_database.present": {
+		"body": [
+			"mysql_database.present:",
+			"$0"
+		],
+		"prefix": "mysql_database.present:",
+		"description": "mysql_database.present:"
+	}
+}

@@ -1,0 +1,286 @@
+{
+	"file.absent": {
+		"prefix": "file.absent:",
+		"body": [
+			"file.absent:",
+			"\t- name: ${1:unique_string}",
+			"$0"
+		],
+		"description": "file.absent:"
+	},
+	"file.accumulated": {
+		"prefix": "file.accumulated:",
+		"body": [
+			"file.accumulated:",
+			"\t- filename: ${1:unique_string}",
+			"\t- text: '${2:unique_string}'",
+			"\t- ${3|require_in,watch_in|}:",
+			"\t\t- file: ${4:unique_string}",
+			"$0"
+		],
+		"description": "file.accumulated:"
+	},
+	"file.append": {
+		"prefix": "file.append:",
+		"body": [
+			"file.append:",
+			"$0"
+		],
+		"description": "file.append:"
+	},
+	"file.blockreplace": {
+		"prefix": "file.blockreplace:",
+		"body": [
+			"file.blockreplace:",
+			"$0"
+		],
+		"description": "file.blockreplace:"
+	},
+	"file.cached": {
+		"prefix": "file.cached:",
+		"body": [
+			"file.cached:",
+			"$0"
+		],
+		"description": "file.cached:"
+	},
+	"file.comment": {
+		"prefix": "file.comment:",
+		"body": [
+			"file.comment:",
+			"\t- regex: ${1:regex_string}",
+			"$0"
+		],
+		"description": "file.comment:"
+	},
+	"file.copy": {
+		"prefix": "file.copy:",
+		"body": [
+			"file.copy:",
+			"$0"
+		],
+		"description": "file.copy:"
+	},
+	"file.decode": {
+		"prefix": "file.decode:",
+		"body": [
+			"file.decode:",
+			"\t- ${1|encoded_data:,contents_pillar:|} ${2:data_or_pillar}",
+			"\t- filename: ${3:unique_string}",
+			"\t- encoding_type: base64",
+			"$0"
+		],
+		"description": "file.decode:"
+	},
+	"file.directory": {
+		"prefix": "file.directory:",
+		"body": [
+			"file.directory:",
+			"\t- user: ${1:root}",
+			"\t- group: ${2:root}",
+			"\t- dir_mode: ${3:755}",
+			"\t- file_mode: ${4:644}",
+			"$0"
+		],
+		"description": "file.directory:"
+	},
+	"file.exists": {
+		"prefix": "file.exists:",
+		"body": [
+			"file.exists:",
+			"\t- name: ${1:unique_name}",
+			"$0"
+		],
+		"description": "file.exists:"
+	},
+	"file.hardlink": {
+		"prefix": "file.hardlink:",
+		"body": [
+			"file.hardlink:",
+			"\t- name: ${1:location_to_create}",
+			"\t- target: ${2:location_the_link_points_to}",
+			"\t- force: False",
+			"\t- makedirs: False",
+			"$0"
+		],
+		"description": "file.hardlink:"
+	},
+	"file.line": {
+		"prefix": "file.line:",
+		"body": [
+			"file.line:",
+			"\t- mode: ${1|ensure,replace,delete,insert|}",
+			"$0"
+		],
+		"description": "file.line:"
+	},
+	"file.managed": {
+		"prefix": "file.managed:",
+		"body": [
+			"file.managed:",
+			"\t- $0"
+		],
+		"description": "file.managed:"
+	},
+	"file.managed (salt source)": {
+		"prefix": "file.managed:",
+		"body": [
+			"file.managed:",
+			"\t- source: salt://${1:source}",
+			"\t- user: ${2:root}",
+			"\t- group: ${3:root}",
+			"\t- mode: ${4:644}",
+			"$0"
+		],
+		"description": "file.managed with a salt:// based source"
+	},
+	"file.missing": {
+		"prefix": "file.missing:",
+		"body": [
+			"file.missing:",
+			"\t- name: ${1:absolute path which must NOT exist}",
+			"$0"
+		],
+		"description": "file.missing:"
+	},
+	"file.mknod": {
+		"prefix": "file.mknod:",
+		"body": [
+			"file.mknod:",
+			"\t- ntype: ${1|p,c,b|}",
+			"\t- user: root",
+			"\t- group: root",
+			"\t- mode: 660",
+			"$0"
+		],
+		"description": "file.mknod:"
+	},
+	"file.mod_run_check_cmd": {
+		"prefix": "file.mod_run_check_cmd:",
+		"body": [
+			"file.mod_run_check_cmd:",
+			"$0"
+		],
+		"description": "file.mod_run_check_cmd:"
+	},
+	"file.not_cached": {
+		"prefix": "file.not_cached:",
+		"body": [
+			"file.not_cached:",
+			"$0"
+		],
+		"description": "file.not_cached:"
+	},
+	"file.patch": {
+		"prefix": "file.patch:",
+		"body": [
+			"file.patch:",
+			"$0"
+		],
+		"description": "file.patch:"
+	},
+	"file.prepend": {
+		"prefix": "file.prepend:",
+		"body": [
+			"file.prepend:",
+			"$0"
+		],
+		"description": "file.prepend:"
+	},
+	"file.recurse": {
+		"prefix": "file.recurse:",
+		"body": [
+			"file.recurse:",
+			"\t- source: ${1:source_directory}",
+			"$0"
+		],
+		"description": "file.recurse:"
+	},
+	"file.rename": {
+		"prefix": "file.rename:",
+		"body": [
+			"file.rename:",
+			"\t- source: ${1:file to move to the location specified}",
+			"\t- force: False",
+			"\t- makedirs: False",
+			"$0"
+		],
+		"description": "file.rename:"
+	},
+	"file.replace": {
+		"prefix": "file.replace:",
+		"body": [
+			"file.replace:",
+			"\t- name: ${1:file to be edited}",
+			"\t- pattern: ${2:regex}",
+			"\t- repl: ${3:replacement text}",
+			"\t- count: 0",
+			"$0"
+		],
+		"description": "file.replace:"
+	},
+	"file.retention_schedule": {
+		"prefix": "file.retention_schedule:",
+		"body": [
+			"file.retention_schedule:",
+			"$0"
+		],
+		"description": "file.retention_schedule:"
+	},
+	"file.serialize": {
+		"prefix": "file.serialize:",
+		"body": [
+			"file.serialize:",
+			"$0"
+		],
+		"description": "file.serialize:"
+	},
+	"file.shortcut": {
+		"prefix": "file.shortcut:",
+		"body": [
+			"file.shortcut:",
+			"\t- name: ${1:location of the shortcut to create. Must end with either .lnk or .url}",
+			"\t- target: ${2:location the shortcut points to}",
+			"\t- makedirs: False",
+			"$0"
+		],
+		"description": "file.shortcut:"
+	},
+	"file.symlink": {
+		"prefix": "file.symlink:",
+		"body": [
+			"file.symlink:",
+			"\t- name: ${1:location of the symlink to create}",
+			"\t- target: ${2:location the symlink points to}",
+			"\t- makedirs: False",
+			"$0"
+		],
+		"description": "file.symlink:"
+	},
+	"file.tidied": {
+		"prefix": "file.tidied:",
+		"body": [
+			"file.tidied:",
+			"$0"
+		],
+		"description": "file.tidied:"
+	},
+	"file.touch": {
+		"prefix": "file.touch:",
+		"body": [
+			"file.touch:",
+			"$0"
+		],
+		"description": "file.touch:"
+	},
+	"file.uncomment": {
+		"prefix": "file.uncomment:",
+		"body": [
+			"file.uncomment:",
+			"\t- regex: ${1:regex}",
+			"\t- char: ${2:The character to remove in order to uncomment a line}",
+			"$0"
+		],
+		"description": "file.uncomment:"
+	}
+}

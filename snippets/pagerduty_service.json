@@ -1,0 +1,18 @@
+{
+	"pagerduty_service.absent": {
+		"prefix": "pagerduty_service.absent:",
+		"body": [
+			"pagerduty_service.absent:",
+			"$0"
+		],
+		"description": "pagerduty_service.absent:"
+	},
+	"pagerduty_service.present": {
+		"prefix": "pagerduty_service.present:",
+		"body": [
+			"pagerduty_service.present:",
+			"$0"
+		],
+		"description": "pagerduty_service.present:"
+	}
+}

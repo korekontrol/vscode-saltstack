@@ -1,0 +1,10 @@
+{
+	"proxy.managed": {
+		"body": [
+			"proxy.managed:",
+			"$0"
+		],
+		"prefix": "proxy.managed:",
+		"description": "proxy.managed:"
+	}
+}

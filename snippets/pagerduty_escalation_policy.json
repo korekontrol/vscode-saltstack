@@ -1,0 +1,18 @@
+{
+	"pagerduty_escalation_policy.absent": {
+		"prefix": "pagerduty_escalation_policy.absent:",
+		"body": [
+			"pagerduty_escalation_policy.absent:",
+			"$0"
+		],
+		"description": "pagerduty_escalation_policy.absent:"
+	},
+	"pagerduty_escalation_policy.present": {
+		"prefix": "pagerduty_escalation_policy.present:",
+		"body": [
+			"pagerduty_escalation_policy.present:",
+			"$0"
+		],
+		"description": "pagerduty_escalation_policy.present:"
+	}
+}

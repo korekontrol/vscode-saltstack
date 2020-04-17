@@ -1,0 +1,50 @@
+{
+	"pip.installed": {
+		"prefix": "pip.installed:",
+		"body": [
+			"pip.installed:",
+			"$0"
+		],
+		"description": "pip.installed:"
+	},
+	"pip.pip_has_exceptions_mod": {
+		"prefix": "pip.pip_has_exceptions_mod:",
+		"body": [
+			"pip.pip_has_exceptions_mod:",
+			"$0"
+		],
+		"description": "pip.pip_has_exceptions_mod:"
+	},
+	"pip.pip_has_internal_exceptions_mod": {
+		"prefix": "pip.pip_has_internal_exceptions_mod:",
+		"body": [
+			"pip.pip_has_internal_exceptions_mod:",
+			"$0"
+		],
+		"description": "pip.pip_has_internal_exceptions_mod:"
+	},
+	"pip.purge_pip": {
+		"prefix": "pip.purge_pip:",
+		"body": [
+			"pip.purge_pip:",
+			"$0"
+		],
+		"description": "pip.purge_pip:"
+	},
+	"pip.removed": {
+		"prefix": "pip.removed:",
+		"body": [
+			"pip.removed:",
+			"$0"
+		],
+		"description": "pip.removed:"
+	},
+	"pip.uptodate": {
+		"prefix": "pip.uptodate:",
+		"body": [
+			"pip.uptodate:",
+			"$0"
+		],
+		"description": "pip.uptodate:"
+	}
+}

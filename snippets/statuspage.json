@@ -1,0 +1,34 @@
+{
+	"statuspage.create": {
+		"prefix": "statuspage.create:",
+		"body": [
+			"statuspage.create:",
+			"$0"
+		],
+		"description": "statuspage.create:"
+	},
+	"statuspage.delete": {
+		"prefix": "statuspage.delete:",
+		"body": [
+			"statuspage.delete:",
+			"$0"
+		],
+		"description": "statuspage.delete:"
+	},
+	"statuspage.managed": {
+		"prefix": "statuspage.managed:",
+		"body": [
+			"statuspage.managed:",
+			"$0"
+		],
+		"description": "statuspage.managed:"
+	},
+	"statuspage.update": {
+		"prefix": "statuspage.update:",
+		"body": [
+			"statuspage.update:",
+			"$0"
+		],
+		"description": "statuspage.update:"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"smtp.send_msg": {
+		"prefix": "smtp.send_msg:",
+		"body": [
+			"smtp.send_msg:",
+			"$0"
+		],
+		"description": "smtp.send_msg:"
+	}
+}

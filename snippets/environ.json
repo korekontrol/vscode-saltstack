@@ -1,0 +1,10 @@
+{
+	"environ.setenv": {
+		"prefix": "environ.setenv:",
+		"body": [
+			"environ.setenv:",
+			"$0"
+		],
+		"description": "environ.setenv:"
+	}
+}

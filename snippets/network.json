@@ -1,0 +1,10 @@
+{
+	"network.managed": {
+		"body": [
+			"network.managed:",
+			"$0"
+		],
+		"prefix": "network.managed:",
+		"description": "network.managed:"
+	}
+}

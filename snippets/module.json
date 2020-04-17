@@ -1,0 +1,26 @@
+{
+	"module.run": {
+		"prefix": "module.run:",
+		"body": [
+			"module.run:",
+			"$0"
+		],
+		"description": "module.run:"
+	},
+	"module.wait": {
+		"prefix": "module.wait:",
+		"body": [
+			"module.wait:",
+			"$0"
+		],
+		"description": "module.wait:"
+	},
+	"module.watch": {
+		"prefix": "module.watch:",
+		"body": [
+			"module.watch:",
+			"$0"
+		],
+		"description": "module.watch:"
+	}
+}

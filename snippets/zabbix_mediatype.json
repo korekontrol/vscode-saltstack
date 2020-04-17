@@ -1,0 +1,18 @@
+{
+	"zabbix_mediatype.absent": {
+		"prefix": "zabbix_mediatype.absent:",
+		"body": [
+			"zabbix_mediatype.absent:",
+			"$0"
+		],
+		"description": "zabbix_mediatype.absent:"
+	},
+	"zabbix_mediatype.present": {
+		"prefix": "zabbix_mediatype.present:",
+		"body": [
+			"zabbix_mediatype.present:",
+			"$0"
+		],
+		"description": "zabbix_mediatype.present:"
+	}
+}

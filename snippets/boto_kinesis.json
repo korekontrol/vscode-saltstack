@@ -1,0 +1,18 @@
+{
+	"boto_kinesis.absent": {
+		"prefix": "boto_kinesis.absent:",
+		"body": [
+			"boto_kinesis.absent:",
+			"$0"
+		],
+		"description": "boto_kinesis.absent:"
+	},
+	"boto_kinesis.present": {
+		"prefix": "boto_kinesis.present:",
+		"body": [
+			"boto_kinesis.present:",
+			"$0"
+		],
+		"description": "boto_kinesis.present:"
+	}
+}

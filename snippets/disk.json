@@ -1,0 +1,10 @@
+{
+	"disk.status": {
+		"prefix": "disk.status:",
+		"body": [
+			"disk.status:",
+			"$0"
+		],
+		"description": "disk.status:"
+	}
+}

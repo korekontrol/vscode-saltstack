@@ -1,0 +1,34 @@
+{
+	"gem.installed": {
+		"prefix": "gem.installed:",
+		"body": [
+			"gem.installed:",
+			"$0"
+		],
+		"description": "gem.installed:"
+	},
+	"gem.removed": {
+		"prefix": "gem.removed:",
+		"body": [
+			"gem.removed:",
+			"$0"
+		],
+		"description": "gem.removed:"
+	},
+	"gem.sources_add": {
+		"prefix": "gem.sources_add:",
+		"body": [
+			"gem.sources_add:",
+			"$0"
+		],
+		"description": "gem.sources_add:"
+	},
+	"gem.sources_remove": {
+		"prefix": "gem.sources_remove:",
+		"body": [
+			"gem.sources_remove:",
+			"$0"
+		],
+		"description": "gem.sources_remove:"
+	}
+}

@@ -1,0 +1,162 @@
+{
+	"saltutil.sync_all": {
+		"prefix": "saltutil.sync_all:",
+		"body": [
+			"saltutil.sync_all:",
+			"$0"
+		],
+		"description": "saltutil.sync_all:"
+	},
+	"saltutil.sync_beacons": {
+		"prefix": "saltutil.sync_beacons:",
+		"body": [
+			"saltutil.sync_beacons:",
+			"$0"
+		],
+		"description": "saltutil.sync_beacons:"
+	},
+	"saltutil.sync_clouds": {
+		"prefix": "saltutil.sync_clouds:",
+		"body": [
+			"saltutil.sync_clouds:",
+			"$0"
+		],
+		"description": "saltutil.sync_clouds:"
+	},
+	"saltutil.sync_engines": {
+		"prefix": "saltutil.sync_engines:",
+		"body": [
+			"saltutil.sync_engines:",
+			"$0"
+		],
+		"description": "saltutil.sync_engines:"
+	},
+	"saltutil.sync_executors": {
+		"prefix": "saltutil.sync_executors:",
+		"body": [
+			"saltutil.sync_executors:",
+			"$0"
+		],
+		"description": "saltutil.sync_executors:"
+	},
+	"saltutil.sync_grains": {
+		"prefix": "saltutil.sync_grains:",
+		"body": [
+			"saltutil.sync_grains:",
+			"$0"
+		],
+		"description": "saltutil.sync_grains:"
+	},
+	"saltutil.sync_log_handlers": {
+		"prefix": "saltutil.sync_log_handlers:",
+		"body": [
+			"saltutil.sync_log_handlers:",
+			"$0"
+		],
+		"description": "saltutil.sync_log_handlers:"
+	},
+	"saltutil.sync_matchers": {
+		"prefix": "saltutil.sync_matchers:",
+		"body": [
+			"saltutil.sync_matchers:",
+			"$0"
+		],
+		"description": "saltutil.sync_matchers:"
+	},
+	"saltutil.sync_modules": {
+		"prefix": "saltutil.sync_modules:",
+		"body": [
+			"saltutil.sync_modules:",
+			"$0"
+		],
+		"description": "saltutil.sync_modules:"
+	},
+	"saltutil.sync_output": {
+		"prefix": "saltutil.sync_output:",
+		"body": [
+			"saltutil.sync_output:",
+			"$0"
+		],
+		"description": "saltutil.sync_output:"
+	},
+	"saltutil.sync_outputters": {
+		"prefix": "saltutil.sync_outputters:",
+		"body": [
+			"saltutil.sync_outputters:",
+			"$0"
+		],
+		"description": "saltutil.sync_outputters:"
+	},
+	"saltutil.sync_pillar": {
+		"prefix": "saltutil.sync_pillar:",
+		"body": [
+			"saltutil.sync_pillar:",
+			"$0"
+		],
+		"description": "saltutil.sync_pillar:"
+	},
+	"saltutil.sync_proxymodules": {
+		"prefix": "saltutil.sync_proxymodules:",
+		"body": [
+			"saltutil.sync_proxymodules:",
+			"$0"
+		],
+		"description": "saltutil.sync_proxymodules:"
+	},
+	"saltutil.sync_renderers": {
+		"prefix": "saltutil.sync_renderers:",
+		"body": [
+			"saltutil.sync_renderers:",
+			"$0"
+		],
+		"description": "saltutil.sync_renderers:"
+	},
+	"saltutil.sync_returners": {
+		"prefix": "saltutil.sync_returners:",
+		"body": [
+			"saltutil.sync_returners:",
+			"$0"
+		],
+		"description": "saltutil.sync_returners:"
+	},
+	"saltutil.sync_sdb": {
+		"prefix": "saltutil.sync_sdb:",
+		"body": [
+			"saltutil.sync_sdb:",
+			"$0"
+		],
+		"description": "saltutil.sync_sdb:"
+	},
+	"saltutil.sync_serializers": {
+		"prefix": "saltutil.sync_serializers:",
+		"body": [
+			"saltutil.sync_serializers:",
+			"$0"
+		],
+		"description": "saltutil.sync_serializers:"
+	},
+	"saltutil.sync_states": {
+		"prefix": "saltutil.sync_states:",
+		"body": [
+			"saltutil.sync_states:",
+			"$0"
+		],
+		"description": "saltutil.sync_states:"
+	},
+	"saltutil.sync_thorium": {
+		"prefix": "saltutil.sync_thorium:",
+		"body": [
+			"saltutil.sync_thorium:",
+			"$0"
+		],
+		"description": "saltutil.sync_thorium:"
+	},
+	"saltutil.sync_utils": {
+		"prefix": "saltutil.sync_utils:",
+		"body": [
+			"saltutil.sync_utils:",
+			"$0"
+		],
+		"description": "saltutil.sync_utils:"
+	}
+}

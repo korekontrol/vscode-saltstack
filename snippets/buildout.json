@@ -1,0 +1,10 @@
+{
+	"buildout.installed": {
+		"prefix": "buildout.installed:",
+		"body": [
+			"buildout.installed:",
+			"$0"
+		],
+		"description": "buildout.installed:"
+	}
+}

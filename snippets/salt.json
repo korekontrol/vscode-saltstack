@@ -1,0 +1,50 @@
+{
+	"salt.function": {
+		"prefix": "salt.function:",
+		"body": [
+			"salt.function:",
+			"$0"
+		],
+		"description": "salt.function:"
+	},
+	"salt.parallel_runners": {
+		"prefix": "salt.parallel_runners:",
+		"body": [
+			"salt.parallel_runners:",
+			"$0"
+		],
+		"description": "salt.parallel_runners:"
+	},
+	"salt.runner": {
+		"prefix": "salt.runner:",
+		"body": [
+			"salt.runner:",
+			"$0"
+		],
+		"description": "salt.runner:"
+	},
+	"salt.state": {
+		"prefix": "salt.state:",
+		"body": [
+			"salt.state:",
+			"$0"
+		],
+		"description": "salt.state:"
+	},
+	"salt.wait_for_event": {
+		"prefix": "salt.wait_for_event:",
+		"body": [
+			"salt.wait_for_event:",
+			"$0"
+		],
+		"description": "salt.wait_for_event:"
+	},
+	"salt.wheel": {
+		"prefix": "salt.wheel:",
+		"body": [
+			"salt.wheel:",
+			"$0"
+		],
+		"description": "salt.wheel:"
+	}
+}

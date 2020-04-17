@@ -1,0 +1,58 @@
+{
+	"grains.absent": {
+		"prefix": "grains.absent:",
+		"body": [
+			"grains.absent:",
+			"$0"
+		],
+		"description": "grains.absent:"
+	},
+	"grains.append": {
+		"prefix": "grains.append:",
+		"body": [
+			"grains.append:",
+			"$0"
+		],
+		"description": "grains.append:"
+	},
+	"grains.exists": {
+		"prefix": "grains.exists:",
+		"body": [
+			"grains.exists:",
+			"$0"
+		],
+		"description": "grains.exists:"
+	},
+	"grains.list_absent": {
+		"prefix": "grains.list_absent:",
+		"body": [
+			"grains.list_absent:",
+			"$0"
+		],
+		"description": "grains.list_absent:"
+	},
+	"grains.list_present": {
+		"prefix": "grains.list_present:",
+		"body": [
+			"grains.list_present:",
+			"$0"
+		],
+		"description": "grains.list_present:"
+	},
+	"grains.make_hashable": {
+		"prefix": "grains.make_hashable:",
+		"body": [
+			"grains.make_hashable:",
+			"$0"
+		],
+		"description": "grains.make_hashable:"
+	},
+	"grains.present": {
+		"prefix": "grains.present:",
+		"body": [
+			"grains.present:",
+			"$0"
+		],
+		"description": "grains.present:"
+	}
+}

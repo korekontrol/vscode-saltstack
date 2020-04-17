@@ -1,0 +1,50 @@
+{
+	"boto_rds.absent": {
+		"prefix": "boto_rds.absent:",
+		"body": [
+			"boto_rds.absent:",
+			"$0"
+		],
+		"description": "boto_rds.absent:"
+	},
+	"boto_rds.parameter_present": {
+		"prefix": "boto_rds.parameter_present:",
+		"body": [
+			"boto_rds.parameter_present:",
+			"$0"
+		],
+		"description": "boto_rds.parameter_present:"
+	},
+	"boto_rds.present": {
+		"prefix": "boto_rds.present:",
+		"body": [
+			"boto_rds.present:",
+			"$0"
+		],
+		"description": "boto_rds.present:"
+	},
+	"boto_rds.replica_present": {
+		"prefix": "boto_rds.replica_present:",
+		"body": [
+			"boto_rds.replica_present:",
+			"$0"
+		],
+		"description": "boto_rds.replica_present:"
+	},
+	"boto_rds.subnet_group_absent": {
+		"prefix": "boto_rds.subnet_group_absent:",
+		"body": [
+			"boto_rds.subnet_group_absent:",
+			"$0"
+		],
+		"description": "boto_rds.subnet_group_absent:"
+	},
+	"boto_rds.subnet_group_present": {
+		"prefix": "boto_rds.subnet_group_present:",
+		"body": [
+			"boto_rds.subnet_group_present:",
+			"$0"
+		],
+		"description": "boto_rds.subnet_group_present:"
+	}
+}

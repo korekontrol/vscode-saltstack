@@ -1,0 +1,18 @@
+{
+	"blockdev.formatted": {
+		"prefix": "blockdev.formatted:",
+		"body": [
+			"blockdev.formatted:",
+			"$0"
+		],
+		"description": "blockdev.formatted:"
+	},
+	"blockdev.tuned": {
+		"prefix": "blockdev.tuned:",
+		"body": [
+			"blockdev.tuned:",
+			"$0"
+		],
+		"description": "blockdev.tuned:"
+	}
+}

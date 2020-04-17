@@ -1,0 +1,18 @@
+{
+	"mongodb_user.absent": {
+		"prefix": "mongodb_user.absent:",
+		"body": [
+			"mongodb_user.absent:",
+			"$0"
+		],
+		"description": "mongodb_user.absent:"
+	},
+	"mongodb_user.present": {
+		"prefix": "mongodb_user.present:",
+		"body": [
+			"mongodb_user.present:",
+			"$0"
+		],
+		"description": "mongodb_user.present:"
+	}
+}

@@ -1,0 +1,34 @@
+{
+	"npm.bootstrap": {
+		"prefix": "npm.bootstrap:",
+		"body": [
+			"npm.bootstrap:",
+			"$0"
+		],
+		"description": "npm.bootstrap:"
+	},
+	"npm.cache_cleaned": {
+		"prefix": "npm.cache_cleaned:",
+		"body": [
+			"npm.cache_cleaned:",
+			"$0"
+		],
+		"description": "npm.cache_cleaned:"
+	},
+	"npm.installed": {
+		"prefix": "npm.installed:",
+		"body": [
+			"npm.installed:",
+			"$0"
+		],
+		"description": "npm.installed:"
+	},
+	"npm.removed": {
+		"prefix": "npm.removed:",
+		"body": [
+			"npm.removed:",
+			"$0"
+		],
+		"description": "npm.removed:"
+	}
+}

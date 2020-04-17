@@ -1,0 +1,10 @@
+{
+	"pushover.post_message": {
+		"prefix": "pushover.post_message:",
+		"body": [
+			"pushover.post_message:",
+			"$0"
+		],
+		"description": "pushover.post_message:"
+	}
+}

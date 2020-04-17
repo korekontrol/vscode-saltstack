@@ -1,0 +1,26 @@
+{
+	"cyg.removed": {
+		"body": [
+			"cyg.removed:",
+			"$0"
+		],
+		"prefix": "cyg.removed:",
+		"description": "cyg.removed:"
+	},
+	"cyg.installed": {
+		"body": [
+			"cyg.installed:",
+			"$0"
+		],
+		"prefix": "cyg.installed:",
+		"description": "cyg.installed:"
+	},
+	"cyg.updated": {
+		"body": [
+			"cyg.updated:",
+			"$0"
+		],
+		"prefix": "cyg.updated:",
+		"description": "cyg.updated:"
+	}
+}

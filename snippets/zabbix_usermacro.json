@@ -1,0 +1,18 @@
+{
+	"zabbix_usermacro.absent": {
+		"prefix": "zabbix_usermacro.absent:",
+		"body": [
+			"zabbix_usermacro.absent:",
+			"$0"
+		],
+		"description": "zabbix_usermacro.absent:"
+	},
+	"zabbix_usermacro.present": {
+		"prefix": "zabbix_usermacro.present:",
+		"body": [
+			"zabbix_usermacro.present:",
+			"$0"
+		],
+		"description": "zabbix_usermacro.present:"
+	}
+}

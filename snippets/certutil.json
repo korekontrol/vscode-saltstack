@@ -1,0 +1,18 @@
+{
+	"certutil.del_store": {
+		"body": [
+			"certutil.del_store:",
+			"$0"
+		],
+		"prefix": "certutil.del_store:",
+		"description": "certutil.del_store:"
+	},
+	"certutil.add_store": {
+		"body": [
+			"certutil.add_store:",
+			"$0"
+		],
+		"prefix": "certutil.add_store:",
+		"description": "certutil.add_store:"
+	}
+}

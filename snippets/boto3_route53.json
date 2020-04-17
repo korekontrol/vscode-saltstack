@@ -1,0 +1,34 @@
+{
+	"boto3_route53.hosted_zone_absent": {
+		"prefix": "boto3_route53.hosted_zone_absent:",
+		"body": [
+			"boto3_route53.hosted_zone_absent:",
+			"$0"
+		],
+		"description": "boto3_route53.hosted_zone_absent:"
+	},
+	"boto3_route53.hosted_zone_present": {
+		"prefix": "boto3_route53.hosted_zone_present:",
+		"body": [
+			"boto3_route53.hosted_zone_present:",
+			"$0"
+		],
+		"description": "boto3_route53.hosted_zone_present:"
+	},
+	"boto3_route53.rr_absent": {
+		"prefix": "boto3_route53.rr_absent:",
+		"body": [
+			"boto3_route53.rr_absent:",
+			"$0"
+		],
+		"description": "boto3_route53.rr_absent:"
+	},
+	"boto3_route53.rr_present": {
+		"prefix": "boto3_route53.rr_present:",
+		"body": [
+			"boto3_route53.rr_present:",
+			"$0"
+		],
+		"description": "boto3_route53.rr_present:"
+	}
+}

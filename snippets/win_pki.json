@@ -1,0 +1,18 @@
+{
+	"win_pki.remove_cert": {
+		"body": [
+			"win_pki.remove_cert:",
+			"$0"
+		],
+		"prefix": "win_pki.remove_cert:",
+		"description": "win_pki.remove_cert:"
+	},
+	"win_pki.import_cert": {
+		"body": [
+			"win_pki.import_cert:",
+			"$0"
+		],
+		"prefix": "win_pki.import_cert:",
+		"description": "win_pki.import_cert:"
+	}
+}

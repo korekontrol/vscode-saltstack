@@ -1,0 +1,42 @@
+{
+	"moby_container.absent": {
+		"prefix": "moby_container.absent:",
+		"body": [
+			"moby_container.absent:",
+			"$0"
+		],
+		"description": "moby_container.absent:"
+	},
+	"moby_container.mod_run_check": {
+		"prefix": "moby_container.mod_run_check:",
+		"body": [
+			"moby_container.mod_run_check:",
+			"$0"
+		],
+		"description": "moby_container.mod_run_check:"
+	},
+	"moby_container.run": {
+		"prefix": "moby_container.run:",
+		"body": [
+			"moby_container.run:",
+			"$0"
+		],
+		"description": "moby_container.run:"
+	},
+	"moby_container.running": {
+		"prefix": "moby_container.running:",
+		"body": [
+			"moby_container.running:",
+			"$0"
+		],
+		"description": "moby_container.running:"
+	},
+	"moby_container.stopped": {
+		"prefix": "moby_container.stopped:",
+		"body": [
+			"moby_container.stopped:",
+			"$0"
+		],
+		"description": "moby_container.stopped:"
+	}
+}

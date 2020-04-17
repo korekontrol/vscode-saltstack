@@ -1,0 +1,18 @@
+{
+	"mysql_user.present": {
+		"body": [
+			"mysql_user.present:",
+			"$0"
+		],
+		"prefix": "mysql_user.present:",
+		"description": "mysql_user.present:"
+	},
+	"mysql_user.absent": {
+		"body": [
+			"mysql_user.absent:",
+			"$0"
+		],
+		"prefix": "mysql_user.absent:",
+		"description": "mysql_user.absent:"
+	}
+}

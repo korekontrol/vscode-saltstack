@@ -1,0 +1,18 @@
+{
+	"alias.absent": {
+		"prefix": "alias.absent:",
+		"body": [
+			"alias.absent:",
+			"$0"
+		],
+		"description": "alias.absent:"
+	},
+	"alias.present": {
+		"prefix": "alias.present:",
+		"body": [
+			"alias.present:",
+			"$0"
+		],
+		"description": "alias.present:"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"gnomedesktop.desktop_interface": {
+		"prefix": "gnomedesktop.desktop_interface:",
+		"body": [
+			"gnomedesktop.desktop_interface:",
+			"$0"
+		],
+		"description": "gnomedesktop.desktop_interface:"
+	},
+	"gnomedesktop.desktop_lockdown": {
+		"prefix": "gnomedesktop.desktop_lockdown:",
+		"body": [
+			"gnomedesktop.desktop_lockdown:",
+			"$0"
+		],
+		"description": "gnomedesktop.desktop_lockdown:"
+	},
+	"gnomedesktop.wm_preferences": {
+		"prefix": "gnomedesktop.wm_preferences:",
+		"body": [
+			"gnomedesktop.wm_preferences:",
+			"$0"
+		],
+		"description": "gnomedesktop.wm_preferences:"
+	}
+}

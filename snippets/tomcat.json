@@ -1,0 +1,26 @@
+{
+	"tomcat.undeployed": {
+		"prefix": "tomcat.undeployed:",
+		"body": [
+			"tomcat.undeployed:",
+			"$0"
+		],
+		"description": "tomcat.undeployed:"
+	},
+	"tomcat.wait": {
+		"prefix": "tomcat.wait:",
+		"body": [
+			"tomcat.wait:",
+			"$0"
+		],
+		"description": "tomcat.wait:"
+	},
+	"tomcat.war_deployed": {
+		"prefix": "tomcat.war_deployed:",
+		"body": [
+			"tomcat.war_deployed:",
+			"$0"
+		],
+		"description": "tomcat.war_deployed:"
+	}
+}

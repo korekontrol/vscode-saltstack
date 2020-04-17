@@ -1,0 +1,26 @@
+{
+	"chocolatey.upgraded": {
+		"body": [
+			"chocolatey.upgraded:",
+			"$0"
+		],
+		"prefix": "chocolatey.upgraded:",
+		"description": "chocolatey.upgraded:"
+	},
+	"chocolatey.uninstalled": {
+		"body": [
+			"chocolatey.uninstalled:",
+			"$0"
+		],
+		"prefix": "chocolatey.uninstalled:",
+		"description": "chocolatey.uninstalled:"
+	},
+	"chocolatey.installed": {
+		"body": [
+			"chocolatey.installed:",
+			"$0"
+		],
+		"prefix": "chocolatey.installed:",
+		"description": "chocolatey.installed:"
+	}
+}

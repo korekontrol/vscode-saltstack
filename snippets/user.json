@@ -1,0 +1,26 @@
+{
+	"user.absent": {
+		"prefix": "user.absent:",
+		"body": [
+			"user.absent:",
+			"$0"
+		],
+		"description": "user.absent:"
+	},
+	"user.iteritems": {
+		"prefix": "user.iteritems:",
+		"body": [
+			"user.iteritems:",
+			"$0"
+		],
+		"description": "user.iteritems:"
+	},
+	"user.present": {
+		"prefix": "user.present:",
+		"body": [
+			"user.present:",
+			"$0"
+		],
+		"description": "user.present:"
+	}
+}

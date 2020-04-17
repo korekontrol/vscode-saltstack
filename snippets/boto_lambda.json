@@ -1,0 +1,50 @@
+{
+	"boto_lambda.alias_absent": {
+		"prefix": "boto_lambda.alias_absent:",
+		"body": [
+			"boto_lambda.alias_absent:",
+			"$0"
+		],
+		"description": "boto_lambda.alias_absent:"
+	},
+	"boto_lambda.alias_present": {
+		"prefix": "boto_lambda.alias_present:",
+		"body": [
+			"boto_lambda.alias_present:",
+			"$0"
+		],
+		"description": "boto_lambda.alias_present:"
+	},
+	"boto_lambda.event_source_mapping_absent": {
+		"prefix": "boto_lambda.event_source_mapping_absent:",
+		"body": [
+			"boto_lambda.event_source_mapping_absent:",
+			"$0"
+		],
+		"description": "boto_lambda.event_source_mapping_absent:"
+	},
+	"boto_lambda.event_source_mapping_present": {
+		"prefix": "boto_lambda.event_source_mapping_present:",
+		"body": [
+			"boto_lambda.event_source_mapping_present:",
+			"$0"
+		],
+		"description": "boto_lambda.event_source_mapping_present:"
+	},
+	"boto_lambda.function_absent": {
+		"prefix": "boto_lambda.function_absent:",
+		"body": [
+			"boto_lambda.function_absent:",
+			"$0"
+		],
+		"description": "boto_lambda.function_absent:"
+	},
+	"boto_lambda.function_present": {
+		"prefix": "boto_lambda.function_present:",
+		"body": [
+			"boto_lambda.function_present:",
+			"$0"
+		],
+		"description": "boto_lambda.function_present:"
+	}
+}

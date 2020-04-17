@@ -1,0 +1,18 @@
+{
+	"cryptdev.mapped": {
+		"prefix": "cryptdev.mapped:",
+		"body": [
+			"cryptdev.mapped:",
+			"$0"
+		],
+		"description": "cryptdev.mapped:"
+	},
+	"cryptdev.unmapped": {
+		"prefix": "cryptdev.unmapped:",
+		"body": [
+			"cryptdev.unmapped:",
+			"$0"
+		],
+		"description": "cryptdev.unmapped:"
+	}
+}

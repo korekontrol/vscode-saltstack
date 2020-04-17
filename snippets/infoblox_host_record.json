@@ -1,0 +1,18 @@
+{
+	"infoblox_host_record.absent": {
+		"prefix": "infoblox_host_record.absent:",
+		"body": [
+			"infoblox_host_record.absent:",
+			"$0"
+		],
+		"description": "infoblox_host_record.absent:"
+	},
+	"infoblox_host_record.present": {
+		"prefix": "infoblox_host_record.present:",
+		"body": [
+			"infoblox_host_record.present:",
+			"$0"
+		],
+		"description": "infoblox_host_record.present:"
+	}
+}

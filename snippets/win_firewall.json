@@ -1,0 +1,26 @@
+{
+	"win_firewall.add_rule": {
+		"body": [
+			"win_firewall.add_rule:",
+			"$0"
+		],
+		"prefix": "win_firewall.add_rule:",
+		"description": "win_firewall.add_rule:"
+	},
+	"win_firewall.enabled": {
+		"body": [
+			"win_firewall.enabled:",
+			"$0"
+		],
+		"prefix": "win_firewall.enabled:",
+		"description": "win_firewall.enabled:"
+	},
+	"win_firewall.disabled": {
+		"body": [
+			"win_firewall.disabled:",
+			"$0"
+		],
+		"prefix": "win_firewall.disabled:",
+		"description": "win_firewall.disabled:"
+	}
+}

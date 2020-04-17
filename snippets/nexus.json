@@ -1,0 +1,10 @@
+{
+	"nexus.downloaded": {
+		"prefix": "nexus.downloaded:",
+		"body": [
+			"nexus.downloaded:",
+			"$0"
+		],
+		"description": "nexus.downloaded:"
+	}
+}

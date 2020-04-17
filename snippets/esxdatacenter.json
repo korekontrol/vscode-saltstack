@@ -1,0 +1,18 @@
+{
+	"esxdatacenter.datacenter_configured": {
+		"prefix": "esxdatacenter.datacenter_configured:",
+		"body": [
+			"esxdatacenter.datacenter_configured:",
+			"$0"
+		],
+		"description": "esxdatacenter.datacenter_configured:"
+	},
+	"esxdatacenter.mod_init": {
+		"prefix": "esxdatacenter.mod_init:",
+		"body": [
+			"esxdatacenter.mod_init:",
+			"$0"
+		],
+		"description": "esxdatacenter.mod_init:"
+	}
+}

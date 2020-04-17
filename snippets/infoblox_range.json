@@ -1,0 +1,18 @@
+{
+	"infoblox_range.absent": {
+		"prefix": "infoblox_range.absent:",
+		"body": [
+			"infoblox_range.absent:",
+			"$0"
+		],
+		"description": "infoblox_range.absent:"
+	},
+	"infoblox_range.present": {
+		"prefix": "infoblox_range.present:",
+		"body": [
+			"infoblox_range.present:",
+			"$0"
+		],
+		"description": "infoblox_range.present:"
+	}
+}

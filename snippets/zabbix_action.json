@@ -1,0 +1,18 @@
+{
+	"zabbix_action.absent": {
+		"prefix": "zabbix_action.absent:",
+		"body": [
+			"zabbix_action.absent:",
+			"$0"
+		],
+		"description": "zabbix_action.absent:"
+	},
+	"zabbix_action.present": {
+		"prefix": "zabbix_action.present:",
+		"body": [
+			"zabbix_action.present:",
+			"$0"
+		],
+		"description": "zabbix_action.present:"
+	}
+}

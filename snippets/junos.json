@@ -1,0 +1,138 @@
+{
+	"junos.cli": {
+		"prefix": "junos.cli:",
+		"body": [
+			"junos.cli:",
+			"$0"
+		],
+		"description": "junos.cli:"
+	},
+	"junos.commit": {
+		"prefix": "junos.commit:",
+		"body": [
+			"junos.commit:",
+			"$0"
+		],
+		"description": "junos.commit:"
+	},
+	"junos.commit_check": {
+		"prefix": "junos.commit_check:",
+		"body": [
+			"junos.commit_check:",
+			"$0"
+		],
+		"description": "junos.commit_check:"
+	},
+	"junos.diff": {
+		"prefix": "junos.diff:",
+		"body": [
+			"junos.diff:",
+			"$0"
+		],
+		"description": "junos.diff:"
+	},
+	"junos.file_copy": {
+		"prefix": "junos.file_copy:",
+		"body": [
+			"junos.file_copy:",
+			"$0"
+		],
+		"description": "junos.file_copy:"
+	},
+	"junos.install_config": {
+		"prefix": "junos.install_config:",
+		"body": [
+			"junos.install_config:",
+			"$0"
+		],
+		"description": "junos.install_config:"
+	},
+	"junos.install_os": {
+		"prefix": "junos.install_os:",
+		"body": [
+			"junos.install_os:",
+			"$0"
+		],
+		"description": "junos.install_os:"
+	},
+	"junos.load": {
+		"prefix": "junos.load:",
+		"body": [
+			"junos.load:",
+			"$0"
+		],
+		"description": "junos.load:"
+	},
+	"junos.lock": {
+		"prefix": "junos.lock:",
+		"body": [
+			"junos.lock:",
+			"$0"
+		],
+		"description": "junos.lock:"
+	},
+	"junos.resultdecorator": {
+		"prefix": "junos.resultdecorator:",
+		"body": [
+			"junos.resultdecorator:",
+			"$0"
+		],
+		"description": "junos.resultdecorator:"
+	},
+	"junos.rollback": {
+		"prefix": "junos.rollback:",
+		"body": [
+			"junos.rollback:",
+			"$0"
+		],
+		"description": "junos.rollback:"
+	},
+	"junos.rpc": {
+		"prefix": "junos.rpc:",
+		"body": [
+			"junos.rpc:",
+			"$0"
+		],
+		"description": "junos.rpc:"
+	},
+	"junos.set_hostname": {
+		"prefix": "junos.set_hostname:",
+		"body": [
+			"junos.set_hostname:",
+			"$0"
+		],
+		"description": "junos.set_hostname:"
+	},
+	"junos.shutdown": {
+		"prefix": "junos.shutdown:",
+		"body": [
+			"junos.shutdown:",
+			"$0"
+		],
+		"description": "junos.shutdown:"
+	},
+	"junos.unlock": {
+		"prefix": "junos.unlock:",
+		"body": [
+			"junos.unlock:",
+			"$0"
+		],
+		"description": "junos.unlock:"
+	},
+	"junos.wraps": {
+		"prefix": "junos.wraps:",
+		"body": [
+			"junos.wraps:",
+			"$0"
+		],
+		"description": "junos.wraps:"
+	},
+	"junos.zeroize": {
+		"prefix": "junos.zeroize:",
+		"body": [
+			"junos.zeroize:",
+			"$0"
+		],
+		"description": "junos.zeroize:"
+	}
+}

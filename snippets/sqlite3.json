@@ -1,0 +1,34 @@
+{
+	"sqlite3.row_absent": {
+		"prefix": "sqlite3.row_absent:",
+		"body": [
+			"sqlite3.row_absent:",
+			"$0"
+		],
+		"description": "sqlite3.row_absent:"
+	},
+	"sqlite3.row_present": {
+		"prefix": "sqlite3.row_present:",
+		"body": [
+			"sqlite3.row_present:",
+			"$0"
+		],
+		"description": "sqlite3.row_present:"
+	},
+	"sqlite3.table_absent": {
+		"prefix": "sqlite3.table_absent:",
+		"body": [
+			"sqlite3.table_absent:",
+			"$0"
+		],
+		"description": "sqlite3.table_absent:"
+	},
+	"sqlite3.table_present": {
+		"prefix": "sqlite3.table_present:",
+		"body": [
+			"sqlite3.table_present:",
+			"$0"
+		],
+		"description": "sqlite3.table_present:"
+	}
+}

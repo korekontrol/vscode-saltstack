@@ -1,0 +1,18 @@
+{
+	"virtualenv.manage": {
+		"prefix": "virtualenv.manage:",
+		"body": [
+			"virtualenv.manage:",
+			"$0"
+		],
+		"description": "virtualenv.manage:"
+	},
+	"virtualenv.managed": {
+		"prefix": "virtualenv.managed:",
+		"body": [
+			"virtualenv.managed:",
+			"$0"
+		],
+		"description": "virtualenv.managed:"
+	}
+}

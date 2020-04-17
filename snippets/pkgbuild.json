@@ -1,0 +1,18 @@
+{
+	"pkgbuild.built": {
+		"prefix": "pkgbuild.built:",
+		"body": [
+			"pkgbuild.built:",
+			"$0"
+		],
+		"description": "pkgbuild.built:"
+	},
+	"pkgbuild.repo": {
+		"prefix": "pkgbuild.repo:",
+		"body": [
+			"pkgbuild.repo:",
+			"$0"
+		],
+		"description": "pkgbuild.repo:"
+	}
+}

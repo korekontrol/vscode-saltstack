@@ -1,0 +1,234 @@
+{
+	"bigip.add_pool_member": {
+		"prefix": "bigip.add_pool_member:",
+		"body": [
+			"bigip.add_pool_member:",
+			"$0"
+		],
+		"description": "bigip.add_pool_member:"
+	},
+	"bigip.create_monitor": {
+		"prefix": "bigip.create_monitor:",
+		"body": [
+			"bigip.create_monitor:",
+			"$0"
+		],
+		"description": "bigip.create_monitor:"
+	},
+	"bigip.create_node": {
+		"prefix": "bigip.create_node:",
+		"body": [
+			"bigip.create_node:",
+			"$0"
+		],
+		"description": "bigip.create_node:"
+	},
+	"bigip.create_pool": {
+		"prefix": "bigip.create_pool:",
+		"body": [
+			"bigip.create_pool:",
+			"$0"
+		],
+		"description": "bigip.create_pool:"
+	},
+	"bigip.create_profile": {
+		"prefix": "bigip.create_profile:",
+		"body": [
+			"bigip.create_profile:",
+			"$0"
+		],
+		"description": "bigip.create_profile:"
+	},
+	"bigip.create_virtual": {
+		"prefix": "bigip.create_virtual:",
+		"body": [
+			"bigip.create_virtual:",
+			"$0"
+		],
+		"description": "bigip.create_virtual:"
+	},
+	"bigip.delete_monitor": {
+		"prefix": "bigip.delete_monitor:",
+		"body": [
+			"bigip.delete_monitor:",
+			"$0"
+		],
+		"description": "bigip.delete_monitor:"
+	},
+	"bigip.delete_node": {
+		"prefix": "bigip.delete_node:",
+		"body": [
+			"bigip.delete_node:",
+			"$0"
+		],
+		"description": "bigip.delete_node:"
+	},
+	"bigip.delete_pool": {
+		"prefix": "bigip.delete_pool:",
+		"body": [
+			"bigip.delete_pool:",
+			"$0"
+		],
+		"description": "bigip.delete_pool:"
+	},
+	"bigip.delete_pool_member": {
+		"prefix": "bigip.delete_pool_member:",
+		"body": [
+			"bigip.delete_pool_member:",
+			"$0"
+		],
+		"description": "bigip.delete_pool_member:"
+	},
+	"bigip.delete_profile": {
+		"prefix": "bigip.delete_profile:",
+		"body": [
+			"bigip.delete_profile:",
+			"$0"
+		],
+		"description": "bigip.delete_profile:"
+	},
+	"bigip.delete_virtual": {
+		"prefix": "bigip.delete_virtual:",
+		"body": [
+			"bigip.delete_virtual:",
+			"$0"
+		],
+		"description": "bigip.delete_virtual:"
+	},
+	"bigip.list_monitor": {
+		"prefix": "bigip.list_monitor:",
+		"body": [
+			"bigip.list_monitor:",
+			"$0"
+		],
+		"description": "bigip.list_monitor:"
+	},
+	"bigip.list_node": {
+		"prefix": "bigip.list_node:",
+		"body": [
+			"bigip.list_node:",
+			"$0"
+		],
+		"description": "bigip.list_node:"
+	},
+	"bigip.list_pool": {
+		"prefix": "bigip.list_pool:",
+		"body": [
+			"bigip.list_pool:",
+			"$0"
+		],
+		"description": "bigip.list_pool:"
+	},
+	"bigip.list_profile": {
+		"prefix": "bigip.list_profile:",
+		"body": [
+			"bigip.list_profile:",
+			"$0"
+		],
+		"description": "bigip.list_profile:"
+	},
+	"bigip.list_virtual": {
+		"prefix": "bigip.list_virtual:",
+		"body": [
+			"bigip.list_virtual:",
+			"$0"
+		],
+		"description": "bigip.list_virtual:"
+	},
+	"bigip.manage_monitor": {
+		"prefix": "bigip.manage_monitor:",
+		"body": [
+			"bigip.manage_monitor:",
+			"$0"
+		],
+		"description": "bigip.manage_monitor:"
+	},
+	"bigip.manage_node": {
+		"prefix": "bigip.manage_node:",
+		"body": [
+			"bigip.manage_node:",
+			"$0"
+		],
+		"description": "bigip.manage_node:"
+	},
+	"bigip.manage_pool": {
+		"prefix": "bigip.manage_pool:",
+		"body": [
+			"bigip.manage_pool:",
+			"$0"
+		],
+		"description": "bigip.manage_pool:"
+	},
+	"bigip.manage_pool_members": {
+		"prefix": "bigip.manage_pool_members:",
+		"body": [
+			"bigip.manage_pool_members:",
+			"$0"
+		],
+		"description": "bigip.manage_pool_members:"
+	},
+	"bigip.manage_profile": {
+		"prefix": "bigip.manage_profile:",
+		"body": [
+			"bigip.manage_profile:",
+			"$0"
+		],
+		"description": "bigip.manage_profile:"
+	},
+	"bigip.manage_virtual": {
+		"prefix": "bigip.manage_virtual:",
+		"body": [
+			"bigip.manage_virtual:",
+			"$0"
+		],
+		"description": "bigip.manage_virtual:"
+	},
+	"bigip.modify_monitor": {
+		"prefix": "bigip.modify_monitor:",
+		"body": [
+			"bigip.modify_monitor:",
+			"$0"
+		],
+		"description": "bigip.modify_monitor:"
+	},
+	"bigip.modify_node": {
+		"prefix": "bigip.modify_node:",
+		"body": [
+			"bigip.modify_node:",
+			"$0"
+		],
+		"description": "bigip.modify_node:"
+	},
+	"bigip.modify_pool": {
+		"prefix": "bigip.modify_pool:",
+		"body": [
+			"bigip.modify_pool:",
+			"$0"
+		],
+		"description": "bigip.modify_pool:"
+	},
+	"bigip.modify_pool_member": {
+		"prefix": "bigip.modify_pool_member:",
+		"body": [
+			"bigip.modify_pool_member:",
+			"$0"
+		],
+		"description": "bigip.modify_pool_member:"
+	},
+	"bigip.modify_profile": {
+		"prefix": "bigip.modify_profile:",
+		"body": [
+			"bigip.modify_profile:",
+			"$0"
+		],
+		"description": "bigip.modify_profile:"
+	},
+	"bigip.modify_virtual": {
+		"prefix": "bigip.modify_virtual:",
+		"body": [
+			"bigip.modify_virtual:",
+			"$0"
+		],
+		"description": "bigip.modify_virtual:"
+	}
+}

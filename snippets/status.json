@@ -1,0 +1,18 @@
+{
+	"status.loadavg": {
+		"prefix": "status.loadavg:",
+		"body": [
+			"status.loadavg:",
+			"$0"
+		],
+		"description": "status.loadavg:"
+	},
+	"status.process": {
+		"prefix": "status.process:",
+		"body": [
+			"status.process:",
+			"$0"
+		],
+		"description": "status.process:"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"license.activate": {
+		"body": [
+			"license.activate:",
+			"$0"
+		],
+		"prefix": "license.activate:",
+		"description": "license.activate:"
+	}
+}

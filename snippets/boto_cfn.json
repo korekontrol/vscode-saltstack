@@ -1,0 +1,18 @@
+{
+	"boto_cfn.absent": {
+		"prefix": "boto_cfn.absent:",
+		"body": [
+			"boto_cfn.absent:",
+			"$0"
+		],
+		"description": "boto_cfn.absent:"
+	},
+	"boto_cfn.present": {
+		"prefix": "boto_cfn.present:",
+		"body": [
+			"boto_cfn.present:",
+			"$0"
+		],
+		"description": "boto_cfn.present:"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"xml.value_present": {
+		"prefix": "xml.value_present:",
+		"body": [
+			"xml.value_present:",
+			"$0"
+		],
+		"description": "xml.value_present:"
+	}
+}

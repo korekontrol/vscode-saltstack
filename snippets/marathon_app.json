@@ -1,0 +1,26 @@
+{
+	"marathon_app.absent": {
+		"prefix": "marathon_app.absent:",
+		"body": [
+			"marathon_app.absent:",
+			"$0"
+		],
+		"description": "marathon_app.absent:"
+	},
+	"marathon_app.config": {
+		"prefix": "marathon_app.config:",
+		"body": [
+			"marathon_app.config:",
+			"$0"
+		],
+		"description": "marathon_app.config:"
+	},
+	"marathon_app.running": {
+		"prefix": "marathon_app.running:",
+		"body": [
+			"marathon_app.running:",
+			"$0"
+		],
+		"description": "marathon_app.running:"
+	}
+}

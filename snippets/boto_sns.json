@@ -1,0 +1,18 @@
+{
+	"boto_sns.absent": {
+		"prefix": "boto_sns.absent:",
+		"body": [
+			"boto_sns.absent:",
+			"$0"
+		],
+		"description": "boto_sns.absent:"
+	},
+	"boto_sns.present": {
+		"prefix": "boto_sns.present:",
+		"body": [
+			"boto_sns.present:",
+			"$0"
+		],
+		"description": "boto_sns.present:"
+	}
+}

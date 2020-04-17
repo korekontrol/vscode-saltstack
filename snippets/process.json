@@ -1,0 +1,10 @@
+{
+	"process.absent": {
+		"prefix": "process.absent:",
+		"body": [
+			"process.absent:",
+			"$0"
+		],
+		"description": "process.absent:"
+	}
+}

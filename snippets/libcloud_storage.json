@@ -1,0 +1,50 @@
+{
+	"libcloud_storage.container_absent": {
+		"prefix": "libcloud_storage.container_absent:",
+		"body": [
+			"libcloud_storage.container_absent:",
+			"$0"
+		],
+		"description": "libcloud_storage.container_absent:"
+	},
+	"libcloud_storage.container_present": {
+		"prefix": "libcloud_storage.container_present:",
+		"body": [
+			"libcloud_storage.container_present:",
+			"$0"
+		],
+		"description": "libcloud_storage.container_present:"
+	},
+	"libcloud_storage.file_present": {
+		"prefix": "libcloud_storage.file_present:",
+		"body": [
+			"libcloud_storage.file_present:",
+			"$0"
+		],
+		"description": "libcloud_storage.file_present:"
+	},
+	"libcloud_storage.object_absent": {
+		"prefix": "libcloud_storage.object_absent:",
+		"body": [
+			"libcloud_storage.object_absent:",
+			"$0"
+		],
+		"description": "libcloud_storage.object_absent:"
+	},
+	"libcloud_storage.object_present": {
+		"prefix": "libcloud_storage.object_present:",
+		"body": [
+			"libcloud_storage.object_present:",
+			"$0"
+		],
+		"description": "libcloud_storage.object_present:"
+	},
+	"libcloud_storage.state_result": {
+		"prefix": "libcloud_storage.state_result:",
+		"body": [
+			"libcloud_storage.state_result:",
+			"$0"
+		],
+		"description": "libcloud_storage.state_result:"
+	}
+}

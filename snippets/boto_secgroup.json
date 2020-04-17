@@ -1,0 +1,18 @@
+{
+	"boto_secgroup.absent": {
+		"prefix": "boto_secgroup.absent:",
+		"body": [
+			"boto_secgroup.absent:",
+			"$0"
+		],
+		"description": "boto_secgroup.absent:"
+	},
+	"boto_secgroup.present": {
+		"prefix": "boto_secgroup.present:",
+		"body": [
+			"boto_secgroup.present:",
+			"$0"
+		],
+		"description": "boto_secgroup.present:"
+	}
+}
