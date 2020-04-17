@@ -1,3 +1,10 @@
+## 0.0.7 - 17th April, 2020
+
+* [Christian McHugh (@mchugh19)](https://github.com/mchugh19)
+    * Implement salt module autocompletion
+    * Add support for saltcheck syntax highlighting and autocomplete
+
+
 ## 0.0.6 - 8th October, 2019
 
 * [Ross N. (@Rossn2)](https://github.com/Rossn2)
