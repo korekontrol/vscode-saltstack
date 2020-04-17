@@ -1,0 +1,18 @@
+{
+	"rdp.enabled": {
+		"body": [
+			"rdp.enabled:",
+			"$0"
+		],
+		"prefix": "rdp.enabled:",
+		"description": "rdp.enabled:"
+	},
+	"rdp.disabled": {
+		"body": [
+			"rdp.disabled:",
+			"$0"
+		],
+		"prefix": "rdp.disabled:",
+		"description": "rdp.disabled:"
+	}
+}

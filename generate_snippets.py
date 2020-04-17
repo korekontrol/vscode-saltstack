@@ -6,8 +6,7 @@ the resulting workflow is to run generate_snippets on new salt releases to
 capture any added states or functions. Then hand edit for the defaults which
 make sense.
 '''
-import salt.config
-import salt.loader
+import salt.client
 
 import os
 import json
@@ -61,12 +60,10 @@ def _add_all_snippets(states):
     else:
         print("All states present in package.json")
 
-__opts__ = salt.config.minion_config('/etc/salt/minion')
-__utils__ = salt.loader.utils(__opts__)
-__salt__ = salt.loader.minion_mods(__opts__, utils=__utils__)
+local = salt.client.Caller()
 
-states = __salt__['sys.list_state_modules']()
-state_functions = __salt__['sys.list_state_functions']()
+states = local.cmd('sys.list_state_modules')
+state_functions = local.cmd('sys.list_state_functions')
 function_blacklist = ['mod_watch']
 
 any_updates = False

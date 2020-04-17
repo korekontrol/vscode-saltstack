@@ -1,0 +1,26 @@
+{
+	"win_dns_client.dns_dhcp": {
+		"body": [
+			"win_dns_client.dns_dhcp:",
+			"$0"
+		],
+		"prefix": "win_dns_client.dns_dhcp:",
+		"description": "win_dns_client.dns_dhcp:"
+	},
+	"win_dns_client.dns_exists": {
+		"body": [
+			"win_dns_client.dns_exists:",
+			"$0"
+		],
+		"prefix": "win_dns_client.dns_exists:",
+		"description": "win_dns_client.dns_exists:"
+	},
+	"win_dns_client.primary_suffix": {
+		"body": [
+			"win_dns_client.primary_suffix:",
+			"$0"
+		],
+		"prefix": "win_dns_client.primary_suffix:",
+		"description": "win_dns_client.primary_suffix:"
+	}
+}

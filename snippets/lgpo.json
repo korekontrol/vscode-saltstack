@@ -1,0 +1,10 @@
+{
+	"lgpo.set": {
+		"body": [
+			"lgpo.set:",
+			"$0"
+		],
+		"prefix": "lgpo.set:",
+		"description": "lgpo.set:"
+	}
+}

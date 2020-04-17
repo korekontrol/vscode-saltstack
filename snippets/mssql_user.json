@@ -1,0 +1,18 @@
+{
+	"mssql_user.absent": {
+		"body": [
+			"mssql_user.absent:",
+			"$0"
+		],
+		"prefix": "mssql_user.absent:",
+		"description": "mssql_user.absent:"
+	},
+	"mssql_user.present": {
+		"body": [
+			"mssql_user.present:",
+			"$0"
+		],
+		"prefix": "mssql_user.present:",
+		"description": "mssql_user.present:"
+	}
+}

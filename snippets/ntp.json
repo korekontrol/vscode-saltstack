@@ -1,0 +1,10 @@
+{
+	"ntp.managed": {
+		"body": [
+			"ntp.managed:",
+			"$0"
+		],
+		"prefix": "ntp.managed:",
+		"description": "ntp.managed:"
+	}
+}

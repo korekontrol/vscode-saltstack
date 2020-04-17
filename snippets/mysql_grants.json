@@ -1,0 +1,18 @@
+{
+	"mysql_grants.absent": {
+		"body": [
+			"mysql_grants.absent:",
+			"$0"
+		],
+		"prefix": "mysql_grants.absent:",
+		"description": "mysql_grants.absent:"
+	},
+	"mysql_grants.present": {
+		"body": [
+			"mysql_grants.present:",
+			"$0"
+		],
+		"prefix": "mysql_grants.present:",
+		"description": "mysql_grants.present:"
+	}
+}

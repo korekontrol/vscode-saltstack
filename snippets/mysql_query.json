@@ -1,0 +1,18 @@
+{
+	"mysql_query.run_file": {
+		"body": [
+			"mysql_query.run_file:",
+			"$0"
+		],
+		"prefix": "mysql_query.run_file:",
+		"description": "mysql_query.run_file:"
+	},
+	"mysql_query.run": {
+		"body": [
+			"mysql_query.run:",
+			"$0"
+		],
+		"prefix": "mysql_query.run:",
+		"description": "mysql_query.run:"
+	}
+}

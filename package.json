@@ -249,6 +249,14 @@
 			},
 			{
 				"language": "sls",
+				"path": "./snippets/certutil.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/chocolatey.json"
+			},
+			{
+				"language": "sls",
 				"path": "./snippets/chronos_job.json"
 			},
 			{
@@ -277,11 +285,19 @@
 			},
 			{
 				"language": "sls",
+				"path": "./snippets/cyg.json"
+			},
+			{
+				"language": "sls",
 				"path": "./snippets/ddns.json"
 			},
 			{
 				"language": "sls",
 				"path": "./snippets/disk.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/dism.json"
 			},
 			{
 				"language": "sls",
@@ -453,6 +469,10 @@
 			},
 			{
 				"language": "sls",
+				"path": "./snippets/lgpo.json"
+			},
+			{
+				"language": "sls",
 				"path": "./snippets/libcloud_dns.json"
 			},
 			{
@@ -462,6 +482,10 @@
 			{
 				"language": "sls",
 				"path": "./snippets/libcloud_storage.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/license.json"
 			},
 			{
 				"language": "sls",
@@ -525,7 +549,43 @@
 			},
 			{
 				"language": "sls",
+				"path": "./snippets/mssql_database.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/mssql_login.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/mssql_role.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/mssql_user.json"
+			},
+			{
+				"language": "sls",
 				"path": "./snippets/msteams.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/mysql_database.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/mysql_grants.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/mysql_query.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/mysql_user.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/network.json"
 			},
 			{
 				"language": "sls",
@@ -534,6 +594,10 @@
 			{
 				"language": "sls",
 				"path": "./snippets/npm.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/ntp.json"
 			},
 			{
 				"language": "sls",
@@ -573,6 +637,10 @@
 			},
 			{
 				"language": "sls",
+				"path": "./snippets/pkg.json"
+			},
+			{
+				"language": "sls",
 				"path": "./snippets/pkgbuild.json"
 			},
 			{
@@ -581,11 +649,19 @@
 			},
 			{
 				"language": "sls",
+				"path": "./snippets/powercfg.json"
+			},
+			{
+				"language": "sls",
 				"path": "./snippets/powerpath.json"
 			},
 			{
 				"language": "sls",
 				"path": "./snippets/process.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/proxy.json"
 			},
 			{
 				"language": "sls",
@@ -598,6 +674,14 @@
 			{
 				"language": "sls",
 				"path": "./snippets/rbenv.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/rdp.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/reg.json"
 			},
 			{
 				"language": "sls",
@@ -626,6 +710,10 @@
 			{
 				"language": "sls",
 				"path": "./snippets/serverdensity_device.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/service.json"
 			},
 			{
 				"language": "sls",
@@ -673,6 +761,10 @@
 			},
 			{
 				"language": "sls",
+				"path": "./snippets/system.json"
+			},
+			{
+				"language": "sls",
 				"path": "./snippets/telemetry_alert.json"
 			},
 			{
@@ -682,6 +774,10 @@
 			{
 				"language": "sls",
 				"path": "./snippets/timezone.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/tls.json"
 			},
 			{
 				"language": "sls",
@@ -701,6 +797,10 @@
 			},
 			{
 				"language": "sls",
+				"path": "./snippets/vagrant.json"
+			},
+			{
+				"language": "sls",
 				"path": "./snippets/vault.json"
 			},
 			{
@@ -713,7 +813,39 @@
 			},
 			{
 				"language": "sls",
+				"path": "./snippets/win_dacl.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/win_dns_client.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/win_firewall.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/win_path.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/win_pki.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/win_smtp_server.json"
+			},
+			{
+				"language": "sls",
 				"path": "./snippets/winrepo.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/wua.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/wusa.json"
 			},
 			{
 				"language": "sls",

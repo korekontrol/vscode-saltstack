@@ -1,0 +1,50 @@
+{
+	"dism.package_installed": {
+		"body": [
+			"dism.package_installed:",
+			"$0"
+		],
+		"prefix": "dism.package_installed:",
+		"description": "dism.package_installed:"
+	},
+	"dism.capability_removed": {
+		"body": [
+			"dism.capability_removed:",
+			"$0"
+		],
+		"prefix": "dism.capability_removed:",
+		"description": "dism.capability_removed:"
+	},
+	"dism.feature_removed": {
+		"body": [
+			"dism.feature_removed:",
+			"$0"
+		],
+		"prefix": "dism.feature_removed:",
+		"description": "dism.feature_removed:"
+	},
+	"dism.capability_installed": {
+		"body": [
+			"dism.capability_installed:",
+			"$0"
+		],
+		"prefix": "dism.capability_installed:",
+		"description": "dism.capability_installed:"
+	},
+	"dism.package_removed": {
+		"body": [
+			"dism.package_removed:",
+			"$0"
+		],
+		"prefix": "dism.package_removed:",
+		"description": "dism.package_removed:"
+	},
+	"dism.feature_installed": {
+		"body": [
+			"dism.feature_installed:",
+			"$0"
+		],
+		"prefix": "dism.feature_installed:",
+		"description": "dism.feature_installed:"
+	}
+}

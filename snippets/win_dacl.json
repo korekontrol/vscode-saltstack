@@ -1,0 +1,34 @@
+{
+	"win_dacl.present": {
+		"body": [
+			"win_dacl.present:",
+			"$0"
+		],
+		"prefix": "win_dacl.present:",
+		"description": "win_dacl.present:"
+	},
+	"win_dacl.disinherit": {
+		"body": [
+			"win_dacl.disinherit:",
+			"$0"
+		],
+		"prefix": "win_dacl.disinherit:",
+		"description": "win_dacl.disinherit:"
+	},
+	"win_dacl.absent": {
+		"body": [
+			"win_dacl.absent:",
+			"$0"
+		],
+		"prefix": "win_dacl.absent:",
+		"description": "win_dacl.absent:"
+	},
+	"win_dacl.inherit": {
+		"body": [
+			"win_dacl.inherit:",
+			"$0"
+		],
+		"prefix": "win_dacl.inherit:",
+		"description": "win_dacl.inherit:"
+	}
+}
