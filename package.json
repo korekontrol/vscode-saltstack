@@ -78,8 +78,8 @@
 			{
 				"language": "tst",
 				"path": "./snippets/saltcheck.json"
-      },
-      {
+			},
+			{
 				"language": "sls",
 				"path": "./snippets/alias.json"
 			},
