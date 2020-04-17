@@ -9,6 +9,64 @@ The language is a yaml with Jinja2 templating.
 
 First, you will need to install Visual Studio Code `1.19.0` or higher. In the command palette (`cmd-shift-p`) select `Install Extension` and choose `SaltStack`.
 
+### Autocompletion
+
+#### Salt states
+
+When writing Salt states, pressing ctrl+space will offer to autocomplete state functions and some stanzas.
+
+Example:
+```
+some_id:
+  test.<ctrl+space>
+```
+
+Results in:
+```
+some_id:
+  test.+-----------------------+
+       |check_pillar           |
+       |configurable_test_state|
+       |fail_with_changes      |
+       |fail_without_changes   |
+       |nop                    |
+       |show_notification      |
+       |succeed_with_changes   |
+       |succeed_without_changes|
+       +-----------------------+
+
+```
+
+Full state modules can also be completed:
+```
+some_other_id:
+  test.configurable_test_state:<ctrl+space>
+```
+
+Results in:
+```
+some_other_id:
+  test.conffigurable_test_state:
+    - name: _unique_string_
+    - changes: True
+    - result: True
+    - comment: ''
+```
+
+#### Saltcheck
+
+Saltcheck tests (.tst files) can also be autocompleted with the keyword sctest<ctrl+space>
+
+Example:
+```
+_testid_:
+  module_and_function: _test.echo_
+  args:
+    - should return
+  assertion: _assertTrue_
+  expected_return: _should return_
+```
+
 ## Contributing
 
 If you are interested in making this extension better, I will gladly take pull requests that expand it to add intellisense, hovers and validators. If you're not familiar with working on Visual Studio Code extensions, check out the VS Code extenders documentation at

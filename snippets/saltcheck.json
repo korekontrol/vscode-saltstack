@@ -1,0 +1,39 @@
+{
+    "standard test": {
+        "prefix": [
+            "sctest"
+        ],
+        "body": [
+            "${1:testid}:",
+            "  module_and_function: ${2:test.echo}",
+            "  args:",
+            "    - should return",
+            "  assertion: ${3|assertEqual,assertNotEqual,assertTrue,assertFalse,assertIn,assertNotIn,assertGreater,assertGreaterEqual,assertLess,assertLessEqual,assertEmpty,assertNotEmpty|}",
+            "  expected_return: ${4:should return}",
+            "$0"
+        ],
+        "description": "basic saltcheck test"
+    },
+    "multi-assert test": {
+        "prefix": [
+            "sctest"
+        ],
+        "body": [
+            "${1:testid}:",
+            "  module_and_function: ${2:test.arg}",
+            "  args:",
+            "    - should return",
+            "  kwargs:",
+            "    a: value1",
+            "  assertions:",
+            "    - assertion: ${3|assertEqual,assertNotEqual,assertTrue,assertFalse,assertIn,assertNotIn,assertGreater,assertGreaterEqual,assertLess,assertLessEqual,assertEmpty,assertNotEmpty|}",
+            "      assertion_section: ${4:kwargs:a}",
+            "      expected_return: ${5:value1}",
+            "    - assertion: ${6|assertEqual,assertNotEqual,assertTrue,assertFalse,assertIn,assertNotIn,assertGreater,assertGreaterEqual,assertLess,assertLessEqual,assertEmpty,assertNotEmpty|}",
+            "      assertion_section: ${7:args}",
+            "      expected_return: ${8:should return}",
+            "$0"
+        ],
+        "description": "saltcheck test with multiple assertions"
+    }
+}
