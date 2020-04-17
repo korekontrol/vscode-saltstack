@@ -1,0 +1,18 @@
+{
+	"infoblox_cname.absent": {
+		"prefix": "infoblox_cname.absent:",
+		"body": [
+			"infoblox_cname.absent:",
+			"$0"
+		],
+		"description": "infoblox_cname.absent:"
+	},
+	"infoblox_cname.present": {
+		"prefix": "infoblox_cname.present:",
+		"body": [
+			"infoblox_cname.present:",
+			"$0"
+		],
+		"description": "infoblox_cname.present:"
+	}
+}

@@ -1,0 +1,114 @@
+{
+	"pkg.downloaded": {
+		"body": [
+			"pkg.downloaded:",
+			"$0"
+		],
+		"prefix": "pkg.downloaded:",
+		"description": "pkg.downloaded:"
+	},
+	"pkg.group_installed": {
+		"body": [
+			"pkg.group_installed:",
+			"$0"
+		],
+		"prefix": "pkg.group_installed:",
+		"description": "pkg.group_installed:"
+	},
+	"pkg.mod_aggregate": {
+		"body": [
+			"pkg.mod_aggregate:",
+			"$0"
+		],
+		"prefix": "pkg.mod_aggregate:",
+		"description": "pkg.mod_aggregate:"
+	},
+	"pkg.mod_init": {
+		"body": [
+			"pkg.mod_init:",
+			"$0"
+		],
+		"prefix": "pkg.mod_init:",
+		"description": "pkg.mod_init:"
+	},
+	"pkg.latest": {
+		"body": [
+			"pkg.latest:",
+			"$0"
+		],
+		"prefix": "pkg.latest:",
+		"description": "pkg.latest:"
+	},
+	"pkg.patch_downloaded": {
+		"body": [
+			"pkg.patch_downloaded:",
+			"$0"
+		],
+		"prefix": "pkg.patch_downloaded:",
+		"description": "pkg.patch_downloaded:"
+	},
+	"pkg.get_repo_data": {
+		"body": [
+			"pkg.get_repo_data:",
+			"$0"
+		],
+		"prefix": "pkg.get_repo_data:",
+		"description": "pkg.get_repo_data:"
+	},
+	"pkg.refresh_db": {
+		"body": [
+			"pkg.refresh_db:",
+			"$0"
+		],
+		"prefix": "pkg.refresh_db:",
+		"description": "pkg.refresh_db:"
+	},
+	"pkg.uptodate": {
+		"body": [
+			"pkg.uptodate:",
+			"$0"
+		],
+		"prefix": "pkg.uptodate:",
+		"description": "pkg.uptodate:"
+	},
+	"pkg.patch_installed": {
+		"body": [
+			"pkg.patch_installed:",
+			"$0"
+		],
+		"prefix": "pkg.patch_installed:",
+		"description": "pkg.patch_installed:"
+	},
+	"pkg.purged": {
+		"body": [
+			"pkg.purged:",
+			"$0"
+		],
+		"prefix": "pkg.purged:",
+		"description": "pkg.purged:"
+	},
+	"pkg.genrepo": {
+		"body": [
+			"pkg.genrepo:",
+			"$0"
+		],
+		"prefix": "pkg.genrepo:",
+		"description": "pkg.genrepo:"
+	},
+	"pkg.removed": {
+		"body": [
+			"pkg.removed:",
+			"$0"
+		],
+		"prefix": "pkg.removed:",
+		"description": "pkg.removed:"
+	},
+	"pkg.installed": {
+		"body": [
+			"pkg.installed:",
+			"$0"
+		],
+		"prefix": "pkg.installed:",
+		"description": "pkg.installed:"
+	}
+}

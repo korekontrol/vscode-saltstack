@@ -1,0 +1,10 @@
+{
+	"slack.post_message": {
+		"prefix": "slack.post_message:",
+		"body": [
+			"slack.post_message:",
+			"$0"
+		],
+		"description": "slack.post_message:"
+	}
+}

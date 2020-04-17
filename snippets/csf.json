@@ -1,0 +1,66 @@
+{
+	"csf.nics_skip": {
+		"prefix": "csf.nics_skip:",
+		"body": [
+			"csf.nics_skip:",
+			"$0"
+		],
+		"description": "csf.nics_skip:"
+	},
+	"csf.nics_skipped": {
+		"prefix": "csf.nics_skipped:",
+		"body": [
+			"csf.nics_skipped:",
+			"$0"
+		],
+		"description": "csf.nics_skipped:"
+	},
+	"csf.option_present": {
+		"prefix": "csf.option_present:",
+		"body": [
+			"csf.option_present:",
+			"$0"
+		],
+		"description": "csf.option_present:"
+	},
+	"csf.ports_open": {
+		"prefix": "csf.ports_open:",
+		"body": [
+			"csf.ports_open:",
+			"$0"
+		],
+		"description": "csf.ports_open:"
+	},
+	"csf.rule_absent": {
+		"prefix": "csf.rule_absent:",
+		"body": [
+			"csf.rule_absent:",
+			"$0"
+		],
+		"description": "csf.rule_absent:"
+	},
+	"csf.rule_present": {
+		"prefix": "csf.rule_present:",
+		"body": [
+			"csf.rule_present:",
+			"$0"
+		],
+		"description": "csf.rule_present:"
+	},
+	"csf.testing_off": {
+		"prefix": "csf.testing_off:",
+		"body": [
+			"csf.testing_off:",
+			"$0"
+		],
+		"description": "csf.testing_off:"
+	},
+	"csf.testing_on": {
+		"prefix": "csf.testing_on:",
+		"body": [
+			"csf.testing_on:",
+			"$0"
+		],
+		"description": "csf.testing_on:"
+	}
+}

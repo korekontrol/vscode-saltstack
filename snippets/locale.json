@@ -1,0 +1,18 @@
+{
+	"locale.present": {
+		"prefix": "locale.present:",
+		"body": [
+			"locale.present:",
+			"$0"
+		],
+		"description": "locale.present:"
+	},
+	"locale.system": {
+		"prefix": "locale.system:",
+		"body": [
+			"locale.system:",
+			"$0"
+		],
+		"description": "locale.system:"
+	}
+}

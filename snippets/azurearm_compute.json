@@ -1,0 +1,18 @@
+{
+	"azurearm_compute.availability_set_absent": {
+		"prefix": "azurearm_compute.availability_set_absent:",
+		"body": [
+			"azurearm_compute.availability_set_absent:",
+			"$0"
+		],
+		"description": "azurearm_compute.availability_set_absent:"
+	},
+	"azurearm_compute.availability_set_present": {
+		"prefix": "azurearm_compute.availability_set_present:",
+		"body": [
+			"azurearm_compute.availability_set_present:",
+			"$0"
+		],
+		"description": "azurearm_compute.availability_set_present:"
+	}
+}

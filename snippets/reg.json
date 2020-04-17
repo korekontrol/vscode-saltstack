@@ -1,0 +1,26 @@
+{
+	"reg.absent": {
+		"body": [
+			"reg.absent:",
+			"$0"
+		],
+		"prefix": "reg.absent:",
+		"description": "reg.absent:"
+	},
+	"reg.present": {
+		"body": [
+			"reg.present:",
+			"$0"
+		],
+		"prefix": "reg.present:",
+		"description": "reg.present:"
+	},
+	"reg.key_absent": {
+		"body": [
+			"reg.key_absent:",
+			"$0"
+		],
+		"prefix": "reg.key_absent:",
+		"description": "reg.key_absent:"
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"docker_image.absent": {
+		"prefix": "docker_image.absent:",
+		"body": [
+			"docker_image.absent:",
+			"$0"
+		],
+		"description": "docker_image.absent:"
+	},
+	"docker_image.present": {
+		"prefix": "docker_image.present:",
+		"body": [
+			"docker_image.present:",
+			"\t- tag: ${1:tag}",
+			"$0"
+		],
+		"description": "docker_image.present:"
+	}
+}

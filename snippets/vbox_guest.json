@@ -1,0 +1,26 @@
+{
+	"vbox_guest.additions_installed": {
+		"prefix": "vbox_guest.additions_installed:",
+		"body": [
+			"vbox_guest.additions_installed:",
+			"$0"
+		],
+		"description": "vbox_guest.additions_installed:"
+	},
+	"vbox_guest.additions_removed": {
+		"prefix": "vbox_guest.additions_removed:",
+		"body": [
+			"vbox_guest.additions_removed:",
+			"$0"
+		],
+		"description": "vbox_guest.additions_removed:"
+	},
+	"vbox_guest.grant_access_to_shared_folders_to": {
+		"prefix": "vbox_guest.grant_access_to_shared_folders_to:",
+		"body": [
+			"vbox_guest.grant_access_to_shared_folders_to:",
+			"$0"
+		],
+		"description": "vbox_guest.grant_access_to_shared_folders_to:"
+	}
+}

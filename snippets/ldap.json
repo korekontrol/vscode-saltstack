@@ -1,0 +1,10 @@
+{
+	"ldap.managed": {
+		"prefix": "ldap.managed:",
+		"body": [
+			"ldap.managed:",
+			"$0"
+		],
+		"description": "ldap.managed:"
+	}
+}

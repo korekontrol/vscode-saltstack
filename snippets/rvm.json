@@ -1,0 +1,18 @@
+{
+	"rvm.gemset_present": {
+		"prefix": "rvm.gemset_present:",
+		"body": [
+			"rvm.gemset_present:",
+			"$0"
+		],
+		"description": "rvm.gemset_present:"
+	},
+	"rvm.installed": {
+		"prefix": "rvm.installed:",
+		"body": [
+			"rvm.installed:",
+			"$0"
+		],
+		"description": "rvm.installed:"
+	}
+}

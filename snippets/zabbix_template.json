@@ -1,0 +1,26 @@
+{
+	"zabbix_template.absent": {
+		"prefix": "zabbix_template.absent:",
+		"body": [
+			"zabbix_template.absent:",
+			"$0"
+		],
+		"description": "zabbix_template.absent:"
+	},
+	"zabbix_template.is_present": {
+		"prefix": "zabbix_template.is_present:",
+		"body": [
+			"zabbix_template.is_present:",
+			"$0"
+		],
+		"description": "zabbix_template.is_present:"
+	},
+	"zabbix_template.present": {
+		"prefix": "zabbix_template.present:",
+		"body": [
+			"zabbix_template.present:",
+			"$0"
+		],
+		"description": "zabbix_template.present:"
+	}
+}

@@ -1,0 +1,50 @@
+{
+	"boto_apigateway.absent": {
+		"prefix": "boto_apigateway.absent:",
+		"body": [
+			"boto_apigateway.absent:",
+			"$0"
+		],
+		"description": "boto_apigateway.absent:"
+	},
+	"boto_apigateway.present": {
+		"prefix": "boto_apigateway.present:",
+		"body": [
+			"boto_apigateway.present:",
+			"$0"
+		],
+		"description": "boto_apigateway.present:"
+	},
+	"boto_apigateway.usage_plan_absent": {
+		"prefix": "boto_apigateway.usage_plan_absent:",
+		"body": [
+			"boto_apigateway.usage_plan_absent:",
+			"$0"
+		],
+		"description": "boto_apigateway.usage_plan_absent:"
+	},
+	"boto_apigateway.usage_plan_association_absent": {
+		"prefix": "boto_apigateway.usage_plan_association_absent:",
+		"body": [
+			"boto_apigateway.usage_plan_association_absent:",
+			"$0"
+		],
+		"description": "boto_apigateway.usage_plan_association_absent:"
+	},
+	"boto_apigateway.usage_plan_association_present": {
+		"prefix": "boto_apigateway.usage_plan_association_present:",
+		"body": [
+			"boto_apigateway.usage_plan_association_present:",
+			"$0"
+		],
+		"description": "boto_apigateway.usage_plan_association_present:"
+	},
+	"boto_apigateway.usage_plan_present": {
+		"prefix": "boto_apigateway.usage_plan_present:",
+		"body": [
+			"boto_apigateway.usage_plan_present:",
+			"$0"
+		],
+		"description": "boto_apigateway.usage_plan_present:"
+	}
+}

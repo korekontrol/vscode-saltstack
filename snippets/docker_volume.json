@@ -1,0 +1,18 @@
+{
+	"docker_volume.absent": {
+		"prefix": "docker_volume.absent:",
+		"body": [
+			"docker_volume.absent:",
+			"$0"
+		],
+		"description": "docker_volume.absent:"
+	},
+	"docker_volume.present": {
+		"prefix": "docker_volume.present:",
+		"body": [
+			"docker_volume.present:",
+			"$0"
+		],
+		"description": "docker_volume.present:"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"boto_elb.absent": {
+		"prefix": "boto_elb.absent:",
+		"body": [
+			"boto_elb.absent:",
+			"$0"
+		],
+		"description": "boto_elb.absent:"
+	},
+	"boto_elb.present": {
+		"prefix": "boto_elb.present:",
+		"body": [
+			"boto_elb.present:",
+			"$0"
+		],
+		"description": "boto_elb.present:"
+	},
+	"boto_elb.register_instances": {
+		"prefix": "boto_elb.register_instances:",
+		"body": [
+			"boto_elb.register_instances:",
+			"$0"
+		],
+		"description": "boto_elb.register_instances:"
+	}
+}

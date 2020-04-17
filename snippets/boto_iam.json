@@ -1,0 +1,106 @@
+{
+	"boto_iam.account_policy": {
+		"prefix": "boto_iam.account_policy:",
+		"body": [
+			"boto_iam.account_policy:",
+			"$0"
+		],
+		"description": "boto_iam.account_policy:"
+	},
+	"boto_iam.group_absent": {
+		"prefix": "boto_iam.group_absent:",
+		"body": [
+			"boto_iam.group_absent:",
+			"$0"
+		],
+		"description": "boto_iam.group_absent:"
+	},
+	"boto_iam.group_present": {
+		"prefix": "boto_iam.group_present:",
+		"body": [
+			"boto_iam.group_present:",
+			"$0"
+		],
+		"description": "boto_iam.group_present:"
+	},
+	"boto_iam.keys_absent": {
+		"prefix": "boto_iam.keys_absent:",
+		"body": [
+			"boto_iam.keys_absent:",
+			"$0"
+		],
+		"description": "boto_iam.keys_absent:"
+	},
+	"boto_iam.keys_present": {
+		"prefix": "boto_iam.keys_present:",
+		"body": [
+			"boto_iam.keys_present:",
+			"$0"
+		],
+		"description": "boto_iam.keys_present:"
+	},
+	"boto_iam.policy_absent": {
+		"prefix": "boto_iam.policy_absent:",
+		"body": [
+			"boto_iam.policy_absent:",
+			"$0"
+		],
+		"description": "boto_iam.policy_absent:"
+	},
+	"boto_iam.policy_present": {
+		"prefix": "boto_iam.policy_present:",
+		"body": [
+			"boto_iam.policy_present:",
+			"$0"
+		],
+		"description": "boto_iam.policy_present:"
+	},
+	"boto_iam.saml_provider_absent": {
+		"prefix": "boto_iam.saml_provider_absent:",
+		"body": [
+			"boto_iam.saml_provider_absent:",
+			"$0"
+		],
+		"description": "boto_iam.saml_provider_absent:"
+	},
+	"boto_iam.saml_provider_present": {
+		"prefix": "boto_iam.saml_provider_present:",
+		"body": [
+			"boto_iam.saml_provider_present:",
+			"$0"
+		],
+		"description": "boto_iam.saml_provider_present:"
+	},
+	"boto_iam.server_cert_absent": {
+		"prefix": "boto_iam.server_cert_absent:",
+		"body": [
+			"boto_iam.server_cert_absent:",
+			"$0"
+		],
+		"description": "boto_iam.server_cert_absent:"
+	},
+	"boto_iam.server_cert_present": {
+		"prefix": "boto_iam.server_cert_present:",
+		"body": [
+			"boto_iam.server_cert_present:",
+			"$0"
+		],
+		"description": "boto_iam.server_cert_present:"
+	},
+	"boto_iam.user_absent": {
+		"prefix": "boto_iam.user_absent:",
+		"body": [
+			"boto_iam.user_absent:",
+			"$0"
+		],
+		"description": "boto_iam.user_absent:"
+	},
+	"boto_iam.user_present": {
+		"prefix": "boto_iam.user_present:",
+		"body": [
+			"boto_iam.user_present:",
+			"$0"
+		],
+		"description": "boto_iam.user_present:"
+	}
+}

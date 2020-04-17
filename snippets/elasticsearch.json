@@ -1,0 +1,82 @@
+{
+	"elasticsearch.alias_absent": {
+		"prefix": "elasticsearch.alias_absent:",
+		"body": [
+			"elasticsearch.alias_absent:",
+			"$0"
+		],
+		"description": "elasticsearch.alias_absent:"
+	},
+	"elasticsearch.alias_present": {
+		"prefix": "elasticsearch.alias_present:",
+		"body": [
+			"elasticsearch.alias_present:",
+			"$0"
+		],
+		"description": "elasticsearch.alias_present:"
+	},
+	"elasticsearch.index_absent": {
+		"prefix": "elasticsearch.index_absent:",
+		"body": [
+			"elasticsearch.index_absent:",
+			"$0"
+		],
+		"description": "elasticsearch.index_absent:"
+	},
+	"elasticsearch.index_present": {
+		"prefix": "elasticsearch.index_present:",
+		"body": [
+			"elasticsearch.index_present:",
+			"$0"
+		],
+		"description": "elasticsearch.index_present:"
+	},
+	"elasticsearch.index_template_absent": {
+		"prefix": "elasticsearch.index_template_absent:",
+		"body": [
+			"elasticsearch.index_template_absent:",
+			"$0"
+		],
+		"description": "elasticsearch.index_template_absent:"
+	},
+	"elasticsearch.index_template_present": {
+		"prefix": "elasticsearch.index_template_present:",
+		"body": [
+			"elasticsearch.index_template_present:",
+			"$0"
+		],
+		"description": "elasticsearch.index_template_present:"
+	},
+	"elasticsearch.pipeline_absent": {
+		"prefix": "elasticsearch.pipeline_absent:",
+		"body": [
+			"elasticsearch.pipeline_absent:",
+			"$0"
+		],
+		"description": "elasticsearch.pipeline_absent:"
+	},
+	"elasticsearch.pipeline_present": {
+		"prefix": "elasticsearch.pipeline_present:",
+		"body": [
+			"elasticsearch.pipeline_present:",
+			"$0"
+		],
+		"description": "elasticsearch.pipeline_present:"
+	},
+	"elasticsearch.search_template_absent": {
+		"prefix": "elasticsearch.search_template_absent:",
+		"body": [
+			"elasticsearch.search_template_absent:",
+			"$0"
+		],
+		"description": "elasticsearch.search_template_absent:"
+	},
+	"elasticsearch.search_template_present": {
+		"prefix": "elasticsearch.search_template_present:",
+		"body": [
+			"elasticsearch.search_template_present:",
+			"$0"
+		],
+		"description": "elasticsearch.search_template_present:"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"elasticsearch_index.absent": {
+		"prefix": "elasticsearch_index.absent:",
+		"body": [
+			"elasticsearch_index.absent:",
+			"$0"
+		],
+		"description": "elasticsearch_index.absent:"
+	},
+	"elasticsearch_index.present": {
+		"prefix": "elasticsearch_index.present:",
+		"body": [
+			"elasticsearch_index.present:",
+			"$0"
+		],
+		"description": "elasticsearch_index.present:"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"zabbix_hostgroup.absent": {
+		"prefix": "zabbix_hostgroup.absent:",
+		"body": [
+			"zabbix_hostgroup.absent:",
+			"$0"
+		],
+		"description": "zabbix_hostgroup.absent:"
+	},
+	"zabbix_hostgroup.present": {
+		"prefix": "zabbix_hostgroup.present:",
+		"body": [
+			"zabbix_hostgroup.present:",
+			"$0"
+		],
+		"description": "zabbix_hostgroup.present:"
+	}
+}

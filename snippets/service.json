@@ -1,0 +1,50 @@
+{
+	"service.dead": {
+		"body": [
+			"service.dead:",
+			"$0"
+		],
+		"prefix": "service.dead:",
+		"description": "service.dead:"
+	},
+	"service.running": {
+		"body": [
+			"service.running:",
+			"$0"
+		],
+		"prefix": "service.running:",
+		"description": "service.running:"
+	},
+	"service.disabled": {
+		"body": [
+			"service.disabled:",
+			"$0"
+		],
+		"prefix": "service.disabled:",
+		"description": "service.disabled:"
+	},
+	"service.unmasked": {
+		"body": [
+			"service.unmasked:",
+			"$0"
+		],
+		"prefix": "service.unmasked:",
+		"description": "service.unmasked:"
+	},
+	"service.enabled": {
+		"body": [
+			"service.enabled:",
+			"$0"
+		],
+		"prefix": "service.enabled:",
+		"description": "service.enabled:"
+	},
+	"service.masked": {
+		"body": [
+			"service.masked:",
+			"$0"
+		],
+		"prefix": "service.masked:",
+		"description": "service.masked:"
+	}
+}

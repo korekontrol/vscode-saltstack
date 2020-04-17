@@ -1,0 +1,10 @@
+{
+	"firewall.check": {
+		"prefix": "firewall.check:",
+		"body": [
+			"firewall.check:",
+			"$0"
+		],
+		"description": "firewall.check:"
+	}
+}

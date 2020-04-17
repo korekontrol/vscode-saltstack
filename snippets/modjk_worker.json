@@ -1,0 +1,26 @@
+{
+	"modjk_worker.activate": {
+		"prefix": "modjk_worker.activate:",
+		"body": [
+			"modjk_worker.activate:",
+			"$0"
+		],
+		"description": "modjk_worker.activate:"
+	},
+	"modjk_worker.disable": {
+		"prefix": "modjk_worker.disable:",
+		"body": [
+			"modjk_worker.disable:",
+			"$0"
+		],
+		"description": "modjk_worker.disable:"
+	},
+	"modjk_worker.stop": {
+		"prefix": "modjk_worker.stop:",
+		"body": [
+			"modjk_worker.stop:",
+			"$0"
+		],
+		"description": "modjk_worker.stop:"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"moby_image.absent": {
+		"prefix": "moby_image.absent:",
+		"body": [
+			"moby_image.absent:",
+			"$0"
+		],
+		"description": "moby_image.absent:"
+	},
+	"moby_image.present": {
+		"prefix": "moby_image.present:",
+		"body": [
+			"moby_image.present:",
+			"$0"
+		],
+		"description": "moby_image.present:"
+	}
+}

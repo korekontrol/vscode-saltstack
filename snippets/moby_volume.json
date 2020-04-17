@@ -1,0 +1,18 @@
+{
+	"moby_volume.absent": {
+		"prefix": "moby_volume.absent:",
+		"body": [
+			"moby_volume.absent:",
+			"$0"
+		],
+		"description": "moby_volume.absent:"
+	},
+	"moby_volume.present": {
+		"prefix": "moby_volume.present:",
+		"body": [
+			"moby_volume.present:",
+			"$0"
+		],
+		"description": "moby_volume.present:"
+	}
+}

@@ -1,0 +1,58 @@
+{
+	"lxc.absent": {
+		"prefix": "lxc.absent:",
+		"body": [
+			"lxc.absent:",
+			"$0"
+		],
+		"description": "lxc.absent:"
+	},
+	"lxc.edited_conf": {
+		"prefix": "lxc.edited_conf:",
+		"body": [
+			"lxc.edited_conf:",
+			"$0"
+		],
+		"description": "lxc.edited_conf:"
+	},
+	"lxc.frozen": {
+		"prefix": "lxc.frozen:",
+		"body": [
+			"lxc.frozen:",
+			"$0"
+		],
+		"description": "lxc.frozen:"
+	},
+	"lxc.present": {
+		"prefix": "lxc.present:",
+		"body": [
+			"lxc.present:",
+			"$0"
+		],
+		"description": "lxc.present:"
+	},
+	"lxc.running": {
+		"prefix": "lxc.running:",
+		"body": [
+			"lxc.running:",
+			"$0"
+		],
+		"description": "lxc.running:"
+	},
+	"lxc.set_pass": {
+		"prefix": "lxc.set_pass:",
+		"body": [
+			"lxc.set_pass:",
+			"$0"
+		],
+		"description": "lxc.set_pass:"
+	},
+	"lxc.stopped": {
+		"prefix": "lxc.stopped:",
+		"body": [
+			"lxc.stopped:",
+			"$0"
+		],
+		"description": "lxc.stopped:"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"boto_cognitoidentity.pool_absent": {
+		"prefix": "boto_cognitoidentity.pool_absent:",
+		"body": [
+			"boto_cognitoidentity.pool_absent:",
+			"$0"
+		],
+		"description": "boto_cognitoidentity.pool_absent:"
+	},
+	"boto_cognitoidentity.pool_present": {
+		"prefix": "boto_cognitoidentity.pool_present:",
+		"body": [
+			"boto_cognitoidentity.pool_present:",
+			"$0"
+		],
+		"description": "boto_cognitoidentity.pool_present:"
+	}
+}

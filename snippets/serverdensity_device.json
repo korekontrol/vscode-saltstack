@@ -1,0 +1,10 @@
+{
+	"serverdensity_device.monitored": {
+		"prefix": "serverdensity_device.monitored:",
+		"body": [
+			"serverdensity_device.monitored:",
+			"$0"
+		],
+		"description": "serverdensity_device.monitored:"
+	}
+}

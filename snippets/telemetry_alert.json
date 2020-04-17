@@ -1,0 +1,18 @@
+{
+	"telemetry_alert.absent": {
+		"prefix": "telemetry_alert.absent:",
+		"body": [
+			"telemetry_alert.absent:",
+			"$0"
+		],
+		"description": "telemetry_alert.absent:"
+	},
+	"telemetry_alert.present": {
+		"prefix": "telemetry_alert.present:",
+		"body": [
+			"telemetry_alert.present:",
+			"$0"
+		],
+		"description": "telemetry_alert.present:"
+	}
+}

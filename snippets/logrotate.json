@@ -1,0 +1,10 @@
+{
+	"logrotate.set": {
+		"prefix": "logrotate.set:",
+		"body": [
+			"logrotate.set:",
+			"$0"
+		],
+		"description": "logrotate.set:"
+	}
+}

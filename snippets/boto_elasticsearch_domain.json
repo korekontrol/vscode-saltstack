@@ -1,0 +1,18 @@
+{
+	"boto_elasticsearch_domain.absent": {
+		"prefix": "boto_elasticsearch_domain.absent:",
+		"body": [
+			"boto_elasticsearch_domain.absent:",
+			"$0"
+		],
+		"description": "boto_elasticsearch_domain.absent:"
+	},
+	"boto_elasticsearch_domain.present": {
+		"prefix": "boto_elasticsearch_domain.present:",
+		"body": [
+			"boto_elasticsearch_domain.present:",
+			"$0"
+		],
+		"description": "boto_elasticsearch_domain.present:"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"boto_datapipeline.absent": {
+		"prefix": "boto_datapipeline.absent:",
+		"body": [
+			"boto_datapipeline.absent:",
+			"$0"
+		],
+		"description": "boto_datapipeline.absent:"
+	},
+	"boto_datapipeline.present": {
+		"prefix": "boto_datapipeline.present:",
+		"body": [
+			"boto_datapipeline.present:",
+			"$0"
+		],
+		"description": "boto_datapipeline.present:"
+	}
+}

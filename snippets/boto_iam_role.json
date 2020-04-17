@@ -1,0 +1,18 @@
+{
+	"boto_iam_role.absent": {
+		"prefix": "boto_iam_role.absent:",
+		"body": [
+			"boto_iam_role.absent:",
+			"$0"
+		],
+		"description": "boto_iam_role.absent:"
+	},
+	"boto_iam_role.present": {
+		"prefix": "boto_iam_role.present:",
+		"body": [
+			"boto_iam_role.present:",
+			"$0"
+		],
+		"description": "boto_iam_role.present:"
+	}
+}

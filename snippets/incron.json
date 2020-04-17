@@ -1,0 +1,18 @@
+{
+	"incron.absent": {
+		"prefix": "incron.absent:",
+		"body": [
+			"incron.absent:",
+			"$0"
+		],
+		"description": "incron.absent:"
+	},
+	"incron.present": {
+		"prefix": "incron.present:",
+		"body": [
+			"incron.present:",
+			"$0"
+		],
+		"description": "incron.present:"
+	}
+}

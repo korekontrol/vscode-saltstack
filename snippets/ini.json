@@ -1,0 +1,34 @@
+{
+	"ini.options_absent": {
+		"prefix": "ini.options_absent:",
+		"body": [
+			"ini.options_absent:",
+			"$0"
+		],
+		"description": "ini.options_absent:"
+	},
+	"ini.options_present": {
+		"prefix": "ini.options_present:",
+		"body": [
+			"ini.options_present:",
+			"$0"
+		],
+		"description": "ini.options_present:"
+	},
+	"ini.sections_absent": {
+		"prefix": "ini.sections_absent:",
+		"body": [
+			"ini.sections_absent:",
+			"$0"
+		],
+		"description": "ini.sections_absent:"
+	},
+	"ini.sections_present": {
+		"prefix": "ini.sections_present:",
+		"body": [
+			"ini.sections_present:",
+			"$0"
+		],
+		"description": "ini.sections_present:"
+	}
+}

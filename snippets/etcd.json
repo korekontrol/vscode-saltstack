@@ -1,0 +1,42 @@
+{
+	"etcd.directory": {
+		"prefix": "etcd.directory:",
+		"body": [
+			"etcd.directory:",
+			"$0"
+		],
+		"description": "etcd.directory:"
+	},
+	"etcd.rm": {
+		"prefix": "etcd.rm:",
+		"body": [
+			"etcd.rm:",
+			"$0"
+		],
+		"description": "etcd.rm:"
+	},
+	"etcd.set": {
+		"prefix": "etcd.set:",
+		"body": [
+			"etcd.set:",
+			"$0"
+		],
+		"description": "etcd.set:"
+	},
+	"etcd.wait_rm": {
+		"prefix": "etcd.wait_rm:",
+		"body": [
+			"etcd.wait_rm:",
+			"$0"
+		],
+		"description": "etcd.wait_rm:"
+	},
+	"etcd.wait_set": {
+		"prefix": "etcd.wait_set:",
+		"body": [
+			"etcd.wait_set:",
+			"$0"
+		],
+		"description": "etcd.wait_set:"
+	}
+}

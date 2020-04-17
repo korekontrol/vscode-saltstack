@@ -1,0 +1,10 @@
+{
+	"salt_proxy.configure_proxy": {
+		"prefix": "salt_proxy.configure_proxy:",
+		"body": [
+			"salt_proxy.configure_proxy:",
+			"$0"
+		],
+		"description": "salt_proxy.configure_proxy:"
+	}
+}

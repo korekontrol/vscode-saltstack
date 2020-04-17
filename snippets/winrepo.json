@@ -1,0 +1,10 @@
+{
+	"winrepo.genrepo": {
+		"prefix": "winrepo.genrepo:",
+		"body": [
+			"winrepo.genrepo:",
+			"$0"
+		],
+		"description": "winrepo.genrepo:"
+	}
+}

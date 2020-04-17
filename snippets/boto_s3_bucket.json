@@ -1,0 +1,18 @@
+{
+	"boto_s3_bucket.absent": {
+		"prefix": "boto_s3_bucket.absent:",
+		"body": [
+			"boto_s3_bucket.absent:",
+			"$0"
+		],
+		"description": "boto_s3_bucket.absent:"
+	},
+	"boto_s3_bucket.present": {
+		"prefix": "boto_s3_bucket.present:",
+		"body": [
+			"boto_s3_bucket.present:",
+			"$0"
+		],
+		"description": "boto_s3_bucket.present:"
+	}
+}

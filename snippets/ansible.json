@@ -1,0 +1,18 @@
+{
+	"ansible.call": {
+		"prefix": "ansible.call:",
+		"body": [
+			"ansible.call:",
+			"$0"
+		],
+		"description": "ansible.call:"
+	},
+	"ansible.playbooks": {
+		"prefix": "ansible.playbooks:",
+		"body": [
+			"ansible.playbooks:",
+			"$0"
+		],
+		"description": "ansible.playbooks:"
+	}
+}

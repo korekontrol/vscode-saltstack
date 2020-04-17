@@ -1,0 +1,34 @@
+{
+	"boto_elbv2.create_target_group": {
+		"prefix": "boto_elbv2.create_target_group:",
+		"body": [
+			"boto_elbv2.create_target_group:",
+			"$0"
+		],
+		"description": "boto_elbv2.create_target_group:"
+	},
+	"boto_elbv2.delete_target_group": {
+		"prefix": "boto_elbv2.delete_target_group:",
+		"body": [
+			"boto_elbv2.delete_target_group:",
+			"$0"
+		],
+		"description": "boto_elbv2.delete_target_group:"
+	},
+	"boto_elbv2.targets_deregistered": {
+		"prefix": "boto_elbv2.targets_deregistered:",
+		"body": [
+			"boto_elbv2.targets_deregistered:",
+			"$0"
+		],
+		"description": "boto_elbv2.targets_deregistered:"
+	},
+	"boto_elbv2.targets_registered": {
+		"prefix": "boto_elbv2.targets_registered:",
+		"body": [
+			"boto_elbv2.targets_registered:",
+			"$0"
+		],
+		"description": "boto_elbv2.targets_registered:"
+	}
+}

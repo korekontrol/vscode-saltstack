@@ -1,0 +1,34 @@
+{
+	"zabbix_user.absent": {
+		"prefix": "zabbix_user.absent:",
+		"body": [
+			"zabbix_user.absent:",
+			"$0"
+		],
+		"description": "zabbix_user.absent:"
+	},
+	"zabbix_user.admin_password_present": {
+		"prefix": "zabbix_user.admin_password_present:",
+		"body": [
+			"zabbix_user.admin_password_present:",
+			"$0"
+		],
+		"description": "zabbix_user.admin_password_present:"
+	},
+	"zabbix_user.deepcopy": {
+		"prefix": "zabbix_user.deepcopy:",
+		"body": [
+			"zabbix_user.deepcopy:",
+			"$0"
+		],
+		"description": "zabbix_user.deepcopy:"
+	},
+	"zabbix_user.present": {
+		"prefix": "zabbix_user.present:",
+		"body": [
+			"zabbix_user.present:",
+			"$0"
+		],
+		"description": "zabbix_user.present:"
+	}
+}

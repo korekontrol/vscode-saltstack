@@ -1,0 +1,26 @@
+{
+	"ssh_auth.absent": {
+		"prefix": "ssh_auth.absent:",
+		"body": [
+			"ssh_auth.absent:",
+			"$0"
+		],
+		"description": "ssh_auth.absent:"
+	},
+	"ssh_auth.manage": {
+		"prefix": "ssh_auth.manage:",
+		"body": [
+			"ssh_auth.manage:",
+			"$0"
+		],
+		"description": "ssh_auth.manage:"
+	},
+	"ssh_auth.present": {
+		"prefix": "ssh_auth.present:",
+		"body": [
+			"ssh_auth.present:",
+			"$0"
+		],
+		"description": "ssh_auth.present:"
+	}
+}

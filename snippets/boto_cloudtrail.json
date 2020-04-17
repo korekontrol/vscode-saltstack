@@ -1,0 +1,18 @@
+{
+	"boto_cloudtrail.absent": {
+		"prefix": "boto_cloudtrail.absent:",
+		"body": [
+			"boto_cloudtrail.absent:",
+			"$0"
+		],
+		"description": "boto_cloudtrail.absent:"
+	},
+	"boto_cloudtrail.present": {
+		"prefix": "boto_cloudtrail.present:",
+		"body": [
+			"boto_cloudtrail.present:",
+			"$0"
+		],
+		"description": "boto_cloudtrail.present:"
+	}
+}

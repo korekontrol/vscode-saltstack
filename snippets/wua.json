@@ -1,0 +1,26 @@
+{
+	"wua.installed": {
+		"body": [
+			"wua.installed:",
+			"$0"
+		],
+		"prefix": "wua.installed:",
+		"description": "wua.installed:"
+	},
+	"wua.removed": {
+		"body": [
+			"wua.removed:",
+			"$0"
+		],
+		"prefix": "wua.removed:",
+		"description": "wua.removed:"
+	},
+	"wua.uptodate": {
+		"body": [
+			"wua.uptodate:",
+			"$0"
+		],
+		"prefix": "wua.uptodate:",
+		"description": "wua.uptodate:"
+	}
+}

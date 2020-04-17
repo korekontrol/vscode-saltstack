@@ -1,0 +1,42 @@
+{
+	"libcloud_dns.record_absent": {
+		"prefix": "libcloud_dns.record_absent:",
+		"body": [
+			"libcloud_dns.record_absent:",
+			"$0"
+		],
+		"description": "libcloud_dns.record_absent:"
+	},
+	"libcloud_dns.record_present": {
+		"prefix": "libcloud_dns.record_present:",
+		"body": [
+			"libcloud_dns.record_present:",
+			"$0"
+		],
+		"description": "libcloud_dns.record_present:"
+	},
+	"libcloud_dns.state_result": {
+		"prefix": "libcloud_dns.state_result:",
+		"body": [
+			"libcloud_dns.state_result:",
+			"$0"
+		],
+		"description": "libcloud_dns.state_result:"
+	},
+	"libcloud_dns.zone_absent": {
+		"prefix": "libcloud_dns.zone_absent:",
+		"body": [
+			"libcloud_dns.zone_absent:",
+			"$0"
+		],
+		"description": "libcloud_dns.zone_absent:"
+	},
+	"libcloud_dns.zone_present": {
+		"prefix": "libcloud_dns.zone_present:",
+		"body": [
+			"libcloud_dns.zone_present:",
+			"$0"
+		],
+		"description": "libcloud_dns.zone_present:"
+	}
+}

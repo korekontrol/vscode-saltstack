@@ -1,0 +1,83 @@
+{
+	"test.check_pillar": {
+		"prefix": [
+			"test.check_pillar:"
+		],
+		"body": [
+			"test.check_pillar:",
+			"\t- present:",
+			"\t\t- ${1:unique_string}",
+			"$0"
+		],
+		"description": "test.check_pillar"
+	},
+	"test.configurable_test_state": {
+		"prefix": [
+			"test.configurable_test_state:"
+		],
+		"body": [
+			"test.configurable_test_state:",
+			"\t- name: ${1:unique_string}",
+			"\t- changes: True",
+			"\t- result: True",
+			"\t- comment: ''",
+			"$0"
+		],
+		"description": "test.check_pillar"
+	},
+	"test.fail_with_changes": {
+		"prefix": "test.fail_with_changes:",
+		"body": [
+			"test.fail_with_changes:",
+			"\t- name: ${1:unique_string}",
+			"$0"
+		],
+		"description": "test.fail_with_changes"
+	},
+	"test.fail_without_changes": {
+		"prefix": "test.fail_without_changes:",
+		"body": [
+			"test.fail_without_changes:",
+			"\t- name: ${1:unique_string}",
+			"$0"
+		],
+		"description": "test.fail_without_changes"
+	},
+	"test.nop": {
+		"prefix": "test.nop:",
+		"body": [
+			"test.nop:",
+			"\t- name: ${1:unique_string}",
+			"$0"
+		],
+		"description": "test.nop"
+	},
+	"test.show_notification": {
+		"prefix": "test.show_notification:",
+		"body": [
+			"test.show_notification:",
+			"\t- name: ${1:unique_string}",
+			"\t- text: \"${2:text_returned_in_comment}\"",
+			"$0"
+		],
+		"description": "test.show_notification"
+	},
+	"test.succeed_with_changes": {
+		"prefix": "test.succeed_with_changes:",
+		"body": [
+            "test.succeed_with_changes:",
+            "\t- name: ${1:unique_string}",
+			"$0"
+		],
+		"description": "test.succeed_with_changes:"
+	},
+	"test.succeed_without_changes": {
+		"prefix": "test.succeed_without_changes:",
+		"body": [
+            "test.succeed_without_changes:",
+            "\t- name: ${1:unique_string}",
+			"$0"
+		],
+		"description": "test.succeed_without_changes:"
+	}
+}

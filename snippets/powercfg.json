@@ -1,0 +1,10 @@
+{
+	"powercfg.set_timeout": {
+		"body": [
+			"powercfg.set_timeout:",
+			"$0"
+		],
+		"prefix": "powercfg.set_timeout:",
+		"description": "powercfg.set_timeout:"
+	}
+}

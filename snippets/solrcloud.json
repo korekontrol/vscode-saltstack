@@ -1,0 +1,18 @@
+{
+	"solrcloud.alias": {
+		"prefix": "solrcloud.alias:",
+		"body": [
+			"solrcloud.alias:",
+			"$0"
+		],
+		"description": "solrcloud.alias:"
+	},
+	"solrcloud.collection": {
+		"prefix": "solrcloud.collection:",
+		"body": [
+			"solrcloud.collection:",
+			"$0"
+		],
+		"description": "solrcloud.collection:"
+	}
+}

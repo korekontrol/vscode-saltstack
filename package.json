@@ -1,6 +1,6 @@
 {
 	"name": "saltstack",
-	"version": "0.0.6",
+	"version": "0.0.7",
 	"publisher": "korekontrol",
 	"author": {
 		"name": "Marek Obuchowicz"
@@ -17,7 +17,8 @@
 		"url": "https://github.com/korekontrol/vscode-saltstack/issues"
 	},
 	"categories": [
-		"Languages"
+		"Programming Languages",
+		"Snippets"
 	],
 	"engines": {
 		"vscode": "^1.19.0"
@@ -59,6 +60,836 @@
 				"language": "sls",
 				"scopeName": "text.yaml.jinja",
 				"path": "./syntaxes/sls.json"
+			}
+		],
+		"snippets": [
+			{
+				"language": "sls",
+				"path": "./snippets/alias.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/alternatives.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/ansible.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/archive.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/artifactory.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/azurearm_compute.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/azurearm_network.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/beacon.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/bigip.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/blockdev.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto3_elasticache.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto3_elasticsearch.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto3_route53.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto3_sns.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_apigateway.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_asg.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_cfn.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_cloudfront.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_cloudtrail.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_cloudwatch_alarm.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_cloudwatch_event.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_cognitoidentity.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_datapipeline.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_dynamodb.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_ec2.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_elasticache.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_elasticsearch_domain.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_elb.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_elbv2.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_iam.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_iam_role.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_iot.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_kinesis.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_kms.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_lambda.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_lc.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_rds.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_route53.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_s3.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_s3_bucket.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_secgroup.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_sns.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_sqs.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/boto_vpc.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/buildout.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/ceph.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/certutil.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/chocolatey.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/chronos_job.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/cloud.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/cmd.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/composer.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/cron.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/cryptdev.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/csf.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/cyg.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/ddns.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/disk.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/dism.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/docker_container.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/docker_image.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/docker_network.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/docker_volume.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/dvs.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/elasticsearch.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/elasticsearch_index.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/elasticsearch_index_template.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/environ.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/esxdatacenter.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/etcd.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/ethtool.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/event.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/file.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/firewall.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/gem.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/git.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/glassfish.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/gnomedesktop.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/gpg.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/grafana4_dashboard.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/grafana4_datasource.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/grafana4_org.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/grafana4_user.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/grains.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/group.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/highstate_doc.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/host.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/http.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/incron.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/infoblox_a.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/infoblox_cname.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/infoblox_host_record.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/infoblox_range.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/ini.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/iptables.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/jboss7.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/jenkins.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/junos.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/keyboard.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/keystore.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/ldap.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/lgpo.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/libcloud_dns.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/libcloud_loadbalancer.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/libcloud_storage.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/license.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/locale.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/logrotate.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/loop.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/lxc.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/marathon_app.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/moby_container.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/moby_image.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/moby_network.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/moby_volume.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/modjk.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/modjk_worker.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/module.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/mongodb_database.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/mongodb_user.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/mount.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/mssql_database.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/mssql_login.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/mssql_role.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/mssql_user.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/msteams.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/mysql_database.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/mysql_grants.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/mysql_query.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/mysql_user.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/network.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/nexus.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/npm.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/ntp.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/openstack_config.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/opsgenie.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/pagerduty.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/pagerduty_escalation_policy.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/pagerduty_schedule.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/pagerduty_service.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/pagerduty_user.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/pbm.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/pip.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/pkg.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/pkgbuild.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/pkgng.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/powercfg.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/powerpath.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/process.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/proxy.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/pushover.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/pyenv.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/rbenv.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/rdp.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/reg.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/rsync.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/rvm.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/salt.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/salt_proxy.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/saltutil.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/schedule.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/serverdensity_device.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/service.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/slack.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/smtp.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/solrcloud.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/sqlite3.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/ssh_auth.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/ssh_known_hosts.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/stateconf.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/status.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/statuspage.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/supervisord.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/syslog_ng.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/system.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/telemetry_alert.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/test.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/timezone.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/tls.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/tomcat.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/tuned.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/uptime.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/user.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/vagrant.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/vault.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/vbox_guest.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/virtualenv.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/win_dacl.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/win_dns_client.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/win_firewall.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/win_path.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/win_pki.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/win_smtp_server.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/winrepo.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/wua.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/wusa.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/xml.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/zabbix_action.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/zabbix_host.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/zabbix_hostgroup.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/zabbix_mediatype.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/zabbix_template.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/zabbix_user.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/zabbix_usergroup.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/zabbix_usermacro.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/zabbix_valuemap.json"
+			},
+			{
+				"language": "sls",
+				"path": "./snippets/zenoss.json"
 			}
 		]
 	}

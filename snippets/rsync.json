@@ -1,0 +1,10 @@
+{
+	"rsync.synchronized": {
+		"prefix": "rsync.synchronized:",
+		"body": [
+			"rsync.synchronized:",
+			"$0"
+		],
+		"description": "rsync.synchronized:"
+	}
+}

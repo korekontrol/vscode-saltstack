@@ -1,0 +1,18 @@
+{
+	"ddns.absent": {
+		"prefix": "ddns.absent:",
+		"body": [
+			"ddns.absent:",
+			"$0"
+		],
+		"description": "ddns.absent:"
+	},
+	"ddns.present": {
+		"prefix": "ddns.present:",
+		"body": [
+			"ddns.present:",
+			"$0"
+		],
+		"description": "ddns.present:"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"event.fire_master": {
+		"prefix": "event.fire_master:",
+		"body": [
+			"event.fire_master:",
+			"$0"
+		],
+		"description": "event.fire_master:"
+	},
+	"event.send": {
+		"prefix": "event.send:",
+		"body": [
+			"event.send:",
+			"$0"
+		],
+		"description": "event.send:"
+	},
+	"event.wait": {
+		"prefix": "event.wait:",
+		"body": [
+			"event.wait:",
+			"$0"
+		],
+		"description": "event.wait:"
+	}
+}

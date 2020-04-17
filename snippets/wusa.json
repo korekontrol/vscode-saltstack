@@ -1,0 +1,18 @@
+{
+	"wusa.installed": {
+		"body": [
+			"wusa.installed:",
+			"$0"
+		],
+		"prefix": "wusa.installed:",
+		"description": "wusa.installed:"
+	},
+	"wusa.uninstalled": {
+		"body": [
+			"wusa.uninstalled:",
+			"$0"
+		],
+		"prefix": "wusa.uninstalled:",
+		"description": "wusa.uninstalled:"
+	}
+}

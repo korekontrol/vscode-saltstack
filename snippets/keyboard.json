@@ -1,0 +1,18 @@
+{
+	"keyboard.system": {
+		"prefix": "keyboard.system:",
+		"body": [
+			"keyboard.system:",
+			"$0"
+		],
+		"description": "keyboard.system:"
+	},
+	"keyboard.xorg": {
+		"prefix": "keyboard.xorg:",
+		"body": [
+			"keyboard.xorg:",
+			"$0"
+		],
+		"description": "keyboard.xorg:"
+	}
+}

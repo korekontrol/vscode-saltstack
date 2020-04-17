@@ -1,0 +1,42 @@
+{
+	"libcloud_loadbalancer.balancer_absent": {
+		"prefix": "libcloud_loadbalancer.balancer_absent:",
+		"body": [
+			"libcloud_loadbalancer.balancer_absent:",
+			"$0"
+		],
+		"description": "libcloud_loadbalancer.balancer_absent:"
+	},
+	"libcloud_loadbalancer.balancer_present": {
+		"prefix": "libcloud_loadbalancer.balancer_present:",
+		"body": [
+			"libcloud_loadbalancer.balancer_present:",
+			"$0"
+		],
+		"description": "libcloud_loadbalancer.balancer_present:"
+	},
+	"libcloud_loadbalancer.member_absent": {
+		"prefix": "libcloud_loadbalancer.member_absent:",
+		"body": [
+			"libcloud_loadbalancer.member_absent:",
+			"$0"
+		],
+		"description": "libcloud_loadbalancer.member_absent:"
+	},
+	"libcloud_loadbalancer.member_present": {
+		"prefix": "libcloud_loadbalancer.member_present:",
+		"body": [
+			"libcloud_loadbalancer.member_present:",
+			"$0"
+		],
+		"description": "libcloud_loadbalancer.member_present:"
+	},
+	"libcloud_loadbalancer.state_result": {
+		"prefix": "libcloud_loadbalancer.state_result:",
+		"body": [
+			"libcloud_loadbalancer.state_result:",
+			"$0"
+		],
+		"description": "libcloud_loadbalancer.state_result:"
+	}
+}

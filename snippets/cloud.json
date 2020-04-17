@@ -1,0 +1,58 @@
+{
+	"cloud.absent": {
+		"prefix": "cloud.absent:",
+		"body": [
+			"cloud.absent:",
+			"$0"
+		],
+		"description": "cloud.absent:"
+	},
+	"cloud.present": {
+		"prefix": "cloud.present:",
+		"body": [
+			"cloud.present:",
+			"$0"
+		],
+		"description": "cloud.present:"
+	},
+	"cloud.profile": {
+		"prefix": "cloud.profile:",
+		"body": [
+			"cloud.profile:",
+			"$0"
+		],
+		"description": "cloud.profile:"
+	},
+	"cloud.volume_absent": {
+		"prefix": "cloud.volume_absent:",
+		"body": [
+			"cloud.volume_absent:",
+			"$0"
+		],
+		"description": "cloud.volume_absent:"
+	},
+	"cloud.volume_attached": {
+		"prefix": "cloud.volume_attached:",
+		"body": [
+			"cloud.volume_attached:",
+			"$0"
+		],
+		"description": "cloud.volume_attached:"
+	},
+	"cloud.volume_detached": {
+		"prefix": "cloud.volume_detached:",
+		"body": [
+			"cloud.volume_detached:",
+			"$0"
+		],
+		"description": "cloud.volume_detached:"
+	},
+	"cloud.volume_present": {
+		"prefix": "cloud.volume_present:",
+		"body": [
+			"cloud.volume_present:",
+			"$0"
+		],
+		"description": "cloud.volume_present:"
+	}
+}

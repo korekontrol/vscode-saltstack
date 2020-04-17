@@ -1,0 +1,10 @@
+{
+	"archive.extracted": {
+		"prefix": "archive.extracted:",
+		"body": [
+			"archive.extracted:",
+			"$0"
+		],
+		"description": "archive.extracted:"
+	}
+}

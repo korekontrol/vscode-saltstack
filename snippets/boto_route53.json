@@ -1,0 +1,50 @@
+{
+	"boto_route53.absent": {
+		"prefix": "boto_route53.absent:",
+		"body": [
+			"boto_route53.absent:",
+			"$0"
+		],
+		"description": "boto_route53.absent:"
+	},
+	"boto_route53.hosted_zone_absent": {
+		"prefix": "boto_route53.hosted_zone_absent:",
+		"body": [
+			"boto_route53.hosted_zone_absent:",
+			"$0"
+		],
+		"description": "boto_route53.hosted_zone_absent:"
+	},
+	"boto_route53.hosted_zone_present": {
+		"prefix": "boto_route53.hosted_zone_present:",
+		"body": [
+			"boto_route53.hosted_zone_present:",
+			"$0"
+		],
+		"description": "boto_route53.hosted_zone_present:"
+	},
+	"boto_route53.present": {
+		"prefix": "boto_route53.present:",
+		"body": [
+			"boto_route53.present:",
+			"$0"
+		],
+		"description": "boto_route53.present:"
+	},
+	"boto_route53.rr_absent": {
+		"prefix": "boto_route53.rr_absent:",
+		"body": [
+			"boto_route53.rr_absent:",
+			"$0"
+		],
+		"description": "boto_route53.rr_absent:"
+	},
+	"boto_route53.rr_present": {
+		"prefix": "boto_route53.rr_present:",
+		"body": [
+			"boto_route53.rr_present:",
+			"$0"
+		],
+		"description": "boto_route53.rr_present:"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"pagerduty.create_event": {
+		"prefix": "pagerduty.create_event:",
+		"body": [
+			"pagerduty.create_event:",
+			"$0"
+		],
+		"description": "pagerduty.create_event:"
+	}
+}

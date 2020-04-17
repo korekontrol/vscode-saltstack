@@ -1,0 +1,10 @@
+{
+	"msteams.post_card": {
+		"prefix": "msteams.post_card:",
+		"body": [
+			"msteams.post_card:",
+			"$0"
+		],
+		"description": "msteams.post_card:"
+	}
+}

@@ -1,0 +1,31 @@
+{
+	"host.absent": {
+		"prefix": "host.absent:",
+		"body": [
+			"host.absent:",
+			"\t- name: ${1:host to remove}",
+			"$0"
+		],
+		"description": "host.absent:"
+	},
+	"host.only": {
+		"prefix": "host.only:",
+		"body": [
+			"host.only:",
+			"\t- hostnames: ${1:hostnames}",
+			"$0"
+		],
+		"description": "host.only:"
+	},
+	"host.present": {
+		"prefix": "host.present:",
+		"body": [
+			"host.present:",
+			"\t- name: ${1:host}",
+			"\t- ip: ${1:ip to apply}",
+			"\t- clean: False",
+			"$0"
+		],
+		"description": "host.present:"
+	}
+}

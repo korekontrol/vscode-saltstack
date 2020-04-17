@@ -1,0 +1,58 @@
+{
+	"git.cloned": {
+		"prefix": "git.cloned:",
+		"body": [
+			"git.cloned:",
+			"$0"
+		],
+		"description": "git.cloned:"
+	},
+	"git.config_set": {
+		"prefix": "git.config_set:",
+		"body": [
+			"git.config_set:",
+			"$0"
+		],
+		"description": "git.config_set:"
+	},
+	"git.config_unset": {
+		"prefix": "git.config_unset:",
+		"body": [
+			"git.config_unset:",
+			"$0"
+		],
+		"description": "git.config_unset:"
+	},
+	"git.detached": {
+		"prefix": "git.detached:",
+		"body": [
+			"git.detached:",
+			"$0"
+		],
+		"description": "git.detached:"
+	},
+	"git.latest": {
+		"prefix": "git.latest:",
+		"body": [
+			"git.latest:",
+			"$0"
+		],
+		"description": "git.latest:"
+	},
+	"git.mod_run_check": {
+		"prefix": "git.mod_run_check:",
+		"body": [
+			"git.mod_run_check:",
+			"$0"
+		],
+		"description": "git.mod_run_check:"
+	},
+	"git.present": {
+		"prefix": "git.present:",
+		"body": [
+			"git.present:",
+			"$0"
+		],
+		"description": "git.present:"
+	}
+}

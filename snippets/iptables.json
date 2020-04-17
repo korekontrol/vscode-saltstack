@@ -1,0 +1,66 @@
+{
+	"iptables.append": {
+		"prefix": "iptables.append:",
+		"body": [
+			"iptables.append:",
+			"$0"
+		],
+		"description": "iptables.append:"
+	},
+	"iptables.chain_absent": {
+		"prefix": "iptables.chain_absent:",
+		"body": [
+			"iptables.chain_absent:",
+			"$0"
+		],
+		"description": "iptables.chain_absent:"
+	},
+	"iptables.chain_present": {
+		"prefix": "iptables.chain_present:",
+		"body": [
+			"iptables.chain_present:",
+			"$0"
+		],
+		"description": "iptables.chain_present:"
+	},
+	"iptables.delete": {
+		"prefix": "iptables.delete:",
+		"body": [
+			"iptables.delete:",
+			"$0"
+		],
+		"description": "iptables.delete:"
+	},
+	"iptables.flush": {
+		"prefix": "iptables.flush:",
+		"body": [
+			"iptables.flush:",
+			"$0"
+		],
+		"description": "iptables.flush:"
+	},
+	"iptables.insert": {
+		"prefix": "iptables.insert:",
+		"body": [
+			"iptables.insert:",
+			"$0"
+		],
+		"description": "iptables.insert:"
+	},
+	"iptables.mod_aggregate": {
+		"prefix": "iptables.mod_aggregate:",
+		"body": [
+			"iptables.mod_aggregate:",
+			"$0"
+		],
+		"description": "iptables.mod_aggregate:"
+	},
+	"iptables.set_policy": {
+		"prefix": "iptables.set_policy:",
+		"body": [
+			"iptables.set_policy:",
+			"$0"
+		],
+		"description": "iptables.set_policy:"
+	}
+}
