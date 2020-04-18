@@ -1,3 +1,9 @@
+## 0.0.8 - 18th April, 2020
+
+* [Christian McHugh (@mchugh19)](https://github.com/mchugh19)
+    * Snippets: bugfixes and support for additional salt modules #8
+
+
 ## 0.0.7 - 17th April, 2020
 
 * [Christian McHugh (@mchugh19)](https://github.com/mchugh19)
