@@ -34,13 +34,5 @@
 		],
 		"prefix": "docker_container.absent:",
 		"description": "docker_container.absent:"
-	},
-	"docker_container.mod_run_check": {
-		"body": [
-			"docker_container.mod_run_check:",
-			"$0"
-		],
-		"prefix": "docker_container.mod_run_check:",
-		"description": "docker_container.mod_run_check:"
 	}
 }
