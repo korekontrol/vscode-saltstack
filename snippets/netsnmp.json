@@ -1,0 +1,10 @@
+{
+	"netsnmp.managed": {
+		"description": "netsnmp.managed:",
+		"body": [
+			"netsnmp.managed:",
+			"$0"
+		],
+		"prefix": "netsnmp.managed:"
+	}
+}

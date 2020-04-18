@@ -1,0 +1,74 @@
+{
+	"esxi.syslog_configured": {
+		"body": [
+			"esxi.syslog_configured:",
+			"$0"
+		],
+		"prefix": "esxi.syslog_configured:",
+		"description": "esxi.syslog_configured:"
+	},
+	"esxi.ssh_configured": {
+		"body": [
+			"esxi.ssh_configured:",
+			"$0"
+		],
+		"prefix": "esxi.ssh_configured:",
+		"description": "esxi.ssh_configured:"
+	},
+	"esxi.vsan_configured": {
+		"body": [
+			"esxi.vsan_configured:",
+			"$0"
+		],
+		"prefix": "esxi.vsan_configured:",
+		"description": "esxi.vsan_configured:"
+	},
+	"esxi.coredump_configured": {
+		"body": [
+			"esxi.coredump_configured:",
+			"$0"
+		],
+		"prefix": "esxi.coredump_configured:",
+		"description": "esxi.coredump_configured:"
+	},
+	"esxi.ntp_configured": {
+		"body": [
+			"esxi.ntp_configured:",
+			"$0"
+		],
+		"prefix": "esxi.ntp_configured:",
+		"description": "esxi.ntp_configured:"
+	},
+	"esxi.vmotion_configured": {
+		"body": [
+			"esxi.vmotion_configured:",
+			"$0"
+		],
+		"prefix": "esxi.vmotion_configured:",
+		"description": "esxi.vmotion_configured:"
+	},
+	"esxi.password_present": {
+		"body": [
+			"esxi.password_present:",
+			"$0"
+		],
+		"prefix": "esxi.password_present:",
+		"description": "esxi.password_present:"
+	},
+	"esxi.diskgroups_configured": {
+		"body": [
+			"esxi.diskgroups_configured:",
+			"$0"
+		],
+		"prefix": "esxi.diskgroups_configured:",
+		"description": "esxi.diskgroups_configured:"
+	},
+	"esxi.host_cache_configured": {
+		"body": [
+			"esxi.host_cache_configured:",
+			"$0"
+		],
+		"prefix": "esxi.host_cache_configured:",
+		"description": "esxi.host_cache_configured:"
+	}
+}

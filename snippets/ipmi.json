@@ -1,0 +1,34 @@
+{
+	"ipmi.boot_device": {
+		"body": [
+			"ipmi.boot_device:",
+			"$0"
+		],
+		"prefix": "ipmi.boot_device:",
+		"description": "ipmi.boot_device:"
+	},
+	"ipmi.user_absent": {
+		"body": [
+			"ipmi.user_absent:",
+			"$0"
+		],
+		"prefix": "ipmi.user_absent:",
+		"description": "ipmi.user_absent:"
+	},
+	"ipmi.power": {
+		"body": [
+			"ipmi.power:",
+			"$0"
+		],
+		"prefix": "ipmi.power:",
+		"description": "ipmi.power:"
+	},
+	"ipmi.user_present": {
+		"body": [
+			"ipmi.user_present:",
+			"$0"
+		],
+		"prefix": "ipmi.user_present:",
+		"description": "ipmi.user_present:"
+	}
+}

@@ -1,0 +1,122 @@
+{
+	"panos.download_software": {
+		"description": "panos.download_software:",
+		"body": [
+			"panos.download_software:",
+			"$0"
+		],
+		"prefix": "panos.download_software:"
+	},
+	"panos.move_config": {
+		"description": "panos.move_config:",
+		"body": [
+			"panos.move_config:",
+			"$0"
+		],
+		"prefix": "panos.move_config:"
+	},
+	"panos.commit_config": {
+		"description": "panos.commit_config:",
+		"body": [
+			"panos.commit_config:",
+			"$0"
+		],
+		"prefix": "panos.commit_config:"
+	},
+	"panos.rename_config": {
+		"description": "panos.rename_config:",
+		"body": [
+			"panos.rename_config:",
+			"$0"
+		],
+		"prefix": "panos.rename_config:"
+	},
+	"panos.delete_config": {
+		"description": "panos.delete_config:",
+		"body": [
+			"panos.delete_config:",
+			"$0"
+		],
+		"prefix": "panos.delete_config:"
+	},
+	"panos.service_exists": {
+		"description": "panos.service_exists:",
+		"body": [
+			"panos.service_exists:",
+			"$0"
+		],
+		"prefix": "panos.service_exists:"
+	},
+	"panos.address_group_exists": {
+		"description": "panos.address_group_exists:",
+		"body": [
+			"panos.address_group_exists:",
+			"$0"
+		],
+		"prefix": "panos.address_group_exists:"
+	},
+	"panos.clone_config": {
+		"description": "panos.clone_config:",
+		"body": [
+			"panos.clone_config:",
+			"$0"
+		],
+		"prefix": "panos.clone_config:"
+	},
+	"panos.add_config_lock": {
+		"description": "panos.add_config_lock:",
+		"body": [
+			"panos.add_config_lock:",
+			"$0"
+		],
+		"prefix": "panos.add_config_lock:"
+	},
+	"panos.set_config": {
+		"description": "panos.set_config:",
+		"body": [
+			"panos.set_config:",
+			"$0"
+		],
+		"prefix": "panos.set_config:"
+	},
+	"panos.service_group_exists": {
+		"description": "panos.service_group_exists:",
+		"body": [
+			"panos.service_group_exists:",
+			"$0"
+		],
+		"prefix": "panos.service_group_exists:"
+	},
+	"panos.edit_config": {
+		"description": "panos.edit_config:",
+		"body": [
+			"panos.edit_config:",
+			"$0"
+		],
+		"prefix": "panos.edit_config:"
+	},
+	"panos.security_rule_exists": {
+		"description": "panos.security_rule_exists:",
+		"body": [
+			"panos.security_rule_exists:",
+			"$0"
+		],
+		"prefix": "panos.security_rule_exists:"
+	},
+	"panos.address_exists": {
+		"description": "panos.address_exists:",
+		"body": [
+			"panos.address_exists:",
+			"$0"
+		],
+		"prefix": "panos.address_exists:"
+	},
+	"panos.remove_config_lock": {
+		"description": "panos.remove_config_lock:",
+		"body": [
+			"panos.remove_config_lock:",
+			"$0"
+		],
+		"prefix": "panos.remove_config_lock:"
+	}
+}

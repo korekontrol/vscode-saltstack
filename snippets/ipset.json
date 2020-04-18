@@ -1,0 +1,42 @@
+{
+	"ipset.set_absent": {
+		"body": [
+			"ipset.set_absent:",
+			"$0"
+		],
+		"prefix": "ipset.set_absent:",
+		"description": "ipset.set_absent:"
+	},
+	"ipset.flush": {
+		"body": [
+			"ipset.flush:",
+			"$0"
+		],
+		"prefix": "ipset.flush:",
+		"description": "ipset.flush:"
+	},
+	"ipset.absent": {
+		"body": [
+			"ipset.absent:",
+			"$0"
+		],
+		"prefix": "ipset.absent:",
+		"description": "ipset.absent:"
+	},
+	"ipset.set_present": {
+		"body": [
+			"ipset.set_present:",
+			"$0"
+		],
+		"prefix": "ipset.set_present:",
+		"description": "ipset.set_present:"
+	},
+	"ipset.present": {
+		"body": [
+			"ipset.present:",
+			"$0"
+		],
+		"prefix": "ipset.present:",
+		"description": "ipset.present:"
+	}
+}

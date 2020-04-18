@@ -1,0 +1,10 @@
+{
+	"postgres_initdb.present": {
+		"description": "postgres_initdb.present:",
+		"body": [
+			"postgres_initdb.present:",
+			"$0"
+		],
+		"prefix": "postgres_initdb.present:"
+	}
+}

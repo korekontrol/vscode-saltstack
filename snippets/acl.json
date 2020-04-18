@@ -1,0 +1,34 @@
+{
+	"acl.absent": {
+		"body": [
+			"acl.absent:",
+			"$0"
+		],
+		"prefix": "acl.absent:",
+		"description": "acl.absent:"
+	},
+	"acl.present": {
+		"body": [
+			"acl.present:",
+			"$0"
+		],
+		"prefix": "acl.present:",
+		"description": "acl.present:"
+	},
+	"acl.list_present": {
+		"body": [
+			"acl.list_present:",
+			"$0"
+		],
+		"prefix": "acl.list_present:",
+		"description": "acl.list_present:"
+	},
+	"acl.list_absent": {
+		"body": [
+			"acl.list_absent:",
+			"$0"
+		],
+		"prefix": "acl.list_absent:",
+		"description": "acl.list_absent:"
+	}
+}

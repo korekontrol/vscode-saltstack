@@ -1,0 +1,82 @@
+{
+	"selinux.port_policy_absent": {
+		"description": "selinux.port_policy_absent:",
+		"body": [
+			"selinux.port_policy_absent:",
+			"$0"
+		],
+		"prefix": "selinux.port_policy_absent:"
+	},
+	"selinux.module": {
+		"description": "selinux.module:",
+		"body": [
+			"selinux.module:",
+			"$0"
+		],
+		"prefix": "selinux.module:"
+	},
+	"selinux.fcontext_policy_absent": {
+		"description": "selinux.fcontext_policy_absent:",
+		"body": [
+			"selinux.fcontext_policy_absent:",
+			"$0"
+		],
+		"prefix": "selinux.fcontext_policy_absent:"
+	},
+	"selinux.fcontext_policy_present": {
+		"description": "selinux.fcontext_policy_present:",
+		"body": [
+			"selinux.fcontext_policy_present:",
+			"$0"
+		],
+		"prefix": "selinux.fcontext_policy_present:"
+	},
+	"selinux.mode": {
+		"description": "selinux.mode:",
+		"body": [
+			"selinux.mode:",
+			"$0"
+		],
+		"prefix": "selinux.mode:"
+	},
+	"selinux.module_install": {
+		"description": "selinux.module_install:",
+		"body": [
+			"selinux.module_install:",
+			"$0"
+		],
+		"prefix": "selinux.module_install:"
+	},
+	"selinux.port_policy_present": {
+		"description": "selinux.port_policy_present:",
+		"body": [
+			"selinux.port_policy_present:",
+			"$0"
+		],
+		"prefix": "selinux.port_policy_present:"
+	},
+	"selinux.module_remove": {
+		"description": "selinux.module_remove:",
+		"body": [
+			"selinux.module_remove:",
+			"$0"
+		],
+		"prefix": "selinux.module_remove:"
+	},
+	"selinux.fcontext_policy_applied": {
+		"description": "selinux.fcontext_policy_applied:",
+		"body": [
+			"selinux.fcontext_policy_applied:",
+			"$0"
+		],
+		"prefix": "selinux.fcontext_policy_applied:"
+	},
+	"selinux.boolean": {
+		"description": "selinux.boolean:",
+		"body": [
+			"selinux.boolean:",
+			"$0"
+		],
+		"prefix": "selinux.boolean:"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"rabbitmq_vhost.present": {
+		"description": "rabbitmq_vhost.present:",
+		"body": [
+			"rabbitmq_vhost.present:",
+			"$0"
+		],
+		"prefix": "rabbitmq_vhost.present:"
+	},
+	"rabbitmq_vhost.absent": {
+		"description": "rabbitmq_vhost.absent:",
+		"body": [
+			"rabbitmq_vhost.absent:",
+			"$0"
+		],
+		"prefix": "rabbitmq_vhost.absent:"
+	}
+}

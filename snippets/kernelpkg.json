@@ -1,0 +1,26 @@
+{
+	"kernelpkg.latest_active": {
+		"body": [
+			"kernelpkg.latest_active:",
+			"$0"
+		],
+		"prefix": "kernelpkg.latest_active:",
+		"description": "kernelpkg.latest_active:"
+	},
+	"kernelpkg.latest_installed": {
+		"body": [
+			"kernelpkg.latest_installed:",
+			"$0"
+		],
+		"prefix": "kernelpkg.latest_installed:",
+		"description": "kernelpkg.latest_installed:"
+	},
+	"kernelpkg.latest_wait": {
+		"body": [
+			"kernelpkg.latest_wait:",
+			"$0"
+		],
+		"prefix": "kernelpkg.latest_wait:",
+		"description": "kernelpkg.latest_wait:"
+	}
+}

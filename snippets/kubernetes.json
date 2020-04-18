@@ -1,0 +1,122 @@
+{
+	"kubernetes.deployment_present": {
+		"description": "kubernetes.deployment_present:",
+		"body": [
+			"kubernetes.deployment_present:",
+			"$0"
+		],
+		"prefix": "kubernetes.deployment_present:"
+	},
+	"kubernetes.configmap_present": {
+		"description": "kubernetes.configmap_present:",
+		"body": [
+			"kubernetes.configmap_present:",
+			"$0"
+		],
+		"prefix": "kubernetes.configmap_present:"
+	},
+	"kubernetes.service_present": {
+		"description": "kubernetes.service_present:",
+		"body": [
+			"kubernetes.service_present:",
+			"$0"
+		],
+		"prefix": "kubernetes.service_present:"
+	},
+	"kubernetes.node_label_folder_absent": {
+		"description": "kubernetes.node_label_folder_absent:",
+		"body": [
+			"kubernetes.node_label_folder_absent:",
+			"$0"
+		],
+		"prefix": "kubernetes.node_label_folder_absent:"
+	},
+	"kubernetes.secret_absent": {
+		"description": "kubernetes.secret_absent:",
+		"body": [
+			"kubernetes.secret_absent:",
+			"$0"
+		],
+		"prefix": "kubernetes.secret_absent:"
+	},
+	"kubernetes.node_label_absent": {
+		"description": "kubernetes.node_label_absent:",
+		"body": [
+			"kubernetes.node_label_absent:",
+			"$0"
+		],
+		"prefix": "kubernetes.node_label_absent:"
+	},
+	"kubernetes.node_label_present": {
+		"description": "kubernetes.node_label_present:",
+		"body": [
+			"kubernetes.node_label_present:",
+			"$0"
+		],
+		"prefix": "kubernetes.node_label_present:"
+	},
+	"kubernetes.pod_absent": {
+		"description": "kubernetes.pod_absent:",
+		"body": [
+			"kubernetes.pod_absent:",
+			"$0"
+		],
+		"prefix": "kubernetes.pod_absent:"
+	},
+	"kubernetes.service_absent": {
+		"description": "kubernetes.service_absent:",
+		"body": [
+			"kubernetes.service_absent:",
+			"$0"
+		],
+		"prefix": "kubernetes.service_absent:"
+	},
+	"kubernetes.namespace_absent": {
+		"description": "kubernetes.namespace_absent:",
+		"body": [
+			"kubernetes.namespace_absent:",
+			"$0"
+		],
+		"prefix": "kubernetes.namespace_absent:"
+	},
+	"kubernetes.configmap_absent": {
+		"description": "kubernetes.configmap_absent:",
+		"body": [
+			"kubernetes.configmap_absent:",
+			"$0"
+		],
+		"prefix": "kubernetes.configmap_absent:"
+	},
+	"kubernetes.namespace_present": {
+		"description": "kubernetes.namespace_present:",
+		"body": [
+			"kubernetes.namespace_present:",
+			"$0"
+		],
+		"prefix": "kubernetes.namespace_present:"
+	},
+	"kubernetes.pod_present": {
+		"description": "kubernetes.pod_present:",
+		"body": [
+			"kubernetes.pod_present:",
+			"$0"
+		],
+		"prefix": "kubernetes.pod_present:"
+	},
+	"kubernetes.deployment_absent": {
+		"description": "kubernetes.deployment_absent:",
+		"body": [
+			"kubernetes.deployment_absent:",
+			"$0"
+		],
+		"prefix": "kubernetes.deployment_absent:"
+	},
+	"kubernetes.secret_present": {
+		"description": "kubernetes.secret_present:",
+		"body": [
+			"kubernetes.secret_present:",
+			"$0"
+		],
+		"prefix": "kubernetes.secret_present:"
+	}
+}

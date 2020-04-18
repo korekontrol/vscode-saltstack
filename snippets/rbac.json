@@ -1,0 +1,10 @@
+{
+	"rbac.managed": {
+		"description": "rbac.managed:",
+		"body": [
+			"rbac.managed:",
+			"$0"
+		],
+		"prefix": "rbac.managed:"
+	}
+}

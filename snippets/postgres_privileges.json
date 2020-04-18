@@ -1,0 +1,18 @@
+{
+	"postgres_privileges.absent": {
+		"description": "postgres_privileges.absent:",
+		"body": [
+			"postgres_privileges.absent:",
+			"$0"
+		],
+		"prefix": "postgres_privileges.absent:"
+	},
+	"postgres_privileges.present": {
+		"description": "postgres_privileges.present:",
+		"body": [
+			"postgres_privileges.present:",
+			"$0"
+		],
+		"prefix": "postgres_privileges.present:"
+	}
+}

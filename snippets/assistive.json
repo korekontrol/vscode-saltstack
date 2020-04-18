@@ -1,0 +1,10 @@
+{
+	"assistive.installed": {
+		"body": [
+			"assistive.installed:",
+			"$0"
+		],
+		"prefix": "assistive.installed:",
+		"description": "assistive.installed:"
+	}
+}

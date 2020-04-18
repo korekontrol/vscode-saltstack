@@ -1,38 +1,38 @@
 {
-	"docker_container.absent": {
-		"prefix": "docker_container.absent:",
+	"docker_container.running": {
 		"body": [
-			"docker_container.absent:",
+			"docker_container.running:",
+			"\t- image: ${1:imagename}",
 			"$0"
 		],
-		"description": "docker_container.absent:"
+		"prefix": "docker_container.running:",
+		"description": "docker_container.running:"
+	},
+	"docker_container.stopped": {
+		"body": [
+			"docker_container.stopped:",
+			"\t- name: ${1:name or id}",
+			"$0"
+		],
+		"prefix": "docker_container.stopped:",
+		"description": "docker_container.stopped:"
 	},
 	"docker_container.run": {
-		"prefix": "docker_container.run:",
 		"body": [
 			"docker_container.run:",
 			"\t- image: ${1:imagename}",
 			"\t- command: ${2:command name}",
 			"$0"
 		],
+		"prefix": "docker_container.run:",
 		"description": "docker_container.run:"
 	},
-	"docker_container.running": {
-		"prefix": "docker_container.running:",
+	"docker_container.absent": {
 		"body": [
-			"docker_container.running:",
-			"\t- image: ${1:imagename}",
+			"docker_container.absent:",
 			"$0"
 		],
-		"description": "docker_container.running:"
-	},
-	"docker_container.stopped": {
-		"prefix": "docker_container.stopped:",
-		"body": [
-			"docker_container.stopped:",
-			"\t- name: ${1:name or id}",
-			"$0"
-		],
-		"description": "docker_container.stopped:"
+		"prefix": "docker_container.absent:",
+		"description": "docker_container.absent:"
 	}
 }

@@ -1,0 +1,10 @@
+{
+	"augeas.change": {
+		"body": [
+			"augeas.change:",
+			"$0"
+		],
+		"prefix": "augeas.change:",
+		"description": "augeas.change:"
+	}
+}

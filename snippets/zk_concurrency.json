@@ -1,0 +1,26 @@
+{
+	"zk_concurrency.unlock": {
+		"description": "zk_concurrency.unlock:",
+		"body": [
+			"zk_concurrency.unlock:",
+			"$0"
+		],
+		"prefix": "zk_concurrency.unlock:"
+	},
+	"zk_concurrency.lock": {
+		"description": "zk_concurrency.lock:",
+		"body": [
+			"zk_concurrency.lock:",
+			"$0"
+		],
+		"prefix": "zk_concurrency.lock:"
+	},
+	"zk_concurrency.min_party": {
+		"description": "zk_concurrency.min_party:",
+		"body": [
+			"zk_concurrency.min_party:",
+			"$0"
+		],
+		"prefix": "zk_concurrency.min_party:"
+	}
+}

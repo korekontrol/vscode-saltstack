@@ -1,0 +1,18 @@
+{
+	"keystone_endpoint.absent": {
+		"body": [
+			"keystone_endpoint.absent:",
+			"$0"
+		],
+		"prefix": "keystone_endpoint.absent:",
+		"description": "keystone_endpoint.absent:"
+	},
+	"keystone_endpoint.present": {
+		"body": [
+			"keystone_endpoint.present:",
+			"$0"
+		],
+		"prefix": "keystone_endpoint.present:",
+		"description": "keystone_endpoint.present:"
+	}
+}

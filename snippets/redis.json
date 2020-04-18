@@ -1,0 +1,26 @@
+{
+	"redis.absent": {
+		"description": "redis.absent:",
+		"body": [
+			"redis.absent:",
+			"$0"
+		],
+		"prefix": "redis.absent:"
+	},
+	"redis.slaveof": {
+		"description": "redis.slaveof:",
+		"body": [
+			"redis.slaveof:",
+			"$0"
+		],
+		"prefix": "redis.slaveof:"
+	},
+	"redis.string": {
+		"description": "redis.string:",
+		"body": [
+			"redis.string:",
+			"$0"
+		],
+		"prefix": "redis.string:"
+	}
+}

@@ -1,0 +1,34 @@
+{
+	"bower.pruned": {
+		"body": [
+			"bower.pruned:",
+			"$0"
+		],
+		"prefix": "bower.pruned:",
+		"description": "bower.pruned:"
+	},
+	"bower.installed": {
+		"body": [
+			"bower.installed:",
+			"$0"
+		],
+		"prefix": "bower.installed:",
+		"description": "bower.installed:"
+	},
+	"bower.removed": {
+		"body": [
+			"bower.removed:",
+			"$0"
+		],
+		"prefix": "bower.removed:",
+		"description": "bower.removed:"
+	},
+	"bower.bootstrap": {
+		"body": [
+			"bower.bootstrap:",
+			"$0"
+		],
+		"prefix": "bower.bootstrap:",
+		"description": "bower.bootstrap:"
+	}
+}

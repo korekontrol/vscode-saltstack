@@ -1,0 +1,42 @@
+{
+	"esxvm.vm_cloned": {
+		"body": [
+			"esxvm.vm_cloned:",
+			"$0"
+		],
+		"prefix": "esxvm.vm_cloned:",
+		"description": "esxvm.vm_cloned:"
+	},
+	"esxvm.vm_registered": {
+		"body": [
+			"esxvm.vm_registered:",
+			"$0"
+		],
+		"prefix": "esxvm.vm_registered:",
+		"description": "esxvm.vm_registered:"
+	},
+	"esxvm.vm_configured": {
+		"body": [
+			"esxvm.vm_configured:",
+			"$0"
+		],
+		"prefix": "esxvm.vm_configured:",
+		"description": "esxvm.vm_configured:"
+	},
+	"esxvm.vm_updated": {
+		"body": [
+			"esxvm.vm_updated:",
+			"$0"
+		],
+		"prefix": "esxvm.vm_updated:",
+		"description": "esxvm.vm_updated:"
+	},
+	"esxvm.vm_created": {
+		"body": [
+			"esxvm.vm_created:",
+			"$0"
+		],
+		"prefix": "esxvm.vm_created:",
+		"description": "esxvm.vm_created:"
+	}
+}

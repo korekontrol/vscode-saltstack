@@ -1,0 +1,10 @@
+{
+	"ports.installed": {
+		"description": "ports.installed:",
+		"body": [
+			"ports.installed:",
+			"$0"
+		],
+		"prefix": "ports.installed:"
+	}
+}

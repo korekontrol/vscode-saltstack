@@ -1,0 +1,26 @@
+{
+	"pdbedit.managed": {
+		"description": "pdbedit.managed:",
+		"body": [
+			"pdbedit.managed:",
+			"$0"
+		],
+		"prefix": "pdbedit.managed:"
+	},
+	"pdbedit.absent": {
+		"description": "pdbedit.absent:",
+		"body": [
+			"pdbedit.absent:",
+			"$0"
+		],
+		"prefix": "pdbedit.absent:"
+	},
+	"pdbedit.present": {
+		"description": "pdbedit.present:",
+		"body": [
+			"pdbedit.present:",
+			"$0"
+		],
+		"prefix": "pdbedit.present:"
+	}
+}

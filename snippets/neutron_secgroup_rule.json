@@ -1,0 +1,18 @@
+{
+	"neutron_secgroup_rule.absent": {
+		"description": "neutron_secgroup_rule.absent:",
+		"body": [
+			"neutron_secgroup_rule.absent:",
+			"$0"
+		],
+		"prefix": "neutron_secgroup_rule.absent:"
+	},
+	"neutron_secgroup_rule.present": {
+		"description": "neutron_secgroup_rule.present:",
+		"body": [
+			"neutron_secgroup_rule.present:",
+			"$0"
+		],
+		"prefix": "neutron_secgroup_rule.present:"
+	}
+}

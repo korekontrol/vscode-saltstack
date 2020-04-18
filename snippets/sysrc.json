@@ -1,0 +1,18 @@
+{
+	"sysrc.absent": {
+		"description": "sysrc.absent:",
+		"body": [
+			"sysrc.absent:",
+			"$0"
+		],
+		"prefix": "sysrc.absent:"
+	},
+	"sysrc.managed": {
+		"description": "sysrc.managed:",
+		"body": [
+			"sysrc.managed:",
+			"$0"
+		],
+		"prefix": "sysrc.managed:"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"openvswitch_port.absent": {
+		"description": "openvswitch_port.absent:",
+		"body": [
+			"openvswitch_port.absent:",
+			"$0"
+		],
+		"prefix": "openvswitch_port.absent:"
+	},
+	"openvswitch_port.present": {
+		"description": "openvswitch_port.present:",
+		"body": [
+			"openvswitch_port.present:",
+			"$0"
+		],
+		"prefix": "openvswitch_port.present:"
+	}
+}

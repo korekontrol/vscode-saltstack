@@ -1,0 +1,50 @@
+{
+	"cimc.power_configuration": {
+		"body": [
+			"cimc.power_configuration:",
+			"$0"
+		],
+		"prefix": "cimc.power_configuration:",
+		"description": "cimc.power_configuration:"
+	},
+	"cimc.logging_levels": {
+		"body": [
+			"cimc.logging_levels:",
+			"$0"
+		],
+		"prefix": "cimc.logging_levels:",
+		"description": "cimc.logging_levels:"
+	},
+	"cimc.user": {
+		"body": [
+			"cimc.user:",
+			"$0"
+		],
+		"prefix": "cimc.user:",
+		"description": "cimc.user:"
+	},
+	"cimc.ntp": {
+		"body": [
+			"cimc.ntp:",
+			"$0"
+		],
+		"prefix": "cimc.ntp:",
+		"description": "cimc.ntp:"
+	},
+	"cimc.hostname": {
+		"body": [
+			"cimc.hostname:",
+			"$0"
+		],
+		"prefix": "cimc.hostname:",
+		"description": "cimc.hostname:"
+	},
+	"cimc.syslog": {
+		"body": [
+			"cimc.syslog:",
+			"$0"
+		],
+		"prefix": "cimc.syslog:",
+		"description": "cimc.syslog:"
+	}
+}

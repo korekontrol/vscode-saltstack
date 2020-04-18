@@ -1,0 +1,50 @@
+{
+	"azurearm_resource.policy_definition_present": {
+		"body": [
+			"azurearm_resource.policy_definition_present:",
+			"$0"
+		],
+		"prefix": "azurearm_resource.policy_definition_present:",
+		"description": "azurearm_resource.policy_definition_present:"
+	},
+	"azurearm_resource.policy_assignment_present": {
+		"body": [
+			"azurearm_resource.policy_assignment_present:",
+			"$0"
+		],
+		"prefix": "azurearm_resource.policy_assignment_present:",
+		"description": "azurearm_resource.policy_assignment_present:"
+	},
+	"azurearm_resource.policy_assignment_absent": {
+		"body": [
+			"azurearm_resource.policy_assignment_absent:",
+			"$0"
+		],
+		"prefix": "azurearm_resource.policy_assignment_absent:",
+		"description": "azurearm_resource.policy_assignment_absent:"
+	},
+	"azurearm_resource.resource_group_absent": {
+		"body": [
+			"azurearm_resource.resource_group_absent:",
+			"$0"
+		],
+		"prefix": "azurearm_resource.resource_group_absent:",
+		"description": "azurearm_resource.resource_group_absent:"
+	},
+	"azurearm_resource.policy_definition_absent": {
+		"body": [
+			"azurearm_resource.policy_definition_absent:",
+			"$0"
+		],
+		"prefix": "azurearm_resource.policy_definition_absent:",
+		"description": "azurearm_resource.policy_definition_absent:"
+	},
+	"azurearm_resource.resource_group_present": {
+		"body": [
+			"azurearm_resource.resource_group_present:",
+			"$0"
+		],
+		"prefix": "azurearm_resource.resource_group_present:",
+		"description": "azurearm_resource.resource_group_present:"
+	}
+}

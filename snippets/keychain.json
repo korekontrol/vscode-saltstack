@@ -1,0 +1,26 @@
+{
+	"keychain.default_keychain": {
+		"body": [
+			"keychain.default_keychain:",
+			"$0"
+		],
+		"prefix": "keychain.default_keychain:",
+		"description": "keychain.default_keychain:"
+	},
+	"keychain.uninstalled": {
+		"body": [
+			"keychain.uninstalled:",
+			"$0"
+		],
+		"prefix": "keychain.uninstalled:",
+		"description": "keychain.uninstalled:"
+	},
+	"keychain.installed": {
+		"body": [
+			"keychain.installed:",
+			"$0"
+		],
+		"prefix": "keychain.installed:",
+		"description": "keychain.installed:"
+	}
+}

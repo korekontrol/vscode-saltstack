@@ -1,0 +1,26 @@
+{
+	"drac.absent": {
+		"body": [
+			"drac.absent:",
+			"$0"
+		],
+		"prefix": "drac.absent:",
+		"description": "drac.absent:"
+	},
+	"drac.network": {
+		"body": [
+			"drac.network:",
+			"$0"
+		],
+		"prefix": "drac.network:",
+		"description": "drac.network:"
+	},
+	"drac.present": {
+		"body": [
+			"drac.present:",
+			"$0"
+		],
+		"prefix": "drac.present:",
+		"description": "drac.present:"
+	}
+}

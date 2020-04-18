@@ -1,0 +1,10 @@
+{
+	"sysctl.present": {
+		"description": "sysctl.present:",
+		"body": [
+			"sysctl.present:",
+			"$0"
+		],
+		"prefix": "sysctl.present:"
+	}
+}

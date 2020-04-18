@@ -1,0 +1,18 @@
+{
+	"postgres_schema.absent": {
+		"description": "postgres_schema.absent:",
+		"body": [
+			"postgres_schema.absent:",
+			"$0"
+		],
+		"prefix": "postgres_schema.absent:"
+	},
+	"postgres_schema.present": {
+		"description": "postgres_schema.present:",
+		"body": [
+			"postgres_schema.present:",
+			"$0"
+		],
+		"prefix": "postgres_schema.present:"
+	}
+}

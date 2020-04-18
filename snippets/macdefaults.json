@@ -1,0 +1,18 @@
+{
+	"macdefaults.write": {
+		"description": "macdefaults.write:",
+		"body": [
+			"macdefaults.write:",
+			"$0"
+		],
+		"prefix": "macdefaults.write:"
+	},
+	"macdefaults.absent": {
+		"description": "macdefaults.absent:",
+		"body": [
+			"macdefaults.absent:",
+			"$0"
+		],
+		"prefix": "macdefaults.absent:"
+	}
+}

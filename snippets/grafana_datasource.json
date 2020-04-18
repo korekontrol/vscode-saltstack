@@ -1,0 +1,18 @@
+{
+	"grafana_datasource.absent": {
+		"body": [
+			"grafana_datasource.absent:",
+			"$0"
+		],
+		"prefix": "grafana_datasource.absent:",
+		"description": "grafana_datasource.absent:"
+	},
+	"grafana_datasource.present": {
+		"body": [
+			"grafana_datasource.present:",
+			"$0"
+		],
+		"prefix": "grafana_datasource.present:",
+		"description": "grafana_datasource.present:"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"napalm_yang.managed": {
+		"description": "napalm_yang.managed:",
+		"body": [
+			"napalm_yang.managed:",
+			"$0"
+		],
+		"prefix": "napalm_yang.managed:"
+	},
+	"napalm_yang.configured": {
+		"description": "napalm_yang.configured:",
+		"body": [
+			"napalm_yang.configured:",
+			"$0"
+		],
+		"prefix": "napalm_yang.configured:"
+	}
+}

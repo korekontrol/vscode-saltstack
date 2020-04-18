@@ -1,0 +1,98 @@
+{
+	"zfs.filesystem_present": {
+		"description": "zfs.filesystem_present:",
+		"body": [
+			"zfs.filesystem_present:",
+			"$0"
+		],
+		"prefix": "zfs.filesystem_present:"
+	},
+	"zfs.volume_present": {
+		"description": "zfs.volume_present:",
+		"body": [
+			"zfs.volume_present:",
+			"$0"
+		],
+		"prefix": "zfs.volume_present:"
+	},
+	"zfs.snapshot_present": {
+		"description": "zfs.snapshot_present:",
+		"body": [
+			"zfs.snapshot_present:",
+			"$0"
+		],
+		"prefix": "zfs.snapshot_present:"
+	},
+	"zfs.bookmark_present": {
+		"description": "zfs.bookmark_present:",
+		"body": [
+			"zfs.bookmark_present:",
+			"$0"
+		],
+		"prefix": "zfs.bookmark_present:"
+	},
+	"zfs.hold_absent": {
+		"description": "zfs.hold_absent:",
+		"body": [
+			"zfs.hold_absent:",
+			"$0"
+		],
+		"prefix": "zfs.hold_absent:"
+	},
+	"zfs.scheduled_snapshot": {
+		"description": "zfs.scheduled_snapshot:",
+		"body": [
+			"zfs.scheduled_snapshot:",
+			"$0"
+		],
+		"prefix": "zfs.scheduled_snapshot:"
+	},
+	"zfs.filesystem_absent": {
+		"description": "zfs.filesystem_absent:",
+		"body": [
+			"zfs.filesystem_absent:",
+			"$0"
+		],
+		"prefix": "zfs.filesystem_absent:"
+	},
+	"zfs.promoted": {
+		"description": "zfs.promoted:",
+		"body": [
+			"zfs.promoted:",
+			"$0"
+		],
+		"prefix": "zfs.promoted:"
+	},
+	"zfs.bookmark_absent": {
+		"description": "zfs.bookmark_absent:",
+		"body": [
+			"zfs.bookmark_absent:",
+			"$0"
+		],
+		"prefix": "zfs.bookmark_absent:"
+	},
+	"zfs.volume_absent": {
+		"description": "zfs.volume_absent:",
+		"body": [
+			"zfs.volume_absent:",
+			"$0"
+		],
+		"prefix": "zfs.volume_absent:"
+	},
+	"zfs.hold_present": {
+		"description": "zfs.hold_present:",
+		"body": [
+			"zfs.hold_present:",
+			"$0"
+		],
+		"prefix": "zfs.hold_present:"
+	},
+	"zfs.snapshot_absent": {
+		"description": "zfs.snapshot_absent:",
+		"body": [
+			"zfs.snapshot_absent:",
+			"$0"
+		],
+		"prefix": "zfs.snapshot_absent:"
+	}
+}

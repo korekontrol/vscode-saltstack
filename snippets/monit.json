@@ -1,0 +1,18 @@
+{
+	"monit.monitor": {
+		"description": "monit.monitor:",
+		"body": [
+			"monit.monitor:",
+			"$0"
+		],
+		"prefix": "monit.monitor:"
+	},
+	"monit.unmonitor": {
+		"description": "monit.unmonitor:",
+		"body": [
+			"monit.unmonitor:",
+			"$0"
+		],
+		"prefix": "monit.unmonitor:"
+	}
+}

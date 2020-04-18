@@ -1,0 +1,18 @@
+{
+	"rabbitmq_user.present": {
+		"description": "rabbitmq_user.present:",
+		"body": [
+			"rabbitmq_user.present:",
+			"$0"
+		],
+		"prefix": "rabbitmq_user.present:"
+	},
+	"rabbitmq_user.absent": {
+		"description": "rabbitmq_user.absent:",
+		"body": [
+			"rabbitmq_user.absent:",
+			"$0"
+		],
+		"prefix": "rabbitmq_user.absent:"
+	}
+}

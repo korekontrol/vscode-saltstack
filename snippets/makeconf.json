@@ -1,0 +1,18 @@
+{
+	"makeconf.present": {
+		"description": "makeconf.present:",
+		"body": [
+			"makeconf.present:",
+			"$0"
+		],
+		"prefix": "makeconf.present:"
+	},
+	"makeconf.absent": {
+		"description": "makeconf.absent:",
+		"body": [
+			"makeconf.absent:",
+			"$0"
+		],
+		"prefix": "makeconf.absent:"
+	}
+}

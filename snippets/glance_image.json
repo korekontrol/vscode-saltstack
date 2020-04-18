@@ -1,0 +1,18 @@
+{
+	"glance_image.present": {
+		"body": [
+			"glance_image.present:",
+			"$0"
+		],
+		"prefix": "glance_image.present:",
+		"description": "glance_image.present:"
+	},
+	"glance_image.absent": {
+		"body": [
+			"glance_image.absent:",
+			"$0"
+		],
+		"prefix": "glance_image.absent:",
+		"description": "glance_image.absent:"
+	}
+}

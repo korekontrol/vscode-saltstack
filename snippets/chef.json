@@ -1,0 +1,18 @@
+{
+	"chef.solo": {
+		"body": [
+			"chef.solo:",
+			"$0"
+		],
+		"prefix": "chef.solo:",
+		"description": "chef.solo:"
+	},
+	"chef.client": {
+		"body": [
+			"chef.client:",
+			"$0"
+		],
+		"prefix": "chef.client:",
+		"description": "chef.client:"
+	}
+}

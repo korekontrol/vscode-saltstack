@@ -1,0 +1,10 @@
+{
+	"apache.configfile": {
+		"body": [
+			"apache.configfile:",
+			"$0"
+		],
+		"prefix": "apache.configfile:",
+		"description": "apache.configfile:"
+	}
+}

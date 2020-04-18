@@ -1,0 +1,18 @@
+{
+	"pyrax_queues.present": {
+		"description": "pyrax_queues.present:",
+		"body": [
+			"pyrax_queues.present:",
+			"$0"
+		],
+		"prefix": "pyrax_queues.present:"
+	},
+	"pyrax_queues.absent": {
+		"description": "pyrax_queues.absent:",
+		"body": [
+			"pyrax_queues.absent:",
+			"$0"
+		],
+		"prefix": "pyrax_queues.absent:"
+	}
+}

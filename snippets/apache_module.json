@@ -1,0 +1,18 @@
+{
+	"apache_module.enabled": {
+		"body": [
+			"apache_module.enabled:",
+			"$0"
+		],
+		"prefix": "apache_module.enabled:",
+		"description": "apache_module.enabled:"
+	},
+	"apache_module.disabled": {
+		"body": [
+			"apache_module.disabled:",
+			"$0"
+		],
+		"prefix": "apache_module.disabled:",
+		"description": "apache_module.disabled:"
+	}
+}

@@ -1,0 +1,50 @@
+{
+	"nftables.flush": {
+		"description": "nftables.flush:",
+		"body": [
+			"nftables.flush:",
+			"$0"
+		],
+		"prefix": "nftables.flush:"
+	},
+	"nftables.insert": {
+		"description": "nftables.insert:",
+		"body": [
+			"nftables.insert:",
+			"$0"
+		],
+		"prefix": "nftables.insert:"
+	},
+	"nftables.chain_present": {
+		"description": "nftables.chain_present:",
+		"body": [
+			"nftables.chain_present:",
+			"$0"
+		],
+		"prefix": "nftables.chain_present:"
+	},
+	"nftables.chain_absent": {
+		"description": "nftables.chain_absent:",
+		"body": [
+			"nftables.chain_absent:",
+			"$0"
+		],
+		"prefix": "nftables.chain_absent:"
+	},
+	"nftables.delete": {
+		"description": "nftables.delete:",
+		"body": [
+			"nftables.delete:",
+			"$0"
+		],
+		"prefix": "nftables.delete:"
+	},
+	"nftables.append": {
+		"description": "nftables.append:",
+		"body": [
+			"nftables.append:",
+			"$0"
+		],
+		"prefix": "nftables.append:"
+	}
+}

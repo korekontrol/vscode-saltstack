@@ -1,0 +1,18 @@
+{
+	"keystone_role_grant.absent": {
+		"body": [
+			"keystone_role_grant.absent:",
+			"$0"
+		],
+		"prefix": "keystone_role_grant.absent:",
+		"description": "keystone_role_grant.absent:"
+	},
+	"keystone_role_grant.present": {
+		"body": [
+			"keystone_role_grant.present:",
+			"$0"
+		],
+		"prefix": "keystone_role_grant.present:",
+		"description": "keystone_role_grant.present:"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"heat.deployed": {
+		"body": [
+			"heat.deployed:",
+			"$0"
+		],
+		"prefix": "heat.deployed:",
+		"description": "heat.deployed:"
+	},
+	"heat.absent": {
+		"body": [
+			"heat.absent:",
+			"$0"
+		],
+		"prefix": "heat.absent:",
+		"description": "heat.absent:"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"acme.cert": {
+		"body": [
+			"acme.cert:",
+			"$0"
+		],
+		"prefix": "acme.cert:",
+		"description": "acme.cert:"
+	}
+}

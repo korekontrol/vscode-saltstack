@@ -1,0 +1,10 @@
+{
+	"probes.managed": {
+		"description": "probes.managed:",
+		"body": [
+			"probes.managed:",
+			"$0"
+		],
+		"prefix": "probes.managed:"
+	}
+}

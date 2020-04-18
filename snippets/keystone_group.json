@@ -1,0 +1,18 @@
+{
+	"keystone_group.present": {
+		"body": [
+			"keystone_group.present:",
+			"$0"
+		],
+		"prefix": "keystone_group.present:",
+		"description": "keystone_group.present:"
+	},
+	"keystone_group.absent": {
+		"body": [
+			"keystone_group.absent:",
+			"$0"
+		],
+		"prefix": "keystone_group.absent:",
+		"description": "keystone_group.absent:"
+	}
+}

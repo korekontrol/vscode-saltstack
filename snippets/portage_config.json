@@ -1,0 +1,18 @@
+{
+	"portage_config.flags": {
+		"description": "portage_config.flags:",
+		"body": [
+			"portage_config.flags:",
+			"$0"
+		],
+		"prefix": "portage_config.flags:"
+	},
+	"portage_config.mod_init": {
+		"description": "portage_config.mod_init:",
+		"body": [
+			"portage_config.mod_init:",
+			"$0"
+		],
+		"prefix": "portage_config.mod_init:"
+	}
+}

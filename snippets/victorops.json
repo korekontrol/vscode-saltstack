@@ -1,0 +1,10 @@
+{
+	"victorops.create_event": {
+		"description": "victorops.create_event:",
+		"body": [
+			"victorops.create_event:",
+			"$0"
+		],
+		"prefix": "victorops.create_event:"
+	}
+}

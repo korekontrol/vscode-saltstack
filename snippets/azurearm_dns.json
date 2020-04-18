@@ -1,0 +1,34 @@
+{
+	"azurearm_dns.zone_present": {
+		"body": [
+			"azurearm_dns.zone_present:",
+			"$0"
+		],
+		"prefix": "azurearm_dns.zone_present:",
+		"description": "azurearm_dns.zone_present:"
+	},
+	"azurearm_dns.record_set_absent": {
+		"body": [
+			"azurearm_dns.record_set_absent:",
+			"$0"
+		],
+		"prefix": "azurearm_dns.record_set_absent:",
+		"description": "azurearm_dns.record_set_absent:"
+	},
+	"azurearm_dns.record_set_present": {
+		"body": [
+			"azurearm_dns.record_set_present:",
+			"$0"
+		],
+		"prefix": "azurearm_dns.record_set_present:",
+		"description": "azurearm_dns.record_set_present:"
+	},
+	"azurearm_dns.zone_absent": {
+		"body": [
+			"azurearm_dns.zone_absent:",
+			"$0"
+		],
+		"prefix": "azurearm_dns.zone_absent:",
+		"description": "azurearm_dns.zone_absent:"
+	}
+}

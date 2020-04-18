@@ -1,0 +1,42 @@
+{
+	"x509.pem_managed": {
+		"description": "x509.pem_managed:",
+		"body": [
+			"x509.pem_managed:",
+			"$0"
+		],
+		"prefix": "x509.pem_managed:"
+	},
+	"x509.certificate_managed": {
+		"description": "x509.certificate_managed:",
+		"body": [
+			"x509.certificate_managed:",
+			"$0"
+		],
+		"prefix": "x509.certificate_managed:"
+	},
+	"x509.crl_managed": {
+		"description": "x509.crl_managed:",
+		"body": [
+			"x509.crl_managed:",
+			"$0"
+		],
+		"prefix": "x509.crl_managed:"
+	},
+	"x509.private_key_managed": {
+		"description": "x509.private_key_managed:",
+		"body": [
+			"x509.private_key_managed:",
+			"$0"
+		],
+		"prefix": "x509.private_key_managed:"
+	},
+	"x509.csr_managed": {
+		"description": "x509.csr_managed:",
+		"body": [
+			"x509.csr_managed:",
+			"$0"
+		],
+		"prefix": "x509.csr_managed:"
+	}
+}

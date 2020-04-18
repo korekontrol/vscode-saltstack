@@ -1,0 +1,18 @@
+{
+	"xattr.delete": {
+		"description": "xattr.delete:",
+		"body": [
+			"xattr.delete:",
+			"$0"
+		],
+		"prefix": "xattr.delete:"
+	},
+	"xattr.exists": {
+		"description": "xattr.exists:",
+		"body": [
+			"xattr.exists:",
+			"$0"
+		],
+		"prefix": "xattr.exists:"
+	}
+}

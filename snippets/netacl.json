@@ -1,0 +1,26 @@
+{
+	"netacl.term": {
+		"description": "netacl.term:",
+		"body": [
+			"netacl.term:",
+			"$0"
+		],
+		"prefix": "netacl.term:"
+	},
+	"netacl.managed": {
+		"description": "netacl.managed:",
+		"body": [
+			"netacl.managed:",
+			"$0"
+		],
+		"prefix": "netacl.managed:"
+	},
+	"netacl.filter": {
+		"description": "netacl.filter:",
+		"body": [
+			"netacl.filter:",
+			"$0"
+		],
+		"prefix": "netacl.filter:"
+	}
+}

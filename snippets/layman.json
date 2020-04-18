@@ -1,0 +1,18 @@
+{
+	"layman.absent": {
+		"description": "layman.absent:",
+		"body": [
+			"layman.absent:",
+			"$0"
+		],
+		"prefix": "layman.absent:"
+	},
+	"layman.present": {
+		"description": "layman.present:",
+		"body": [
+			"layman.present:",
+			"$0"
+		],
+		"prefix": "layman.present:"
+	}
+}

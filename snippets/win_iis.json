@@ -1,0 +1,122 @@
+{
+	"win_iis.container_setting": {
+		"description": "win_iis.container_setting:",
+		"body": [
+			"win_iis.container_setting:",
+			"$0"
+		],
+		"prefix": "win_iis.container_setting:"
+	},
+	"win_iis.create_apppool": {
+		"description": "win_iis.create_apppool:",
+		"body": [
+			"win_iis.create_apppool:",
+			"$0"
+		],
+		"prefix": "win_iis.create_apppool:"
+	},
+	"win_iis.webconfiguration_settings": {
+		"description": "win_iis.webconfiguration_settings:",
+		"body": [
+			"win_iis.webconfiguration_settings:",
+			"$0"
+		],
+		"prefix": "win_iis.webconfiguration_settings:"
+	},
+	"win_iis.remove_binding": {
+		"description": "win_iis.remove_binding:",
+		"body": [
+			"win_iis.remove_binding:",
+			"$0"
+		],
+		"prefix": "win_iis.remove_binding:"
+	},
+	"win_iis.remove_apppool": {
+		"description": "win_iis.remove_apppool:",
+		"body": [
+			"win_iis.remove_apppool:",
+			"$0"
+		],
+		"prefix": "win_iis.remove_apppool:"
+	},
+	"win_iis.create_app": {
+		"description": "win_iis.create_app:",
+		"body": [
+			"win_iis.create_app:",
+			"$0"
+		],
+		"prefix": "win_iis.create_app:"
+	},
+	"win_iis.remove_site": {
+		"description": "win_iis.remove_site:",
+		"body": [
+			"win_iis.remove_site:",
+			"$0"
+		],
+		"prefix": "win_iis.remove_site:"
+	},
+	"win_iis.remove_app": {
+		"description": "win_iis.remove_app:",
+		"body": [
+			"win_iis.remove_app:",
+			"$0"
+		],
+		"prefix": "win_iis.remove_app:"
+	},
+	"win_iis.create_cert_binding": {
+		"description": "win_iis.create_cert_binding:",
+		"body": [
+			"win_iis.create_cert_binding:",
+			"$0"
+		],
+		"prefix": "win_iis.create_cert_binding:"
+	},
+	"win_iis.remove_vdir": {
+		"description": "win_iis.remove_vdir:",
+		"body": [
+			"win_iis.remove_vdir:",
+			"$0"
+		],
+		"prefix": "win_iis.remove_vdir:"
+	},
+	"win_iis.set_app": {
+		"description": "win_iis.set_app:",
+		"body": [
+			"win_iis.set_app:",
+			"$0"
+		],
+		"prefix": "win_iis.set_app:"
+	},
+	"win_iis.create_vdir": {
+		"description": "win_iis.create_vdir:",
+		"body": [
+			"win_iis.create_vdir:",
+			"$0"
+		],
+		"prefix": "win_iis.create_vdir:"
+	},
+	"win_iis.create_binding": {
+		"description": "win_iis.create_binding:",
+		"body": [
+			"win_iis.create_binding:",
+			"$0"
+		],
+		"prefix": "win_iis.create_binding:"
+	},
+	"win_iis.deployed": {
+		"description": "win_iis.deployed:",
+		"body": [
+			"win_iis.deployed:",
+			"$0"
+		],
+		"prefix": "win_iis.deployed:"
+	},
+	"win_iis.remove_cert_binding": {
+		"description": "win_iis.remove_cert_binding:",
+		"body": [
+			"win_iis.remove_cert_binding:",
+			"$0"
+		],
+		"prefix": "win_iis.remove_cert_binding:"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"zookeeper.acls": {
+		"description": "zookeeper.acls:",
+		"body": [
+			"zookeeper.acls:",
+			"$0"
+		],
+		"prefix": "zookeeper.acls:"
+	},
+	"zookeeper.present": {
+		"description": "zookeeper.present:",
+		"body": [
+			"zookeeper.present:",
+			"$0"
+		],
+		"prefix": "zookeeper.present:"
+	},
+	"zookeeper.absent": {
+		"description": "zookeeper.absent:",
+		"body": [
+			"zookeeper.absent:",
+			"$0"
+		],
+		"prefix": "zookeeper.absent:"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"netusers.managed": {
+		"description": "netusers.managed:",
+		"body": [
+			"netusers.managed:",
+			"$0"
+		],
+		"prefix": "netusers.managed:"
+	}
+}

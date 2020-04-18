@@ -1,0 +1,18 @@
+{
+	"keystone_role.absent": {
+		"body": [
+			"keystone_role.absent:",
+			"$0"
+		],
+		"prefix": "keystone_role.absent:",
+		"description": "keystone_role.absent:"
+	},
+	"keystone_role.present": {
+		"body": [
+			"keystone_role.present:",
+			"$0"
+		],
+		"prefix": "keystone_role.present:",
+		"description": "keystone_role.present:"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"win_snmp.agent_settings": {
+		"description": "win_snmp.agent_settings:",
+		"body": [
+			"win_snmp.agent_settings:",
+			"$0"
+		],
+		"prefix": "win_snmp.agent_settings:"
+	},
+	"win_snmp.community_names": {
+		"description": "win_snmp.community_names:",
+		"body": [
+			"win_snmp.community_names:",
+			"$0"
+		],
+		"prefix": "win_snmp.community_names:"
+	},
+	"win_snmp.auth_traps_enabled": {
+		"description": "win_snmp.auth_traps_enabled:",
+		"body": [
+			"win_snmp.auth_traps_enabled:",
+			"$0"
+		],
+		"prefix": "win_snmp.auth_traps_enabled:"
+	}
+}

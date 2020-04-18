@@ -1,0 +1,18 @@
+{
+	"splunk_search.present": {
+		"description": "splunk_search.present:",
+		"body": [
+			"splunk_search.present:",
+			"$0"
+		],
+		"prefix": "splunk_search.present:"
+	},
+	"splunk_search.absent": {
+		"description": "splunk_search.absent:",
+		"body": [
+			"splunk_search.absent:",
+			"$0"
+		],
+		"prefix": "splunk_search.absent:"
+	}
+}

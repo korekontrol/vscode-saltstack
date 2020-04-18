@@ -1,0 +1,10 @@
+{
+	"glance.image_present": {
+		"body": [
+			"glance.image_present:",
+			"$0"
+		],
+		"prefix": "glance.image_present:",
+		"description": "glance.image_present:"
+	}
+}

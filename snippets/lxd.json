@@ -1,0 +1,26 @@
+{
+	"lxd.authenticate": {
+		"description": "lxd.authenticate:",
+		"body": [
+			"lxd.authenticate:",
+			"$0"
+		],
+		"prefix": "lxd.authenticate:"
+	},
+	"lxd.config_managed": {
+		"description": "lxd.config_managed:",
+		"body": [
+			"lxd.config_managed:",
+			"$0"
+		],
+		"prefix": "lxd.config_managed:"
+	},
+	"lxd.init": {
+		"description": "lxd.init:",
+		"body": [
+			"lxd.init:",
+			"$0"
+		],
+		"prefix": "lxd.init:"
+	}
+}

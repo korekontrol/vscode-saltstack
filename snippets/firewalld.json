@@ -1,0 +1,18 @@
+{
+	"firewalld.service": {
+		"body": [
+			"firewalld.service:",
+			"$0"
+		],
+		"prefix": "firewalld.service:",
+		"description": "firewalld.service:"
+	},
+	"firewalld.present": {
+		"body": [
+			"firewalld.present:",
+			"$0"
+		],
+		"prefix": "firewalld.present:",
+		"description": "firewalld.present:"
+	}
+}

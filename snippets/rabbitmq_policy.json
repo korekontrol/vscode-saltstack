@@ -1,0 +1,18 @@
+{
+	"rabbitmq_policy.present": {
+		"description": "rabbitmq_policy.present:",
+		"body": [
+			"rabbitmq_policy.present:",
+			"$0"
+		],
+		"prefix": "rabbitmq_policy.present:"
+	},
+	"rabbitmq_policy.absent": {
+		"description": "rabbitmq_policy.absent:",
+		"body": [
+			"rabbitmq_policy.absent:",
+			"$0"
+		],
+		"prefix": "rabbitmq_policy.absent:"
+	}
+}

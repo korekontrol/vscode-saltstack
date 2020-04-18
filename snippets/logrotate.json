@@ -1,10 +1,18 @@
 {
 	"logrotate.set": {
-		"prefix": "logrotate.set:",
+		"description": "logrotate.set:",
 		"body": [
 			"logrotate.set:",
 			"$0"
 		],
-		"description": "logrotate.set:"
+		"prefix": "logrotate.set:"
+	},
+	"logrotate.set_": {
+		"description": "logrotate.set_:",
+		"body": [
+			"logrotate.set_:",
+			"$0"
+		],
+		"prefix": "logrotate.set_:"
 	}
 }

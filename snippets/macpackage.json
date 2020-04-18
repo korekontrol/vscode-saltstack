@@ -1,0 +1,10 @@
+{
+	"macpackage.installed": {
+		"description": "macpackage.installed:",
+		"body": [
+			"macpackage.installed:",
+			"$0"
+		],
+		"prefix": "macpackage.installed:"
+	}
+}

@@ -1,0 +1,90 @@
+{
+	"smartos.image_present": {
+		"description": "smartos.image_present:",
+		"body": [
+			"smartos.image_present:",
+			"$0"
+		],
+		"prefix": "smartos.image_present:"
+	},
+	"smartos.vm_present": {
+		"description": "smartos.vm_present:",
+		"body": [
+			"smartos.vm_present:",
+			"$0"
+		],
+		"prefix": "smartos.vm_present:"
+	},
+	"smartos.image_vacuum": {
+		"description": "smartos.image_vacuum:",
+		"body": [
+			"smartos.image_vacuum:",
+			"$0"
+		],
+		"prefix": "smartos.image_vacuum:"
+	},
+	"smartos.vm_stopped": {
+		"description": "smartos.vm_stopped:",
+		"body": [
+			"smartos.vm_stopped:",
+			"$0"
+		],
+		"prefix": "smartos.vm_stopped:"
+	},
+	"smartos.source_present": {
+		"description": "smartos.source_present:",
+		"body": [
+			"smartos.source_present:",
+			"$0"
+		],
+		"prefix": "smartos.source_present:"
+	},
+	"smartos.vm_absent": {
+		"description": "smartos.vm_absent:",
+		"body": [
+			"smartos.vm_absent:",
+			"$0"
+		],
+		"prefix": "smartos.vm_absent:"
+	},
+	"smartos.source_absent": {
+		"description": "smartos.source_absent:",
+		"body": [
+			"smartos.source_absent:",
+			"$0"
+		],
+		"prefix": "smartos.source_absent:"
+	},
+	"smartos.config_present": {
+		"description": "smartos.config_present:",
+		"body": [
+			"smartos.config_present:",
+			"$0"
+		],
+		"prefix": "smartos.config_present:"
+	},
+	"smartos.image_absent": {
+		"description": "smartos.image_absent:",
+		"body": [
+			"smartos.image_absent:",
+			"$0"
+		],
+		"prefix": "smartos.image_absent:"
+	},
+	"smartos.vm_running": {
+		"description": "smartos.vm_running:",
+		"body": [
+			"smartos.vm_running:",
+			"$0"
+		],
+		"prefix": "smartos.vm_running:"
+	},
+	"smartos.config_absent": {
+		"description": "smartos.config_absent:",
+		"body": [
+			"smartos.config_absent:",
+			"$0"
+		],
+		"prefix": "smartos.config_absent:"
+	}
+}

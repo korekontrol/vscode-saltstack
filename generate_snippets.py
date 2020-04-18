@@ -61,24 +61,18 @@ def _add_all_snippets(states):
         print("All states present in package.json")
 
 local = salt.client.Caller()
-
-states = local.cmd('sys.list_state_modules')
-state_functions = local.cmd('sys.list_state_functions')
+state_info = local.cmd('baredoc.list_states', names_only=True)
 function_blacklist = ['mod_watch']
 
 any_updates = False
 
-for state in states:
+for state in state_info:
 
     # Build list of functions for state
     current_functions = []
     state_path = os.path.join('snippets', state + '.json')
-    for function in state_functions:
-        if function.startswith('{}.'.format(state)):
-            for blacklist in function_blacklist:
-                # Don't include mod_watch functions as these aren't used in state files
-                if '{}.{}'.format(state, blacklist) not in function:
-                    current_functions.append(function[len('{}.'.format(state)):])
+    # Don't include mod_watch functions as these aren't used in state files
+    current_functions = list(set(state_info[state]) - set(function_blacklist))
     snippets = _gen_snippet(state, current_functions)
 
     if not os.path.exists(state_path):
@@ -102,4 +96,4 @@ for state in states:
 
 if not any_updates:
     print('No changes made to snippet files')
-_add_all_snippets(states)
+_add_all_snippets(sorted(state_info.keys()))

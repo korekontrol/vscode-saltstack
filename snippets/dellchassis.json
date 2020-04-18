@@ -1,0 +1,34 @@
+{
+	"dellchassis.firmware_update": {
+		"body": [
+			"dellchassis.firmware_update:",
+			"$0"
+		],
+		"prefix": "dellchassis.firmware_update:",
+		"description": "dellchassis.firmware_update:"
+	},
+	"dellchassis.blade_idrac": {
+		"body": [
+			"dellchassis.blade_idrac:",
+			"$0"
+		],
+		"prefix": "dellchassis.blade_idrac:",
+		"description": "dellchassis.blade_idrac:"
+	},
+	"dellchassis.switch": {
+		"body": [
+			"dellchassis.switch:",
+			"$0"
+		],
+		"prefix": "dellchassis.switch:",
+		"description": "dellchassis.switch:"
+	},
+	"dellchassis.chassis": {
+		"body": [
+			"dellchassis.chassis:",
+			"$0"
+		],
+		"prefix": "dellchassis.chassis:",
+		"description": "dellchassis.chassis:"
+	}
+}
