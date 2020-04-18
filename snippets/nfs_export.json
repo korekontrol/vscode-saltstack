@@ -1,0 +1,18 @@
+{
+	"nfs_export.absent": {
+		"description": "nfs_export.absent:",
+		"body": [
+			"nfs_export.absent:",
+			"$0"
+		],
+		"prefix": "nfs_export.absent:"
+	},
+	"nfs_export.present": {
+		"description": "nfs_export.present:",
+		"body": [
+			"nfs_export.present:",
+			"$0"
+		],
+		"prefix": "nfs_export.present:"
+	}
+}

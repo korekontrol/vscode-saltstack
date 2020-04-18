@@ -1,0 +1,18 @@
+{
+	"pecl.installed": {
+		"description": "pecl.installed:",
+		"body": [
+			"pecl.installed:",
+			"$0"
+		],
+		"prefix": "pecl.installed:"
+	},
+	"pecl.removed": {
+		"description": "pecl.removed:",
+		"body": [
+			"pecl.removed:",
+			"$0"
+		],
+		"prefix": "pecl.removed:"
+	}
+}

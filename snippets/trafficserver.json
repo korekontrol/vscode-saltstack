@@ -1,0 +1,106 @@
+{
+	"trafficserver.zero_cluster": {
+		"description": "trafficserver.zero_cluster:",
+		"body": [
+			"trafficserver.zero_cluster:",
+			"$0"
+		],
+		"prefix": "trafficserver.zero_cluster:"
+	},
+	"trafficserver.bounce_local": {
+		"description": "trafficserver.bounce_local:",
+		"body": [
+			"trafficserver.bounce_local:",
+			"$0"
+		],
+		"prefix": "trafficserver.bounce_local:"
+	},
+	"trafficserver.restart_cluster": {
+		"description": "trafficserver.restart_cluster:",
+		"body": [
+			"trafficserver.restart_cluster:",
+			"$0"
+		],
+		"prefix": "trafficserver.restart_cluster:"
+	},
+	"trafficserver.restart_local": {
+		"description": "trafficserver.restart_local:",
+		"body": [
+			"trafficserver.restart_local:",
+			"$0"
+		],
+		"prefix": "trafficserver.restart_local:"
+	},
+	"trafficserver.clear_node": {
+		"description": "trafficserver.clear_node:",
+		"body": [
+			"trafficserver.clear_node:",
+			"$0"
+		],
+		"prefix": "trafficserver.clear_node:"
+	},
+	"trafficserver.bounce_cluster": {
+		"description": "trafficserver.bounce_cluster:",
+		"body": [
+			"trafficserver.bounce_cluster:",
+			"$0"
+		],
+		"prefix": "trafficserver.bounce_cluster:"
+	},
+	"trafficserver.config": {
+		"description": "trafficserver.config:",
+		"body": [
+			"trafficserver.config:",
+			"$0"
+		],
+		"prefix": "trafficserver.config:"
+	},
+	"trafficserver.shutdown": {
+		"description": "trafficserver.shutdown:",
+		"body": [
+			"trafficserver.shutdown:",
+			"$0"
+		],
+		"prefix": "trafficserver.shutdown:"
+	},
+	"trafficserver.startup": {
+		"description": "trafficserver.startup:",
+		"body": [
+			"trafficserver.startup:",
+			"$0"
+		],
+		"prefix": "trafficserver.startup:"
+	},
+	"trafficserver.zero_node": {
+		"description": "trafficserver.zero_node:",
+		"body": [
+			"trafficserver.zero_node:",
+			"$0"
+		],
+		"prefix": "trafficserver.zero_node:"
+	},
+	"trafficserver.clear_cluster": {
+		"description": "trafficserver.clear_cluster:",
+		"body": [
+			"trafficserver.clear_cluster:",
+			"$0"
+		],
+		"prefix": "trafficserver.clear_cluster:"
+	},
+	"trafficserver.offline": {
+		"description": "trafficserver.offline:",
+		"body": [
+			"trafficserver.offline:",
+			"$0"
+		],
+		"prefix": "trafficserver.offline:"
+	},
+	"trafficserver.refresh": {
+		"description": "trafficserver.refresh:",
+		"body": [
+			"trafficserver.refresh:",
+			"$0"
+		],
+		"prefix": "trafficserver.refresh:"
+	}
+}

@@ -1,0 +1,50 @@
+{
+	"github.repo_present": {
+		"body": [
+			"github.repo_present:",
+			"$0"
+		],
+		"prefix": "github.repo_present:",
+		"description": "github.repo_present:"
+	},
+	"github.team_present": {
+		"body": [
+			"github.team_present:",
+			"$0"
+		],
+		"prefix": "github.team_present:",
+		"description": "github.team_present:"
+	},
+	"github.repo_absent": {
+		"body": [
+			"github.repo_absent:",
+			"$0"
+		],
+		"prefix": "github.repo_absent:",
+		"description": "github.repo_absent:"
+	},
+	"github.team_absent": {
+		"body": [
+			"github.team_absent:",
+			"$0"
+		],
+		"prefix": "github.team_absent:",
+		"description": "github.team_absent:"
+	},
+	"github.absent": {
+		"body": [
+			"github.absent:",
+			"$0"
+		],
+		"prefix": "github.absent:",
+		"description": "github.absent:"
+	},
+	"github.present": {
+		"body": [
+			"github.present:",
+			"$0"
+		],
+		"prefix": "github.present:",
+		"description": "github.present:"
+	}
+}

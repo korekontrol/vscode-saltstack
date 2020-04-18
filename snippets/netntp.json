@@ -1,0 +1,10 @@
+{
+	"netntp.managed": {
+		"description": "netntp.managed:",
+		"body": [
+			"netntp.managed:",
+			"$0"
+		],
+		"prefix": "netntp.managed:"
+	}
+}

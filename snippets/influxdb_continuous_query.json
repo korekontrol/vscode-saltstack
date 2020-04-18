@@ -1,0 +1,18 @@
+{
+	"influxdb_continuous_query.absent": {
+		"body": [
+			"influxdb_continuous_query.absent:",
+			"$0"
+		],
+		"prefix": "influxdb_continuous_query.absent:",
+		"description": "influxdb_continuous_query.absent:"
+	},
+	"influxdb_continuous_query.present": {
+		"body": [
+			"influxdb_continuous_query.present:",
+			"$0"
+		],
+		"prefix": "influxdb_continuous_query.present:",
+		"description": "influxdb_continuous_query.present:"
+	}
+}

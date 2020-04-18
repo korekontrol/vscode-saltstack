@@ -1,0 +1,18 @@
+{
+	"postgres_extension.present": {
+		"description": "postgres_extension.present:",
+		"body": [
+			"postgres_extension.present:",
+			"$0"
+		],
+		"prefix": "postgres_extension.present:"
+	},
+	"postgres_extension.absent": {
+		"description": "postgres_extension.absent:",
+		"body": [
+			"postgres_extension.absent:",
+			"$0"
+		],
+		"prefix": "postgres_extension.absent:"
+	}
+}

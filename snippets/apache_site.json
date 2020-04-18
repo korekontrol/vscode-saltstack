@@ -1,0 +1,18 @@
+{
+	"apache_site.enabled": {
+		"body": [
+			"apache_site.enabled:",
+			"$0"
+		],
+		"prefix": "apache_site.enabled:",
+		"description": "apache_site.enabled:"
+	},
+	"apache_site.disabled": {
+		"body": [
+			"apache_site.disabled:",
+			"$0"
+		],
+		"prefix": "apache_site.disabled:",
+		"description": "apache_site.disabled:"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"keystone_service.present": {
+		"body": [
+			"keystone_service.present:",
+			"$0"
+		],
+		"prefix": "keystone_service.present:",
+		"description": "keystone_service.present:"
+	},
+	"keystone_service.absent": {
+		"body": [
+			"keystone_service.absent:",
+			"$0"
+		],
+		"prefix": "keystone_service.absent:",
+		"description": "keystone_service.absent:"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"postgres_database.present": {
+		"description": "postgres_database.present:",
+		"body": [
+			"postgres_database.present:",
+			"$0"
+		],
+		"prefix": "postgres_database.present:"
+	},
+	"postgres_database.absent": {
+		"description": "postgres_database.absent:",
+		"body": [
+			"postgres_database.absent:",
+			"$0"
+		],
+		"prefix": "postgres_database.absent:"
+	}
+}

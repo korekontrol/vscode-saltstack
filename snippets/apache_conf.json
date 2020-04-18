@@ -1,0 +1,18 @@
+{
+	"apache_conf.disabled": {
+		"body": [
+			"apache_conf.disabled:",
+			"$0"
+		],
+		"prefix": "apache_conf.disabled:",
+		"description": "apache_conf.disabled:"
+	},
+	"apache_conf.enabled": {
+		"body": [
+			"apache_conf.enabled:",
+			"$0"
+		],
+		"prefix": "apache_conf.enabled:",
+		"description": "apache_conf.enabled:"
+	}
+}

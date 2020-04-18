@@ -1,0 +1,18 @@
+{
+	"zpool.absent": {
+		"description": "zpool.absent:",
+		"body": [
+			"zpool.absent:",
+			"$0"
+		],
+		"prefix": "zpool.absent:"
+	},
+	"zpool.present": {
+		"description": "zpool.present:",
+		"body": [
+			"zpool.present:",
+			"$0"
+		],
+		"prefix": "zpool.present:"
+	}
+}

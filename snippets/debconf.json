@@ -1,0 +1,18 @@
+{
+	"debconf.set_file": {
+		"body": [
+			"debconf.set_file:",
+			"$0"
+		],
+		"prefix": "debconf.set_file:",
+		"description": "debconf.set_file:"
+	},
+	"debconf.set": {
+		"body": [
+			"debconf.set:",
+			"$0"
+		],
+		"prefix": "debconf.set:",
+		"description": "debconf.set:"
+	}
+}

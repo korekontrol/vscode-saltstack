@@ -1,0 +1,34 @@
+{
+	"esxcluster.vsan_datastore_configured": {
+		"body": [
+			"esxcluster.vsan_datastore_configured:",
+			"$0"
+		],
+		"prefix": "esxcluster.vsan_datastore_configured:",
+		"description": "esxcluster.vsan_datastore_configured:"
+	},
+	"esxcluster.cluster_configured": {
+		"body": [
+			"esxcluster.cluster_configured:",
+			"$0"
+		],
+		"prefix": "esxcluster.cluster_configured:",
+		"description": "esxcluster.cluster_configured:"
+	},
+	"esxcluster.licenses_configured": {
+		"body": [
+			"esxcluster.licenses_configured:",
+			"$0"
+		],
+		"prefix": "esxcluster.licenses_configured:",
+		"description": "esxcluster.licenses_configured:"
+	},
+	"esxcluster.mod_init": {
+		"body": [
+			"esxcluster.mod_init:",
+			"$0"
+		],
+		"prefix": "esxcluster.mod_init:",
+		"description": "esxcluster.mod_init:"
+	}
+}

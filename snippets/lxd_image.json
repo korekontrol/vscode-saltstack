@@ -1,0 +1,18 @@
+{
+	"lxd_image.present": {
+		"description": "lxd_image.present:",
+		"body": [
+			"lxd_image.present:",
+			"$0"
+		],
+		"prefix": "lxd_image.present:"
+	},
+	"lxd_image.absent": {
+		"description": "lxd_image.absent:",
+		"body": [
+			"lxd_image.absent:",
+			"$0"
+		],
+		"prefix": "lxd_image.absent:"
+	}
+}

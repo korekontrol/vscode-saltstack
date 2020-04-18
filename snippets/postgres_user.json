@@ -1,0 +1,18 @@
+{
+	"postgres_user.absent": {
+		"description": "postgres_user.absent:",
+		"body": [
+			"postgres_user.absent:",
+			"$0"
+		],
+		"prefix": "postgres_user.absent:"
+	},
+	"postgres_user.present": {
+		"description": "postgres_user.present:",
+		"body": [
+			"postgres_user.present:",
+			"$0"
+		],
+		"prefix": "postgres_user.present:"
+	}
+}

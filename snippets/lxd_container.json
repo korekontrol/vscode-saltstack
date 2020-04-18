@@ -1,0 +1,50 @@
+{
+	"lxd_container.running": {
+		"description": "lxd_container.running:",
+		"body": [
+			"lxd_container.running:",
+			"$0"
+		],
+		"prefix": "lxd_container.running:"
+	},
+	"lxd_container.present": {
+		"description": "lxd_container.present:",
+		"body": [
+			"lxd_container.present:",
+			"$0"
+		],
+		"prefix": "lxd_container.present:"
+	},
+	"lxd_container.frozen": {
+		"description": "lxd_container.frozen:",
+		"body": [
+			"lxd_container.frozen:",
+			"$0"
+		],
+		"prefix": "lxd_container.frozen:"
+	},
+	"lxd_container.migrated": {
+		"description": "lxd_container.migrated:",
+		"body": [
+			"lxd_container.migrated:",
+			"$0"
+		],
+		"prefix": "lxd_container.migrated:"
+	},
+	"lxd_container.absent": {
+		"description": "lxd_container.absent:",
+		"body": [
+			"lxd_container.absent:",
+			"$0"
+		],
+		"prefix": "lxd_container.absent:"
+	},
+	"lxd_container.stopped": {
+		"description": "lxd_container.stopped:",
+		"body": [
+			"lxd_container.stopped:",
+			"$0"
+		],
+		"prefix": "lxd_container.stopped:"
+	}
+}

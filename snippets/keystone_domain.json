@@ -1,0 +1,18 @@
+{
+	"keystone_domain.present": {
+		"body": [
+			"keystone_domain.present:",
+			"$0"
+		],
+		"prefix": "keystone_domain.present:",
+		"description": "keystone_domain.present:"
+	},
+	"keystone_domain.absent": {
+		"body": [
+			"keystone_domain.absent:",
+			"$0"
+		],
+		"prefix": "keystone_domain.absent:",
+		"description": "keystone_domain.absent:"
+	}
+}

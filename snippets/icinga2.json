@@ -1,0 +1,42 @@
+{
+	"icinga2.node_setup": {
+		"body": [
+			"icinga2.node_setup:",
+			"$0"
+		],
+		"prefix": "icinga2.node_setup:",
+		"description": "icinga2.node_setup:"
+	},
+	"icinga2.request_cert": {
+		"body": [
+			"icinga2.request_cert:",
+			"$0"
+		],
+		"prefix": "icinga2.request_cert:",
+		"description": "icinga2.request_cert:"
+	},
+	"icinga2.generate_ticket": {
+		"body": [
+			"icinga2.generate_ticket:",
+			"$0"
+		],
+		"prefix": "icinga2.generate_ticket:",
+		"description": "icinga2.generate_ticket:"
+	},
+	"icinga2.generate_cert": {
+		"body": [
+			"icinga2.generate_cert:",
+			"$0"
+		],
+		"prefix": "icinga2.generate_cert:",
+		"description": "icinga2.generate_cert:"
+	},
+	"icinga2.save_cert": {
+		"body": [
+			"icinga2.save_cert:",
+			"$0"
+		],
+		"prefix": "icinga2.save_cert:",
+		"description": "icinga2.save_cert:"
+	}
+}

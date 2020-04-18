@@ -1,0 +1,18 @@
+{
+	"aws_sqs.exists": {
+		"body": [
+			"aws_sqs.exists:",
+			"$0"
+		],
+		"prefix": "aws_sqs.exists:",
+		"description": "aws_sqs.exists:"
+	},
+	"aws_sqs.absent": {
+		"body": [
+			"aws_sqs.absent:",
+			"$0"
+		],
+		"prefix": "aws_sqs.absent:",
+		"description": "aws_sqs.absent:"
+	}
+}

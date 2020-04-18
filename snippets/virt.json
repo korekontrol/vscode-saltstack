@@ -1,0 +1,98 @@
+{
+	"virt.pool_running": {
+		"description": "virt.pool_running:",
+		"body": [
+			"virt.pool_running:",
+			"$0"
+		],
+		"prefix": "virt.pool_running:"
+	},
+	"virt.reverted": {
+		"description": "virt.reverted:",
+		"body": [
+			"virt.reverted:",
+			"$0"
+		],
+		"prefix": "virt.reverted:"
+	},
+	"virt.running": {
+		"description": "virt.running:",
+		"body": [
+			"virt.running:",
+			"$0"
+		],
+		"prefix": "virt.running:"
+	},
+	"virt.pool_deleted": {
+		"description": "virt.pool_deleted:",
+		"body": [
+			"virt.pool_deleted:",
+			"$0"
+		],
+		"prefix": "virt.pool_deleted:"
+	},
+	"virt.network_running": {
+		"description": "virt.network_running:",
+		"body": [
+			"virt.network_running:",
+			"$0"
+		],
+		"prefix": "virt.network_running:"
+	},
+	"virt.saved": {
+		"description": "virt.saved:",
+		"body": [
+			"virt.saved:",
+			"$0"
+		],
+		"prefix": "virt.saved:"
+	},
+	"virt.keys": {
+		"description": "virt.keys:",
+		"body": [
+			"virt.keys:",
+			"$0"
+		],
+		"prefix": "virt.keys:"
+	},
+	"virt.powered_off": {
+		"description": "virt.powered_off:",
+		"body": [
+			"virt.powered_off:",
+			"$0"
+		],
+		"prefix": "virt.powered_off:"
+	},
+	"virt.rebooted": {
+		"description": "virt.rebooted:",
+		"body": [
+			"virt.rebooted:",
+			"$0"
+		],
+		"prefix": "virt.rebooted:"
+	},
+	"virt.snapshot": {
+		"description": "virt.snapshot:",
+		"body": [
+			"virt.snapshot:",
+			"$0"
+		],
+		"prefix": "virt.snapshot:"
+	},
+	"virt.unpowered": {
+		"description": "virt.unpowered:",
+		"body": [
+			"virt.unpowered:",
+			"$0"
+		],
+		"prefix": "virt.unpowered:"
+	},
+	"virt.stopped": {
+		"description": "virt.stopped:",
+		"body": [
+			"virt.stopped:",
+			"$0"
+		],
+		"prefix": "virt.stopped:"
+	}
+}

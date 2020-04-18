@@ -1,0 +1,18 @@
+{
+	"pkgrepo.absent": {
+		"description": "pkgrepo.absent:",
+		"body": [
+			"pkgrepo.absent:",
+			"$0"
+		],
+		"prefix": "pkgrepo.absent:"
+	},
+	"pkgrepo.managed": {
+		"description": "pkgrepo.managed:",
+		"body": [
+			"pkgrepo.managed:",
+			"$0"
+		],
+		"prefix": "pkgrepo.managed:"
+	}
+}

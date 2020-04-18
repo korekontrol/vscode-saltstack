@@ -1,0 +1,10 @@
+{
+	"cisconso.value_present": {
+		"body": [
+			"cisconso.value_present:",
+			"$0"
+		],
+		"prefix": "cisconso.value_present:",
+		"description": "cisconso.value_present:"
+	}
+}

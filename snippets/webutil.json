@@ -1,0 +1,18 @@
+{
+	"webutil.user_absent": {
+		"description": "webutil.user_absent:",
+		"body": [
+			"webutil.user_absent:",
+			"$0"
+		],
+		"prefix": "webutil.user_absent:"
+	},
+	"webutil.user_exists": {
+		"description": "webutil.user_exists:",
+		"body": [
+			"webutil.user_exists:",
+			"$0"
+		],
+		"prefix": "webutil.user_exists:"
+	}
+}

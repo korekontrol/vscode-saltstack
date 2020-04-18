@@ -1,0 +1,26 @@
+{
+	"at.absent": {
+		"body": [
+			"at.absent:",
+			"$0"
+		],
+		"prefix": "at.absent:",
+		"description": "at.absent:"
+	},
+	"at.present": {
+		"body": [
+			"at.present:",
+			"$0"
+		],
+		"prefix": "at.present:",
+		"description": "at.present:"
+	},
+	"at.watch": {
+		"body": [
+			"at.watch:",
+			"$0"
+		],
+		"prefix": "at.watch:",
+		"description": "at.watch:"
+	}
+}

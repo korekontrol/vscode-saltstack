@@ -1,0 +1,114 @@
+{
+	"zone.resource_present": {
+		"description": "zone.resource_present:",
+		"body": [
+			"zone.resource_present:",
+			"$0"
+		],
+		"prefix": "zone.resource_present:"
+	},
+	"zone.absent": {
+		"description": "zone.absent:",
+		"body": [
+			"zone.absent:",
+			"$0"
+		],
+		"prefix": "zone.absent:"
+	},
+	"zone.uninstalled": {
+		"description": "zone.uninstalled:",
+		"body": [
+			"zone.uninstalled:",
+			"$0"
+		],
+		"prefix": "zone.uninstalled:"
+	},
+	"zone.halted": {
+		"description": "zone.halted:",
+		"body": [
+			"zone.halted:",
+			"$0"
+		],
+		"prefix": "zone.halted:"
+	},
+	"zone.property_present": {
+		"description": "zone.property_present:",
+		"body": [
+			"zone.property_present:",
+			"$0"
+		],
+		"prefix": "zone.property_present:"
+	},
+	"zone.booted": {
+		"description": "zone.booted:",
+		"body": [
+			"zone.booted:",
+			"$0"
+		],
+		"prefix": "zone.booted:"
+	},
+	"zone.resource_absent": {
+		"description": "zone.resource_absent:",
+		"body": [
+			"zone.resource_absent:",
+			"$0"
+		],
+		"prefix": "zone.resource_absent:"
+	},
+	"zone.present": {
+		"description": "zone.present:",
+		"body": [
+			"zone.present:",
+			"$0"
+		],
+		"prefix": "zone.present:"
+	},
+	"zone.installed": {
+		"description": "zone.installed:",
+		"body": [
+			"zone.installed:",
+			"$0"
+		],
+		"prefix": "zone.installed:"
+	},
+	"zone.property_absent": {
+		"description": "zone.property_absent:",
+		"body": [
+			"zone.property_absent:",
+			"$0"
+		],
+		"prefix": "zone.property_absent:"
+	},
+	"zone.attached": {
+		"description": "zone.attached:",
+		"body": [
+			"zone.attached:",
+			"$0"
+		],
+		"prefix": "zone.attached:"
+	},
+	"zone.import_": {
+		"description": "zone.import_:",
+		"body": [
+			"zone.import_:",
+			"$0"
+		],
+		"prefix": "zone.import_:"
+	},
+	"zone.detached": {
+		"description": "zone.detached:",
+		"body": [
+			"zone.detached:",
+			"$0"
+		],
+		"prefix": "zone.detached:"
+	},
+	"zone.export": {
+		"description": "zone.export:",
+		"body": [
+			"zone.export:",
+			"$0"
+		],
+		"prefix": "zone.export:"
+	}
+}

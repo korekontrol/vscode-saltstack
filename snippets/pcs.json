@@ -1,0 +1,90 @@
+{
+	"pcs.cib_pushed": {
+		"description": "pcs.cib_pushed:",
+		"body": [
+			"pcs.cib_pushed:",
+			"$0"
+		],
+		"prefix": "pcs.cib_pushed:"
+	},
+	"pcs.cluster_node_present": {
+		"description": "pcs.cluster_node_present:",
+		"body": [
+			"pcs.cluster_node_present:",
+			"$0"
+		],
+		"prefix": "pcs.cluster_node_present:"
+	},
+	"pcs.resource_op_defaults_to": {
+		"description": "pcs.resource_op_defaults_to:",
+		"body": [
+			"pcs.resource_op_defaults_to:",
+			"$0"
+		],
+		"prefix": "pcs.resource_op_defaults_to:"
+	},
+	"pcs.stonith_present": {
+		"description": "pcs.stonith_present:",
+		"body": [
+			"pcs.stonith_present:",
+			"$0"
+		],
+		"prefix": "pcs.stonith_present:"
+	},
+	"pcs.auth": {
+		"description": "pcs.auth:",
+		"body": [
+			"pcs.auth:",
+			"$0"
+		],
+		"prefix": "pcs.auth:"
+	},
+	"pcs.cluster_setup": {
+		"description": "pcs.cluster_setup:",
+		"body": [
+			"pcs.cluster_setup:",
+			"$0"
+		],
+		"prefix": "pcs.cluster_setup:"
+	},
+	"pcs.resource_present": {
+		"description": "pcs.resource_present:",
+		"body": [
+			"pcs.resource_present:",
+			"$0"
+		],
+		"prefix": "pcs.resource_present:"
+	},
+	"pcs.cib_present": {
+		"description": "pcs.cib_present:",
+		"body": [
+			"pcs.cib_present:",
+			"$0"
+		],
+		"prefix": "pcs.cib_present:"
+	},
+	"pcs.resource_defaults_to": {
+		"description": "pcs.resource_defaults_to:",
+		"body": [
+			"pcs.resource_defaults_to:",
+			"$0"
+		],
+		"prefix": "pcs.resource_defaults_to:"
+	},
+	"pcs.constraint_present": {
+		"description": "pcs.constraint_present:",
+		"body": [
+			"pcs.constraint_present:",
+			"$0"
+		],
+		"prefix": "pcs.constraint_present:"
+	},
+	"pcs.prop_has_value": {
+		"description": "pcs.prop_has_value:",
+		"body": [
+			"pcs.prop_has_value:",
+			"$0"
+		],
+		"prefix": "pcs.prop_has_value:"
+	}
+}

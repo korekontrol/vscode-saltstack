@@ -1,0 +1,26 @@
+{
+	"wordpress.installed": {
+		"description": "wordpress.installed:",
+		"body": [
+			"wordpress.installed:",
+			"$0"
+		],
+		"prefix": "wordpress.installed:"
+	},
+	"wordpress.deactivated": {
+		"description": "wordpress.deactivated:",
+		"body": [
+			"wordpress.deactivated:",
+			"$0"
+		],
+		"prefix": "wordpress.deactivated:"
+	},
+	"wordpress.activated": {
+		"description": "wordpress.activated:",
+		"body": [
+			"wordpress.activated:",
+			"$0"
+		],
+		"prefix": "wordpress.activated:"
+	}
+}

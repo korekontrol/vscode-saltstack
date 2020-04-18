@@ -1,0 +1,18 @@
+{
+	"neutron_network.absent": {
+		"description": "neutron_network.absent:",
+		"body": [
+			"neutron_network.absent:",
+			"$0"
+		],
+		"prefix": "neutron_network.absent:"
+	},
+	"neutron_network.present": {
+		"description": "neutron_network.present:",
+		"body": [
+			"neutron_network.present:",
+			"$0"
+		],
+		"prefix": "neutron_network.present:"
+	}
+}

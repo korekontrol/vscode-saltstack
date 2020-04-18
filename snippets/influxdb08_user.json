@@ -1,0 +1,18 @@
+{
+	"influxdb08_user.absent": {
+		"body": [
+			"influxdb08_user.absent:",
+			"$0"
+		],
+		"prefix": "influxdb08_user.absent:",
+		"description": "influxdb08_user.absent:"
+	},
+	"influxdb08_user.present": {
+		"body": [
+			"influxdb08_user.present:",
+			"$0"
+		],
+		"prefix": "influxdb08_user.present:",
+		"description": "influxdb08_user.present:"
+	}
+}

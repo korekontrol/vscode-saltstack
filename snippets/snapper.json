@@ -1,0 +1,10 @@
+{
+	"snapper.baseline_snapshot": {
+		"description": "snapper.baseline_snapshot:",
+		"body": [
+			"snapper.baseline_snapshot:",
+			"$0"
+		],
+		"prefix": "snapper.baseline_snapshot:"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"postgres_language.present": {
+		"description": "postgres_language.present:",
+		"body": [
+			"postgres_language.present:",
+			"$0"
+		],
+		"prefix": "postgres_language.present:"
+	},
+	"postgres_language.absent": {
+		"description": "postgres_language.absent:",
+		"body": [
+			"postgres_language.absent:",
+			"$0"
+		],
+		"prefix": "postgres_language.absent:"
+	}
+}

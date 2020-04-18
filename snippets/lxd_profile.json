@@ -1,0 +1,18 @@
+{
+	"lxd_profile.absent": {
+		"description": "lxd_profile.absent:",
+		"body": [
+			"lxd_profile.absent:",
+			"$0"
+		],
+		"prefix": "lxd_profile.absent:"
+	},
+	"lxd_profile.present": {
+		"description": "lxd_profile.present:",
+		"body": [
+			"lxd_profile.present:",
+			"$0"
+		],
+		"prefix": "lxd_profile.present:"
+	}
+}

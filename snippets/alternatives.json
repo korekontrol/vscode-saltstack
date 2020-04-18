@@ -1,34 +1,42 @@
 {
-	"alternatives.auto": {
-		"prefix": "alternatives.auto:",
-		"body": [
-			"alternatives.auto:",
-			"$0"
-		],
-		"description": "alternatives.auto:"
-	},
-	"alternatives.install": {
-		"prefix": "alternatives.install:",
-		"body": [
-			"alternatives.install:",
-			"$0"
-		],
-		"description": "alternatives.install:"
-	},
-	"alternatives.remove": {
-		"prefix": "alternatives.remove:",
-		"body": [
-			"alternatives.remove:",
-			"$0"
-		],
-		"description": "alternatives.remove:"
-	},
 	"alternatives.set": {
-		"prefix": "alternatives.set:",
 		"body": [
 			"alternatives.set:",
 			"$0"
 		],
+		"prefix": "alternatives.set:",
 		"description": "alternatives.set:"
+	},
+	"alternatives.set_": {
+		"body": [
+			"alternatives.set_:",
+			"$0"
+		],
+		"prefix": "alternatives.set_:",
+		"description": "alternatives.set_:"
+	},
+	"alternatives.remove": {
+		"body": [
+			"alternatives.remove:",
+			"$0"
+		],
+		"prefix": "alternatives.remove:",
+		"description": "alternatives.remove:"
+	},
+	"alternatives.auto": {
+		"body": [
+			"alternatives.auto:",
+			"$0"
+		],
+		"prefix": "alternatives.auto:",
+		"description": "alternatives.auto:"
+	},
+	"alternatives.install": {
+		"body": [
+			"alternatives.install:",
+			"$0"
+		],
+		"prefix": "alternatives.install:",
+		"description": "alternatives.install:"
 	}
 }

@@ -1,0 +1,18 @@
+{
+	"rabbitmq_plugin.disabled": {
+		"description": "rabbitmq_plugin.disabled:",
+		"body": [
+			"rabbitmq_plugin.disabled:",
+			"$0"
+		],
+		"prefix": "rabbitmq_plugin.disabled:"
+	},
+	"rabbitmq_plugin.enabled": {
+		"description": "rabbitmq_plugin.enabled:",
+		"body": [
+			"rabbitmq_plugin.enabled:",
+			"$0"
+		],
+		"prefix": "rabbitmq_plugin.enabled:"
+	}
+}

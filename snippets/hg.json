@@ -1,0 +1,10 @@
+{
+	"hg.latest": {
+		"body": [
+			"hg.latest:",
+			"$0"
+		],
+		"prefix": "hg.latest:",
+		"description": "hg.latest:"
+	}
+}

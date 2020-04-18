@@ -1,0 +1,18 @@
+{
+	"kapacitor.task_present": {
+		"body": [
+			"kapacitor.task_present:",
+			"$0"
+		],
+		"prefix": "kapacitor.task_present:",
+		"description": "kapacitor.task_present:"
+	},
+	"kapacitor.task_absent": {
+		"body": [
+			"kapacitor.task_absent:",
+			"$0"
+		],
+		"prefix": "kapacitor.task_absent:",
+		"description": "kapacitor.task_absent:"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"quota.mode": {
+		"description": "quota.mode:",
+		"body": [
+			"quota.mode:",
+			"$0"
+		],
+		"prefix": "quota.mode:"
+	}
+}

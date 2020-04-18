@@ -1,0 +1,18 @@
+{
+	"win_servermanager.removed": {
+		"description": "win_servermanager.removed:",
+		"body": [
+			"win_servermanager.removed:",
+			"$0"
+		],
+		"prefix": "win_servermanager.removed:"
+	},
+	"win_servermanager.installed": {
+		"description": "win_servermanager.installed:",
+		"body": [
+			"win_servermanager.installed:",
+			"$0"
+		],
+		"prefix": "win_servermanager.installed:"
+	}
+}

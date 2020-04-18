@@ -1,0 +1,18 @@
+{
+	"keystone_user.present": {
+		"body": [
+			"keystone_user.present:",
+			"$0"
+		],
+		"prefix": "keystone_user.present:",
+		"description": "keystone_user.present:"
+	},
+	"keystone_user.absent": {
+		"body": [
+			"keystone_user.absent:",
+			"$0"
+		],
+		"prefix": "keystone_user.absent:",
+		"description": "keystone_user.absent:"
+	}
+}

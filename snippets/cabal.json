@@ -1,0 +1,18 @@
+{
+	"cabal.installed": {
+		"body": [
+			"cabal.installed:",
+			"$0"
+		],
+		"prefix": "cabal.installed:",
+		"description": "cabal.installed:"
+	},
+	"cabal.removed": {
+		"body": [
+			"cabal.removed:",
+			"$0"
+		],
+		"prefix": "cabal.removed:",
+		"description": "cabal.removed:"
+	}
+}

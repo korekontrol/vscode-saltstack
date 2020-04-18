@@ -1,0 +1,50 @@
+{
+	"glusterfs.started": {
+		"body": [
+			"glusterfs.started:",
+			"$0"
+		],
+		"prefix": "glusterfs.started:",
+		"description": "glusterfs.started:"
+	},
+	"glusterfs.op_version": {
+		"body": [
+			"glusterfs.op_version:",
+			"$0"
+		],
+		"prefix": "glusterfs.op_version:",
+		"description": "glusterfs.op_version:"
+	},
+	"glusterfs.max_op_version": {
+		"body": [
+			"glusterfs.max_op_version:",
+			"$0"
+		],
+		"prefix": "glusterfs.max_op_version:",
+		"description": "glusterfs.max_op_version:"
+	},
+	"glusterfs.peered": {
+		"body": [
+			"glusterfs.peered:",
+			"$0"
+		],
+		"prefix": "glusterfs.peered:",
+		"description": "glusterfs.peered:"
+	},
+	"glusterfs.add_volume_bricks": {
+		"body": [
+			"glusterfs.add_volume_bricks:",
+			"$0"
+		],
+		"prefix": "glusterfs.add_volume_bricks:",
+		"description": "glusterfs.add_volume_bricks:"
+	},
+	"glusterfs.volume_present": {
+		"body": [
+			"glusterfs.volume_present:",
+			"$0"
+		],
+		"prefix": "glusterfs.volume_present:",
+		"description": "glusterfs.volume_present:"
+	}
+}

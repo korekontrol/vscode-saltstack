@@ -1,0 +1,18 @@
+{
+	"postgres_tablespace.present": {
+		"description": "postgres_tablespace.present:",
+		"body": [
+			"postgres_tablespace.present:",
+			"$0"
+		],
+		"prefix": "postgres_tablespace.present:"
+	},
+	"postgres_tablespace.absent": {
+		"description": "postgres_tablespace.absent:",
+		"body": [
+			"postgres_tablespace.absent:",
+			"$0"
+		],
+		"prefix": "postgres_tablespace.absent:"
+	}
+}

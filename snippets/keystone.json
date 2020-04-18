@@ -1,0 +1,98 @@
+{
+	"keystone.project_present": {
+		"body": [
+			"keystone.project_present:",
+			"$0"
+		],
+		"prefix": "keystone.project_present:",
+		"description": "keystone.project_present:"
+	},
+	"keystone.endpoint_absent": {
+		"body": [
+			"keystone.endpoint_absent:",
+			"$0"
+		],
+		"prefix": "keystone.endpoint_absent:",
+		"description": "keystone.endpoint_absent:"
+	},
+	"keystone.role_present": {
+		"body": [
+			"keystone.role_present:",
+			"$0"
+		],
+		"prefix": "keystone.role_present:",
+		"description": "keystone.role_present:"
+	},
+	"keystone.user_absent": {
+		"body": [
+			"keystone.user_absent:",
+			"$0"
+		],
+		"prefix": "keystone.user_absent:",
+		"description": "keystone.user_absent:"
+	},
+	"keystone.service_absent": {
+		"body": [
+			"keystone.service_absent:",
+			"$0"
+		],
+		"prefix": "keystone.service_absent:",
+		"description": "keystone.service_absent:"
+	},
+	"keystone.project_absent": {
+		"body": [
+			"keystone.project_absent:",
+			"$0"
+		],
+		"prefix": "keystone.project_absent:",
+		"description": "keystone.project_absent:"
+	},
+	"keystone.role_absent": {
+		"body": [
+			"keystone.role_absent:",
+			"$0"
+		],
+		"prefix": "keystone.role_absent:",
+		"description": "keystone.role_absent:"
+	},
+	"keystone.user_present": {
+		"body": [
+			"keystone.user_present:",
+			"$0"
+		],
+		"prefix": "keystone.user_present:",
+		"description": "keystone.user_present:"
+	},
+	"keystone.tenant_absent": {
+		"body": [
+			"keystone.tenant_absent:",
+			"$0"
+		],
+		"prefix": "keystone.tenant_absent:",
+		"description": "keystone.tenant_absent:"
+	},
+	"keystone.endpoint_present": {
+		"body": [
+			"keystone.endpoint_present:",
+			"$0"
+		],
+		"prefix": "keystone.endpoint_present:",
+		"description": "keystone.endpoint_present:"
+	},
+	"keystone.service_present": {
+		"body": [
+			"keystone.service_present:",
+			"$0"
+		],
+		"prefix": "keystone.service_present:",
+		"description": "keystone.service_present:"
+	},
+	"keystone.tenant_present": {
+		"body": [
+			"keystone.tenant_present:",
+			"$0"
+		],
+		"prefix": "keystone.tenant_present:",
+		"description": "keystone.tenant_present:"
+	}
+}

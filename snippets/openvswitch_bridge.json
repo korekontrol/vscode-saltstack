@@ -1,0 +1,18 @@
+{
+	"openvswitch_bridge.absent": {
+		"description": "openvswitch_bridge.absent:",
+		"body": [
+			"openvswitch_bridge.absent:",
+			"$0"
+		],
+		"prefix": "openvswitch_bridge.absent:"
+	},
+	"openvswitch_bridge.present": {
+		"description": "openvswitch_bridge.present:",
+		"body": [
+			"openvswitch_bridge.present:",
+			"$0"
+		],
+		"prefix": "openvswitch_bridge.present:"
+	}
+}

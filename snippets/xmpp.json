@@ -1,0 +1,18 @@
+{
+	"xmpp.send_msg": {
+		"description": "xmpp.send_msg:",
+		"body": [
+			"xmpp.send_msg:",
+			"$0"
+		],
+		"prefix": "xmpp.send_msg:"
+	},
+	"xmpp.send_msg_multi": {
+		"description": "xmpp.send_msg_multi:",
+		"body": [
+			"xmpp.send_msg_multi:",
+			"$0"
+		],
+		"prefix": "xmpp.send_msg_multi:"
+	}
+}

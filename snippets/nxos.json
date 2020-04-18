@@ -1,0 +1,42 @@
+{
+	"nxos.config_present": {
+		"description": "nxos.config_present:",
+		"body": [
+			"nxos.config_present:",
+			"$0"
+		],
+		"prefix": "nxos.config_present:"
+	},
+	"nxos.replace": {
+		"description": "nxos.replace:",
+		"body": [
+			"nxos.replace:",
+			"$0"
+		],
+		"prefix": "nxos.replace:"
+	},
+	"nxos.user_absent": {
+		"description": "nxos.user_absent:",
+		"body": [
+			"nxos.user_absent:",
+			"$0"
+		],
+		"prefix": "nxos.user_absent:"
+	},
+	"nxos.user_present": {
+		"description": "nxos.user_present:",
+		"body": [
+			"nxos.user_present:",
+			"$0"
+		],
+		"prefix": "nxos.user_present:"
+	},
+	"nxos.config_absent": {
+		"description": "nxos.config_absent:",
+		"body": [
+			"nxos.config_absent:",
+			"$0"
+		],
+		"prefix": "nxos.config_absent:"
+	}
+}

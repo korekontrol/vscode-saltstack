@@ -1,0 +1,18 @@
+{
+	"logadm.remove": {
+		"description": "logadm.remove:",
+		"body": [
+			"logadm.remove:",
+			"$0"
+		],
+		"prefix": "logadm.remove:"
+	},
+	"logadm.rotate": {
+		"description": "logadm.rotate:",
+		"body": [
+			"logadm.rotate:",
+			"$0"
+		],
+		"prefix": "logadm.rotate:"
+	}
+}

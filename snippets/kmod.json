@@ -1,0 +1,18 @@
+{
+	"kmod.absent": {
+		"description": "kmod.absent:",
+		"body": [
+			"kmod.absent:",
+			"$0"
+		],
+		"prefix": "kmod.absent:"
+	},
+	"kmod.present": {
+		"description": "kmod.present:",
+		"body": [
+			"kmod.present:",
+			"$0"
+		],
+		"prefix": "kmod.present:"
+	}
+}

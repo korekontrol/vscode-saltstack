@@ -1,0 +1,26 @@
+{
+	"influxdb_retention_policy.absent": {
+		"body": [
+			"influxdb_retention_policy.absent:",
+			"$0"
+		],
+		"prefix": "influxdb_retention_policy.absent:",
+		"description": "influxdb_retention_policy.absent:"
+	},
+	"influxdb_retention_policy.present": {
+		"body": [
+			"influxdb_retention_policy.present:",
+			"$0"
+		],
+		"prefix": "influxdb_retention_policy.present:",
+		"description": "influxdb_retention_policy.present:"
+	},
+	"influxdb_retention_policy.convert_duration": {
+		"body": [
+			"influxdb_retention_policy.convert_duration:",
+			"$0"
+		],
+		"prefix": "influxdb_retention_policy.convert_duration:",
+		"description": "influxdb_retention_policy.convert_duration:"
+	}
+}

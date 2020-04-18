@@ -1,0 +1,18 @@
+{
+	"keystone_project.absent": {
+		"body": [
+			"keystone_project.absent:",
+			"$0"
+		],
+		"prefix": "keystone_project.absent:",
+		"description": "keystone_project.absent:"
+	},
+	"keystone_project.present": {
+		"body": [
+			"keystone_project.present:",
+			"$0"
+		],
+		"prefix": "keystone_project.present:",
+		"description": "keystone_project.present:"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"svn.export": {
+		"description": "svn.export:",
+		"body": [
+			"svn.export:",
+			"$0"
+		],
+		"prefix": "svn.export:"
+	},
+	"svn.latest": {
+		"description": "svn.latest:",
+		"body": [
+			"svn.latest:",
+			"$0"
+		],
+		"prefix": "svn.latest:"
+	},
+	"svn.dirty": {
+		"description": "svn.dirty:",
+		"body": [
+			"svn.dirty:",
+			"$0"
+		],
+		"prefix": "svn.dirty:"
+	}
+}

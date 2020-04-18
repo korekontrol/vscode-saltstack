@@ -1,0 +1,18 @@
+{
+	"lvs_server.absent": {
+		"description": "lvs_server.absent:",
+		"body": [
+			"lvs_server.absent:",
+			"$0"
+		],
+		"prefix": "lvs_server.absent:"
+	},
+	"lvs_server.present": {
+		"description": "lvs_server.present:",
+		"body": [
+			"lvs_server.present:",
+			"$0"
+		],
+		"prefix": "lvs_server.present:"
+	}
+}

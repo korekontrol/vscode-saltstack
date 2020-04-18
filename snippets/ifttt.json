@@ -1,0 +1,10 @@
+{
+	"ifttt.trigger_event": {
+		"body": [
+			"ifttt.trigger_event:",
+			"$0"
+		],
+		"prefix": "ifttt.trigger_event:",
+		"description": "ifttt.trigger_event:"
+	}
+}

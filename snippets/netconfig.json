@@ -1,0 +1,42 @@
+{
+	"netconfig.managed": {
+		"description": "netconfig.managed:",
+		"body": [
+			"netconfig.managed:",
+			"$0"
+		],
+		"prefix": "netconfig.managed:"
+	},
+	"netconfig.saved": {
+		"description": "netconfig.saved:",
+		"body": [
+			"netconfig.saved:",
+			"$0"
+		],
+		"prefix": "netconfig.saved:"
+	},
+	"netconfig.commit_cancelled": {
+		"description": "netconfig.commit_cancelled:",
+		"body": [
+			"netconfig.commit_cancelled:",
+			"$0"
+		],
+		"prefix": "netconfig.commit_cancelled:"
+	},
+	"netconfig.commit_confirmed": {
+		"description": "netconfig.commit_confirmed:",
+		"body": [
+			"netconfig.commit_confirmed:",
+			"$0"
+		],
+		"prefix": "netconfig.commit_confirmed:"
+	},
+	"netconfig.replace_pattern": {
+		"description": "netconfig.replace_pattern:",
+		"body": [
+			"netconfig.replace_pattern:",
+			"$0"
+		],
+		"prefix": "netconfig.replace_pattern:"
+	}
+}

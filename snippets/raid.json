@@ -1,0 +1,18 @@
+{
+	"raid.present": {
+		"description": "raid.present:",
+		"body": [
+			"raid.present:",
+			"$0"
+		],
+		"prefix": "raid.present:"
+	},
+	"raid.absent": {
+		"description": "raid.absent:",
+		"body": [
+			"raid.absent:",
+			"$0"
+		],
+		"prefix": "raid.absent:"
+	}
+}

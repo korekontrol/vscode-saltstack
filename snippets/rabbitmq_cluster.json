@@ -1,0 +1,10 @@
+{
+	"rabbitmq_cluster.joined": {
+		"description": "rabbitmq_cluster.joined:",
+		"body": [
+			"rabbitmq_cluster.joined:",
+			"$0"
+		],
+		"prefix": "rabbitmq_cluster.joined:"
+	}
+}

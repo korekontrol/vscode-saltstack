@@ -1,0 +1,18 @@
+{
+	"rabbitmq_upstream.absent": {
+		"description": "rabbitmq_upstream.absent:",
+		"body": [
+			"rabbitmq_upstream.absent:",
+			"$0"
+		],
+		"prefix": "rabbitmq_upstream.absent:"
+	},
+	"rabbitmq_upstream.present": {
+		"description": "rabbitmq_upstream.present:",
+		"body": [
+			"rabbitmq_upstream.present:",
+			"$0"
+		],
+		"prefix": "rabbitmq_upstream.present:"
+	}
+}

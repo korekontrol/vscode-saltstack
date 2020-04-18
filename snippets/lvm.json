@@ -1,0 +1,50 @@
+{
+	"lvm.vg_absent": {
+		"description": "lvm.vg_absent:",
+		"body": [
+			"lvm.vg_absent:",
+			"$0"
+		],
+		"prefix": "lvm.vg_absent:"
+	},
+	"lvm.lv_present": {
+		"description": "lvm.lv_present:",
+		"body": [
+			"lvm.lv_present:",
+			"$0"
+		],
+		"prefix": "lvm.lv_present:"
+	},
+	"lvm.pv_absent": {
+		"description": "lvm.pv_absent:",
+		"body": [
+			"lvm.pv_absent:",
+			"$0"
+		],
+		"prefix": "lvm.pv_absent:"
+	},
+	"lvm.pv_present": {
+		"description": "lvm.pv_present:",
+		"body": [
+			"lvm.pv_present:",
+			"$0"
+		],
+		"prefix": "lvm.pv_present:"
+	},
+	"lvm.vg_present": {
+		"description": "lvm.vg_present:",
+		"body": [
+			"lvm.vg_present:",
+			"$0"
+		],
+		"prefix": "lvm.vg_present:"
+	},
+	"lvm.lv_absent": {
+		"description": "lvm.lv_absent:",
+		"body": [
+			"lvm.lv_absent:",
+			"$0"
+		],
+		"prefix": "lvm.lv_absent:"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"grafana.dashboard_absent": {
+		"body": [
+			"grafana.dashboard_absent:",
+			"$0"
+		],
+		"prefix": "grafana.dashboard_absent:",
+		"description": "grafana.dashboard_absent:"
+	},
+	"grafana.dashboard_present": {
+		"body": [
+			"grafana.dashboard_present:",
+			"$0"
+		],
+		"prefix": "grafana.dashboard_present:",
+		"description": "grafana.dashboard_present:"
+	}
+}

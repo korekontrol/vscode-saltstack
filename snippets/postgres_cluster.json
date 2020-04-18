@@ -1,0 +1,18 @@
+{
+	"postgres_cluster.absent": {
+		"description": "postgres_cluster.absent:",
+		"body": [
+			"postgres_cluster.absent:",
+			"$0"
+		],
+		"prefix": "postgres_cluster.absent:"
+	},
+	"postgres_cluster.present": {
+		"description": "postgres_cluster.present:",
+		"body": [
+			"postgres_cluster.present:",
+			"$0"
+		],
+		"prefix": "postgres_cluster.present:"
+	}
+}
