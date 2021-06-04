@@ -30,21 +30,11 @@
 				"aliases": [
 					"SaltStack",
 					"salt",
+					"saltcheck",
 					"pillar"
 				],
 				"extensions": [
-					".sls"
-				],
-				"configuration": "./jinja.configuration.json"
-			},
-			{
-				"id": "tst",
-				"aliases": [
-					"SaltStack",
-					"salt",
-					"saltcheck"
-				],
-				"extensions": [
+					".sls",
 					".tst"
 				],
 				"configuration": "./jinja.configuration.json"
