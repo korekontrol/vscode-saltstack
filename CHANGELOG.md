@@ -1,3 +1,9 @@
+## 0.0.9 - 19th October, 2021
+
+* [Roald Nefs (@roaldnefs)](https://github.com/roaldnefs)
+    * Fix VSCode language ID for sls files #14
+
+
 ## 0.0.8 - 18th April, 2020
 
 * [Christian McHugh (@mchugh19)](https://github.com/mchugh19)
